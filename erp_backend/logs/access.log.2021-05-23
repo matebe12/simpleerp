@@ -1,0 +1,596 @@
+2021-05-23 13:39:45 [INFO] - server started on http://localhost:3000
+2021-05-23 13:39:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:16:21 [INFO] - server started on http://localhost:3000
+2021-05-23 14:16:21 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:19:48 [INFO] - server started on http://localhost:3000
+2021-05-23 14:19:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:20:04 [INFO] - server started on http://localhost:3000
+2021-05-23 14:20:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:20:19 [INFO] - server started on http://localhost:3000
+2021-05-23 14:20:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:26:58 [INFO] - server started on http://localhost:3000
+2021-05-23 14:26:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:41:17 [INFO] - server started on http://localhost:3000
+2021-05-23 14:41:17 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:43:04 [INFO] - server started on http://localhost:3000
+2021-05-23 14:43:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:53:27 [INFO] - server started on http://localhost:3000
+2021-05-23 14:53:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 14:53:51 [INFO] - server started on http://localhost:3000
+2021-05-23 14:53:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:08:01 [INFO] - server started on http://localhost:3000
+2021-05-23 15:08:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:09:35 [INFO] - server started on http://localhost:3000
+2021-05-23 15:09:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:12:17 [INFO] - server started on http://localhost:3000
+2021-05-23 15:12:17 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:15:29 [INFO] - server started on http://localhost:3000
+2021-05-23 15:15:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:16:50 [INFO] - server started on http://localhost:3000
+2021-05-23 15:16:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:17:30 [INFO] - server started on http://localhost:3000
+2021-05-23 15:17:30 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:18:02 [INFO] - server started on http://localhost:3000
+2021-05-23 15:18:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:18:11 [INFO] - server started on http://localhost:3000
+2021-05-23 15:18:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:22:45 [INFO] - server started on http://localhost:3000
+2021-05-23 15:22:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:30:01 [INFO] - server started on http://localhost:3000
+2021-05-23 15:30:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:30:42 [INFO] - server started on http://localhost:3000
+2021-05-23 15:30:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:31:34 [ERROR] - getTest: TypeError: Cannot read property 'load' of undefined
+2021-05-23 15:32:27 [INFO] - server started on http://localhost:3000
+2021-05-23 15:32:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:32:29 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error TypeError: Cannot read property 'getPoolConnection' of undefined'
+2021-05-23 15:35:43 [INFO] - server started on http://localhost:3000
+2021-05-23 15:35:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:35:43 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error TypeError: Cannot read property 'getPoolConnection' of undefined'
+2021-05-23 15:37:39 [INFO] - server started on http://localhost:3000
+2021-05-23 15:37:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:38:45 [INFO] - server started on http://localhost:3000
+2021-05-23 15:38:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:38:48 [INFO] - connected ! connection id: 333 -----
+2021-05-23 15:38:48 [INFO] - connected ! connection id: 334 -----
+2021-05-23 15:38:48 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error TypeError: Cannot read property 'getTest' of undefined'
+2021-05-23 15:38:48 [INFO] - exe Disconnected ! connection id: 333 !!
+2021-05-23 15:41:06 [INFO] - server started on http://localhost:3000
+2021-05-23 15:41:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:41:11 [INFO] - connected ! connection id: 383 -----
+2021-05-23 15:41:11 [INFO] - connected ! connection id: 384 -----
+2021-05-23 15:41:11 [INFO] - exe Disconnected ! connection id: 383 !!
+2021-05-23 15:43:39 [INFO] - server started on http://localhost:3000
+2021-05-23 15:43:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:43:44 [INFO] - connected ! connection id: 433 -----
+2021-05-23 15:43:44 [INFO] - connected ! connection id: 434 -----
+2021-05-23 15:43:44 [INFO] - exe Disconnected ! connection id: 433 !!
+2021-05-23 15:46:35 [INFO] - server started on http://localhost:3000
+2021-05-23 15:46:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:46:39 [INFO] - connected ! connection id: 483 -----
+2021-05-23 15:46:39 [INFO] - connected ! connection id: 484 -----
+2021-05-23 15:46:39 [INFO] - exe Disconnected ! connection id: 483 !!
+2021-05-23 15:46:44 [INFO] - connected ! connection id: 485 -----
+2021-05-23 15:46:44 [INFO] - connected ! connection id: 486 -----
+2021-05-23 15:46:44 [INFO] - exe Disconnected ! connection id: 485 !!
+2021-05-23 15:46:59 [INFO] - server started on http://localhost:3000
+2021-05-23 15:46:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:47:07 [INFO] - server started on http://localhost:3000
+2021-05-23 15:47:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:47:11 [INFO] - connected ! connection id: 583 -----
+2021-05-23 15:47:11 [INFO] - connected ! connection id: 584 -----
+2021-05-23 15:47:11 [INFO] - exe Disconnected ! connection id: 583 !!
+2021-05-23 15:48:24 [INFO] - server started on http://localhost:3000
+2021-05-23 15:48:24 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:48:27 [INFO] - connected ! connection id: 633 -----
+2021-05-23 15:48:27 [INFO] - connected ! connection id: 634 -----
+2021-05-23 15:48:27 [INFO] - exe Disconnected ! connection id: 633 !!
+2021-05-23 15:48:44 [INFO] - server started on http://localhost:3000
+2021-05-23 15:48:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:48:44 [INFO] - connected ! connection id: 683 -----
+2021-05-23 15:48:44 [INFO] - connected ! connection id: 684 -----
+2021-05-23 15:48:45 [INFO] - exe Disconnected ! connection id: 683 !!
+2021-05-23 15:49:19 [INFO] - server started on http://localhost:3000
+2021-05-23 15:49:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:49:20 [INFO] - connected ! connection id: 733 -----
+2021-05-23 15:49:20 [INFO] - connected ! connection id: 734 -----
+2021-05-23 15:49:20 [INFO] - exe Disconnected ! connection id: 733 !!
+2021-05-23 15:49:53 [INFO] - server started on http://localhost:3000
+2021-05-23 15:49:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:49:57 [INFO] - connected ! connection id: 783 -----
+2021-05-23 15:49:57 [INFO] - connected ! connection id: 784 -----
+2021-05-23 15:49:57 [INFO] - exe Disconnected ! connection id: 783 !!
+2021-05-23 15:50:39 [INFO] - server started on http://localhost:3000
+2021-05-23 15:50:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:50:41 [INFO] - connected ! connection id: 835 -----
+2021-05-23 15:50:41 [INFO] - connected ! connection id: 836 -----
+2021-05-23 15:50:41 [INFO] - exe Disconnected ! connection id: 835 !!
+2021-05-23 15:50:44 [INFO] - connected ! connection id: 837 -----
+2021-05-23 15:50:44 [INFO] - connected ! connection id: 838 -----
+2021-05-23 15:50:44 [INFO] - exe Disconnected ! connection id: 837 !!
+2021-05-23 15:50:54 [INFO] - connected ! connection id: 839 -----
+2021-05-23 15:50:54 [INFO] - connected ! connection id: 840 -----
+2021-05-23 15:50:54 [INFO] - exe Disconnected ! connection id: 839 !!
+2021-05-23 15:51:26 [INFO] - server started on http://localhost:3000
+2021-05-23 15:51:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:51:29 [INFO] - connected ! connection id: 885 -----
+2021-05-23 15:51:29 [INFO] - connected ! connection id: 886 -----
+2021-05-23 15:51:29 [INFO] - exe Disconnected ! connection id: 885 !!
+2021-05-23 15:51:55 [INFO] - server started on http://localhost:3000
+2021-05-23 15:51:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:52:14 [INFO] - server started on http://localhost:3000
+2021-05-23 15:52:14 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:52:16 [INFO] - connected ! connection id: 985 -----
+2021-05-23 15:52:16 [INFO] - connected ! connection id: 986 -----
+2021-05-23 15:52:16 [ERROR] - getTest: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-05-23 15:52:16 [INFO] - exe Disconnected ! connection id: 985 !!
+2021-05-23 15:52:37 [INFO] - server started on http://localhost:3000
+2021-05-23 15:52:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:52:51 [INFO] - server started on http://localhost:3000
+2021-05-23 15:52:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:52:54 [INFO] - connected ! connection id: 1085 -----
+2021-05-23 15:52:54 [INFO] - connected ! connection id: 1086 -----
+2021-05-23 15:52:54 [INFO] - exe Disconnected ! connection id: 1085 !!
+2021-05-23 15:54:59 [INFO] - server started on http://localhost:3000
+2021-05-23 15:54:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:55:01 [INFO] - connected ! connection id: 1135 -----
+2021-05-23 15:55:01 [INFO] - connected ! connection id: 1136 -----
+2021-05-23 15:55:01 [ERROR] - getTest: ReferenceError: rersults is not defined
+2021-05-23 15:55:01 [INFO] - exe Disconnected ! connection id: 1135 !!
+2021-05-23 15:55:23 [INFO] - server started on http://localhost:3000
+2021-05-23 15:55:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:55:23 [INFO] - connected ! connection id: 1185 -----
+2021-05-23 15:55:23 [INFO] - connected ! connection id: 1186 -----
+2021-05-23 15:55:23 [INFO] - exe Disconnected ! connection id: 1185 !!
+2021-05-23 15:55:51 [INFO] - server started on http://localhost:3000
+2021-05-23 15:55:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:55:52 [INFO] - connected ! connection id: 1235 -----
+2021-05-23 15:55:52 [INFO] - connected ! connection id: 1236 -----
+2021-05-23 15:55:52 [INFO] - exe Disconnected ! connection id: 1235 !!
+2021-05-23 15:56:16 [INFO] - server started on http://localhost:3000
+2021-05-23 15:56:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 15:56:18 [INFO] - connected ! connection id: 1285 -----
+2021-05-23 15:56:18 [INFO] - connected ! connection id: 1286 -----
+2021-05-23 15:56:18 [INFO] - exe Disconnected ! connection id: 1285 !!
+2021-05-23 15:56:52 [INFO] - connected ! connection id: 1287 -----
+2021-05-23 15:56:52 [INFO] - connected ! connection id: 1288 -----
+2021-05-23 15:56:52 [INFO] - exe Disconnected ! connection id: 1287 !!
+2021-05-23 16:01:26 [INFO] - server started on http://localhost:3000
+2021-05-23 16:01:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:01:33 [INFO] - connected ! connection id: 1335 -----
+2021-05-23 16:01:33 [INFO] - connected ! connection id: 1336 -----
+2021-05-23 16:01:33 [INFO] - exe Disconnected ! connection id: 1335 !!
+2021-05-23 16:02:08 [INFO] - server started on http://localhost:3000
+2021-05-23 16:02:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:02:08 [INFO] - connected ! connection id: 1385 -----
+2021-05-23 16:02:08 [INFO] - connected ! connection id: 1386 -----
+2021-05-23 16:02:08 [INFO] - exe Disconnected ! connection id: 1385 !!
+2021-05-23 16:02:10 [INFO] - connected ! connection id: 1387 -----
+2021-05-23 16:02:10 [INFO] - connected ! connection id: 1385 -----
+2021-05-23 16:02:10 [INFO] - exe Disconnected ! connection id: 1387 !!
+2021-05-23 16:02:16 [INFO] - connected ! connection id: 1388 -----
+2021-05-23 16:02:16 [INFO] - connected ! connection id: 1389 -----
+2021-05-23 16:02:16 [INFO] - exe Disconnected ! connection id: 1388 !!
+2021-05-23 16:02:48 [INFO] - server started on http://localhost:3000
+2021-05-23 16:02:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:03:11 [INFO] - connected ! connection id: 1435 -----
+2021-05-23 16:03:11 [INFO] - connected ! connection id: 1436 -----
+2021-05-23 16:03:11 [INFO] - exe Disconnected ! connection id: 1435 !!
+2021-05-23 16:09:04 [INFO] - server started on http://localhost:3000
+2021-05-23 16:09:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:09:23 [INFO] - connected ! connection id: 1485 -----
+2021-05-23 16:09:23 [INFO] - connected ! connection id: 1486 -----
+2021-05-23 16:09:23 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: err is not defined'
+2021-05-23 16:09:23 [INFO] - exe Disconnected ! connection id: 1485 !!
+2021-05-23 16:09:54 [INFO] - server started on http://localhost:3000
+2021-05-23 16:09:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:10:44 [INFO] - server started on http://localhost:3000
+2021-05-23 16:10:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:10:47 [INFO] - connected ! connection id: 1585 -----
+2021-05-23 16:10:47 [INFO] - connected ! connection id: 1586 -----
+2021-05-23 16:10:47 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: err is not defined'
+2021-05-23 16:10:47 [INFO] - exe Disconnected ! connection id: 1585 !!
+2021-05-23 16:10:56 [INFO] - connected ! connection id: 1587 -----
+2021-05-23 16:10:56 [INFO] - connected ! connection id: 1588 -----
+2021-05-23 16:10:56 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: err is not defined'
+2021-05-23 16:10:56 [INFO] - exe Disconnected ! connection id: 1587 !!
+2021-05-23 16:11:07 [INFO] - server started on http://localhost:3000
+2021-05-23 16:11:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:11:09 [INFO] - connected ! connection id: 1635 -----
+2021-05-23 16:11:09 [INFO] - connected ! connection id: 1636 -----
+2021-05-23 16:11:09 [ERROR] - getInventoryFamilyExe: ReferenceError: idx is not defined
+2021-05-23 16:11:09 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: err is not defined'
+2021-05-23 16:11:09 [INFO] - exe Disconnected ! connection id: 1635 !!
+2021-05-23 16:12:22 [INFO] - server started on http://localhost:3000
+2021-05-23 16:12:22 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:13:12 [INFO] - server started on http://localhost:3000
+2021-05-23 16:13:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:13:14 [INFO] - connected ! connection id: 1735 -----
+2021-05-23 16:13:14 [INFO] - connected ! connection id: 1736 -----
+2021-05-23 16:13:14 [ERROR] - getInventoryFamilyExe: ReferenceError: idx is not defined
+2021-05-23 16:13:14 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: err is not defined'
+2021-05-23 16:13:14 [INFO] - exe Disconnected ! connection id: 1735 !!
+2021-05-23 16:14:01 [INFO] - server started on http://localhost:3000
+2021-05-23 16:14:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:14:04 [INFO] - connected ! connection id: 1785 -----
+2021-05-23 16:14:04 [INFO] - connected ! connection id: 1786 -----
+2021-05-23 16:14:04 [ERROR] - getInventoryFamilyExe: ReferenceError: idx is not defined
+2021-05-23 16:14:04 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:14:04 [INFO] - exe Disconnected ! connection id: 1785 !!
+2021-05-23 16:14:22 [INFO] - server started on http://localhost:3000
+2021-05-23 16:14:22 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:14:24 [INFO] - connected ! connection id: 1835 -----
+2021-05-23 16:14:24 [INFO] - connected ! connection id: 1836 -----
+2021-05-23 16:14:24 [ERROR] - getInventoryFamilyExe: ReferenceError: idx is not defined
+2021-05-23 16:14:24 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:14:24 [INFO] - exe Disconnected ! connection id: 1835 !!
+2021-05-23 16:14:42 [INFO] - server started on http://localhost:3000
+2021-05-23 16:14:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:14:53 [INFO] - connected ! connection id: 1885 -----
+2021-05-23 16:14:53 [INFO] - connected ! connection id: 1886 -----
+2021-05-23 16:14:53 [ERROR] - getTestExe: ReferenceError: idx is not defined
+2021-05-23 16:14:53 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:14:53 [INFO] - exe Disconnected ! connection id: 1885 !!
+2021-05-23 16:15:15 [INFO] - server started on http://localhost:3000
+2021-05-23 16:15:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:15:26 [INFO] - connected ! connection id: 1935 -----
+2021-05-23 16:15:26 [INFO] - connected ! connection id: 1936 -----
+2021-05-23 16:15:26 [ERROR] - getTestExe: ReferenceError: idx is not defined
+2021-05-23 16:15:26 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:15:26 [INFO] - exe Disconnected ! connection id: 1935 !!
+2021-05-23 16:16:09 [INFO] - server started on http://localhost:3000
+2021-05-23 16:16:09 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:16:13 [INFO] - connected ! connection id: 1985 -----
+2021-05-23 16:16:13 [INFO] - connected ! connection id: 1986 -----
+2021-05-23 16:16:13 [ERROR] - getTestExe: ReferenceError: idx is not defined
+2021-05-23 16:16:13 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:16:13 [INFO] - exe Disconnected ! connection id: 1985 !!
+2021-05-23 16:16:31 [INFO] - server started on http://localhost:3000
+2021-05-23 16:16:31 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:16:33 [INFO] - connected ! connection id: 2035 -----
+2021-05-23 16:16:33 [INFO] - connected ! connection id: 2036 -----
+2021-05-23 16:16:33 [ERROR] - getTestExe: ReferenceError: idx is not defined
+2021-05-23 16:16:33 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:16:33 [INFO] - exe Disconnected ! connection id: 2035 !!
+2021-05-23 16:16:47 [INFO] - server started on http://localhost:3000
+2021-05-23 16:16:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:16:48 [INFO] - connected ! connection id: 2085 -----
+2021-05-23 16:16:48 [INFO] - connected ! connection id: 2086 -----
+2021-05-23 16:16:48 [ERROR] - getTestExe: ReferenceError: idx is not defined
+2021-05-23 16:16:48 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error ReferenceError: idx is not defined'
+2021-05-23 16:16:48 [INFO] - exe Disconnected ! connection id: 2085 !!
+2021-05-23 16:17:25 [INFO] - server started on http://localhost:3000
+2021-05-23 16:17:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:17:29 [INFO] - connected ! connection id: 2135 -----
+2021-05-23 16:17:29 [INFO] - connected ! connection id: 2136 -----
+2021-05-23 16:17:29 [ERROR] - getTestExe: Error: (conn=2136, no: 1054, SQLState: 42S22) Unknown column 'parents_id' in 'where clause'
+sql: 
+      SELECT * FROM test.new_table where parents_id = 1;
+       - parameters:[]
+2021-05-23 16:17:29 [ERROR] - getTest: TypeError: Cannot create property 'Symbol(level)' on string 'getTestLoader error Error: (conn=2136, no: 1054, SQLState: 42S22) Unknown column 'parents_id' in 'where clause'
+sql: 
+      SELECT * FROM test.new_table where parents_id = 1;
+       - parameters:[]'
+2021-05-23 16:17:29 [INFO] - exe Disconnected ! connection id: 2135 !!
+2021-05-23 16:17:48 [INFO] - server started on http://localhost:3000
+2021-05-23 16:17:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:17:49 [INFO] - connected ! connection id: 2185 -----
+2021-05-23 16:17:49 [INFO] - connected ! connection id: 2186 -----
+2021-05-23 16:17:49 [INFO] - exe Disconnected ! connection id: 2185 !!
+2021-05-23 16:21:48 [INFO] - server started on http://localhost:3000
+2021-05-23 16:21:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:22:19 [INFO] - connected ! connection id: 2235 -----
+2021-05-23 16:22:19 [INFO] - connected ! connection id: 2236 -----
+2021-05-23 16:22:19 [INFO] - exe Disconnected ! connection id: 2235 !!
+2021-05-23 16:22:53 [INFO] - connected ! connection id: 2237 -----
+2021-05-23 16:22:53 [INFO] - connected ! connection id: 2238 -----
+2021-05-23 16:22:53 [INFO] - exe Disconnected ! connection id: 2237 !!
+2021-05-23 16:28:36 [INFO] - server started on http://localhost:3000
+2021-05-23 16:28:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:28:42 [INFO] - connected ! connection id: 2285 -----
+2021-05-23 16:28:42 [INFO] - connected ! connection id: 2286 -----
+2021-05-23 16:28:42 [INFO] - exe Disconnected ! connection id: 2285 !!
+2021-05-23 16:31:47 [INFO] - server started on http://localhost:3000
+2021-05-23 16:31:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:31:56 [INFO] - server started on http://localhost:3000
+2021-05-23 16:31:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:52:39 [INFO] - server started on http://localhost:3000
+2021-05-23 16:52:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:54:14 [INFO] - connected ! connection id: 2435 -----
+2021-05-23 16:54:14 [INFO] - connected ! connection id: 2436 -----
+2021-05-23 16:54:14 [INFO] - exe Disconnected ! connection id: 2435 !!
+2021-05-23 16:54:14 [INFO] - connected ! connection id: 2437 -----
+2021-05-23 16:54:14 [INFO] - connected ! connection id: 2438 -----
+2021-05-23 16:57:10 [INFO] - server started on http://localhost:3000
+2021-05-23 16:57:10 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 16:59:52 [INFO] - connected ! connection id: 2485 -----
+2021-05-23 16:59:52 [INFO] - connected ! connection id: 2486 -----
+2021-05-23 16:59:52 [INFO] - exe Disconnected ! connection id: 2485 !!
+2021-05-23 16:59:52 [INFO] - connected ! connection id: 2487 -----
+2021-05-23 16:59:52 [INFO] - connected ! connection id: 2488 -----
+2021-05-23 17:00:01 [INFO] - connected ! connection id: 2489 -----
+2021-05-23 17:00:01 [INFO] - connected ! connection id: 2490 -----
+2021-05-23 17:00:01 [INFO] - exe Disconnected ! connection id: 2489 !!
+2021-05-23 17:00:01 [INFO] - connected ! connection id: 2491 -----
+2021-05-23 17:00:01 [INFO] - connected ! connection id: 2492 -----
+2021-05-23 17:00:02 [INFO] - connected ! connection id: 2493 -----
+2021-05-23 17:00:02 [INFO] - connected ! connection id: 2494 -----
+2021-05-23 17:00:02 [INFO] - exe Disconnected ! connection id: 2493 !!
+2021-05-23 17:00:02 [INFO] - connected ! connection id: 2495 -----
+2021-05-23 17:00:02 [INFO] - connected ! connection id: 2496 -----
+2021-05-23 17:02:16 [INFO] - server started on http://localhost:3000
+2021-05-23 17:02:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:02:29 [INFO] - connected ! connection id: 2535 -----
+2021-05-23 17:02:29 [INFO] - connected ! connection id: 2536 -----
+2021-05-23 17:02:29 [INFO] - exe Disconnected ! connection id: 2535 !!
+2021-05-23 17:02:29 [INFO] - connected ! connection id: 2537 -----
+2021-05-23 17:02:29 [INFO] - connected ! connection id: 2538 -----
+2021-05-23 17:04:32 [INFO] - connected ! connection id: 2539 -----
+2021-05-23 17:04:32 [INFO] - connected ! connection id: 2540 -----
+2021-05-23 17:04:32 [INFO] - exe Disconnected ! connection id: 2539 !!
+2021-05-23 17:04:32 [INFO] - connected ! connection id: 2541 -----
+2021-05-23 17:04:32 [INFO] - connected ! connection id: 2542 -----
+2021-05-23 17:04:32 [INFO] - connected ! connection id: 2543 -----
+2021-05-23 17:05:23 [INFO] - connected ! connection id: 2544 -----
+2021-05-23 17:05:23 [INFO] - connected ! connection id: 2545 -----
+2021-05-23 17:05:23 [INFO] - exe Disconnected ! connection id: 2544 !!
+2021-05-23 17:05:23 [INFO] - connected ! connection id: 2546 -----
+2021-05-23 17:05:23 [INFO] - connected ! connection id: 2547 -----
+2021-05-23 17:05:23 [INFO] - connected ! connection id: 2548 -----
+2021-05-23 17:05:30 [INFO] - connected ! connection id: 2549 -----
+2021-05-23 17:05:30 [INFO] - connected ! connection id: 2550 -----
+2021-05-23 17:05:30 [INFO] - exe Disconnected ! connection id: 2549 !!
+2021-05-23 17:05:30 [INFO] - connected ! connection id: 2551 -----
+2021-05-23 17:05:30 [INFO] - connected ! connection id: 2552 -----
+2021-05-23 17:05:30 [INFO] - connected ! connection id: 2553 -----
+2021-05-23 17:07:08 [INFO] - server started on http://localhost:3000
+2021-05-23 17:07:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:07:15 [INFO] - connected ! connection id: 2585 -----
+2021-05-23 17:07:15 [INFO] - connected ! connection id: 2586 -----
+2021-05-23 17:07:15 [INFO] - exe Disconnected ! connection id: 2585 !!
+2021-05-23 17:07:15 [INFO] - connected ! connection id: 2587 -----
+2021-05-23 17:07:15 [INFO] - connected ! connection id: 2588 -----
+2021-05-23 17:07:15 [INFO] - connected ! connection id: 2589 -----
+2021-05-23 17:07:40 [INFO] - server started on http://localhost:3000
+2021-05-23 17:07:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:07:43 [INFO] - connected ! connection id: 2635 -----
+2021-05-23 17:07:43 [INFO] - connected ! connection id: 2636 -----
+2021-05-23 17:07:43 [INFO] - exe Disconnected ! connection id: 2635 !!
+2021-05-23 17:07:43 [INFO] - connected ! connection id: 2637 -----
+2021-05-23 17:07:43 [INFO] - connected ! connection id: 2638 -----
+2021-05-23 17:07:43 [INFO] - connected ! connection id: 2639 -----
+2021-05-23 17:07:56 [INFO] - server started on http://localhost:3000
+2021-05-23 17:07:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:07:56 [INFO] - connected ! connection id: 2685 -----
+2021-05-23 17:07:56 [INFO] - connected ! connection id: 2686 -----
+2021-05-23 17:07:56 [INFO] - exe Disconnected ! connection id: 2685 !!
+2021-05-23 17:07:56 [INFO] - connected ! connection id: 2687 -----
+2021-05-23 17:07:56 [INFO] - connected ! connection id: 2685 -----
+2021-05-23 17:07:56 [INFO] - connected ! connection id: 2688 -----
+2021-05-23 17:08:25 [INFO] - connected ! connection id: 2689 -----
+2021-05-23 17:08:25 [INFO] - connected ! connection id: 2690 -----
+2021-05-23 17:08:25 [INFO] - exe Disconnected ! connection id: 2689 !!
+2021-05-23 17:08:25 [INFO] - connected ! connection id: 2691 -----
+2021-05-23 17:08:25 [INFO] - connected ! connection id: 2692 -----
+2021-05-23 17:08:25 [INFO] - connected ! connection id: 2693 -----
+2021-05-23 17:09:04 [INFO] - server started on http://localhost:3000
+2021-05-23 17:09:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:09:05 [INFO] - connected ! connection id: 2735 -----
+2021-05-23 17:09:05 [INFO] - connected ! connection id: 2736 -----
+2021-05-23 17:09:05 [INFO] - exe Disconnected ! connection id: 2735 !!
+2021-05-23 17:09:05 [INFO] - connected ! connection id: 2737 -----
+2021-05-23 17:09:05 [INFO] - connected ! connection id: 2738 -----
+2021-05-23 17:09:05 [INFO] - connected ! connection id: 2739 -----
+2021-05-23 17:09:05 [ERROR] - getTestExe: TypeError: Cannot read property 'idx' of undefined
+2021-05-23 17:09:05 [ERROR] - getTestExe: TypeError: Cannot read property 'idx' of undefined
+2021-05-23 17:09:39 [INFO] - server started on http://localhost:3000
+2021-05-23 17:09:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:09:41 [INFO] - connected ! connection id: 2785 -----
+2021-05-23 17:09:41 [INFO] - connected ! connection id: 2786 -----
+2021-05-23 17:09:41 [INFO] - exe Disconnected ! connection id: 2785 !!
+2021-05-23 17:09:41 [INFO] - connected ! connection id: 2787 -----
+2021-05-23 17:09:41 [INFO] - connected ! connection id: 2788 -----
+2021-05-23 17:09:41 [INFO] - connected ! connection id: 2789 -----
+2021-05-23 17:09:41 [ERROR] - getTestExe: TypeError: Cannot read property 'idx' of undefined
+2021-05-23 17:09:41 [ERROR] - getTestExe: TypeError: Cannot read property 'idx' of undefined
+2021-05-23 17:10:14 [INFO] - server started on http://localhost:3000
+2021-05-23 17:10:14 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:10:15 [INFO] - connected ! connection id: 2835 -----
+2021-05-23 17:10:15 [INFO] - connected ! connection id: 2836 -----
+2021-05-23 17:10:15 [INFO] - exe Disconnected ! connection id: 2835 !!
+2021-05-23 17:10:15 [INFO] - connected ! connection id: 2837 -----
+2021-05-23 17:10:15 [INFO] - connected ! connection id: 2838 -----
+2021-05-23 17:10:15 [INFO] - connected ! connection id: 2839 -----
+2021-05-23 17:19:05 [INFO] - server started on http://localhost:3000
+2021-05-23 17:19:05 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2885 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2886 -----
+2021-05-23 17:19:14 [INFO] - exe Disconnected ! connection id: 2885 !!
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2887 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2888 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2889 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2890 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2891 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2892 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2893 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2894 -----
+2021-05-23 17:19:14 [INFO] - connected ! connection id: 2895 -----
+2021-05-23 17:19:30 [INFO] - server started on http://localhost:3000
+2021-05-23 17:19:30 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:19:30 [INFO] - connected ! connection id: 2935 -----
+2021-05-23 17:19:30 [INFO] - connected ! connection id: 2936 -----
+2021-05-23 17:19:30 [INFO] - exe Disconnected ! connection id: 2935 !!
+2021-05-23 17:19:30 [INFO] - connected ! connection id: 2937 -----
+2021-05-23 17:19:30 [INFO] - connected ! connection id: 2938 -----
+2021-05-23 17:19:30 [INFO] - connected ! connection id: 2939 -----
+2021-05-23 17:19:58 [INFO] - server started on http://localhost:3000
+2021-05-23 17:19:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:19:58 [INFO] - connected ! connection id: 2985 -----
+2021-05-23 17:19:58 [INFO] - connected ! connection id: 2986 -----
+2021-05-23 17:19:58 [INFO] - exe Disconnected ! connection id: 2985 !!
+2021-05-23 17:19:58 [INFO] - connected ! connection id: 2987 -----
+2021-05-23 17:19:58 [INFO] - connected ! connection id: 2985 -----
+2021-05-23 17:19:58 [INFO] - connected ! connection id: 2988 -----
+2021-05-23 17:19:59 [INFO] - connected ! connection id: 2989 -----
+2021-05-23 17:19:59 [INFO] - connected ! connection id: 2990 -----
+2021-05-23 17:19:59 [INFO] - exe Disconnected ! connection id: 2989 !!
+2021-05-23 17:19:59 [INFO] - connected ! connection id: 2991 -----
+2021-05-23 17:19:59 [INFO] - connected ! connection id: 2992 -----
+2021-05-23 17:19:59 [INFO] - connected ! connection id: 2993 -----
+2021-05-23 17:20:18 [INFO] - server started on http://localhost:3000
+2021-05-23 17:20:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:20:20 [INFO] - connected ! connection id: 3035 -----
+2021-05-23 17:20:20 [INFO] - connected ! connection id: 3036 -----
+2021-05-23 17:20:20 [INFO] - exe Disconnected ! connection id: 3035 !!
+2021-05-23 17:23:47 [INFO] - connected ! connection id: 3037 -----
+2021-05-23 17:23:47 [INFO] - connected ! connection id: 3038 -----
+2021-05-23 17:23:47 [INFO] - exe Disconnected ! connection id: 3037 !!
+2021-05-23 17:23:48 [INFO] - connected ! connection id: 3039 -----
+2021-05-23 17:23:48 [INFO] - connected ! connection id: 3040 -----
+2021-05-23 17:23:48 [INFO] - exe Disconnected ! connection id: 3039 !!
+2021-05-23 17:31:42 [INFO] - server started on http://localhost:3000
+2021-05-23 17:31:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:31:50 [INFO] - connected ! connection id: 3085 -----
+2021-05-23 17:31:50 [INFO] - connected ! connection id: 3086 -----
+2021-05-23 17:31:50 [INFO] - exe Disconnected ! connection id: 3085 !!
+2021-05-23 17:31:57 [INFO] - connected ! connection id: 3087 -----
+2021-05-23 17:31:57 [INFO] - connected ! connection id: 3088 -----
+2021-05-23 17:31:57 [INFO] - exe Disconnected ! connection id: 3087 !!
+2021-05-23 17:32:03 [INFO] - connected ! connection id: 3089 -----
+2021-05-23 17:32:03 [INFO] - connected ! connection id: 3090 -----
+2021-05-23 17:32:03 [INFO] - exe Disconnected ! connection id: 3089 !!
+2021-05-23 17:32:38 [INFO] - server started on http://localhost:3000
+2021-05-23 17:32:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:32:38 [INFO] - connected ! connection id: 3135 -----
+2021-05-23 17:32:38 [INFO] - connected ! connection id: 3136 -----
+2021-05-23 17:32:38 [INFO] - exe Disconnected ! connection id: 3135 !!
+2021-05-23 17:32:51 [INFO] - server started on http://localhost:3000
+2021-05-23 17:32:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:32:51 [INFO] - connected ! connection id: 3185 -----
+2021-05-23 17:32:51 [INFO] - connected ! connection id: 3186 -----
+2021-05-23 17:32:51 [INFO] - exe Disconnected ! connection id: 3185 !!
+2021-05-23 17:33:20 [INFO] - server started on http://localhost:3000
+2021-05-23 17:33:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:33:22 [INFO] - connected ! connection id: 3235 -----
+2021-05-23 17:33:22 [INFO] - connected ! connection id: 3236 -----
+2021-05-23 17:33:22 [INFO] - exe Disconnected ! connection id: 3235 !!
+2021-05-23 17:35:47 [INFO] - server started on http://localhost:3000
+2021-05-23 17:35:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:35:58 [INFO] - server started on http://localhost:3000
+2021-05-23 17:35:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:35:59 [INFO] - connected ! connection id: 3335 -----
+2021-05-23 17:35:59 [INFO] - connected ! connection id: 3336 -----
+2021-05-23 17:35:59 [INFO] - exe Disconnected ! connection id: 3335 !!
+2021-05-23 17:35:59 [ERROR] - getTestExe: ReferenceError: conn is not defined
+2021-05-23 17:35:59 [ERROR] - getTestExe: ReferenceError: conn is not defined
+2021-05-23 17:35:59 [ERROR] - getTestExe: ReferenceError: conn is not defined
+2021-05-23 17:36:23 [INFO] - server started on http://localhost:3000
+2021-05-23 17:36:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:36:25 [INFO] - connected ! connection id: 3385 -----
+2021-05-23 17:36:25 [INFO] - connected ! connection id: 3386 -----
+2021-05-23 17:36:25 [INFO] - exe Disconnected ! connection id: 3385 !!
+2021-05-23 17:36:25 [INFO] - connected ! connection id: 3387 -----
+2021-05-23 17:36:25 [INFO] - connected ! connection id: 3388 -----
+2021-05-23 17:36:25 [INFO] - connected ! connection id: 3389 -----
+2021-05-23 17:36:52 [INFO] - server started on http://localhost:3000
+2021-05-23 17:36:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:36:52 [INFO] - connected ! connection id: 3435 -----
+2021-05-23 17:36:52 [INFO] - connected ! connection id: 3436 -----
+2021-05-23 17:36:52 [INFO] - exe Disconnected ! connection id: 3435 !!
+2021-05-23 17:36:52 [INFO] - connected ! connection id: 3437 -----
+2021-05-23 17:36:52 [INFO] - connected ! connection id: 3438 -----
+2021-05-23 17:36:52 [INFO] - connected ! connection id: 3439 -----
+2021-05-23 17:36:52 [ERROR] - getTestExe: Error: (conn=3437, no: 1054, SQLState: 42S22) Unknown column 'parents' in 'where clause'
+sql: SELECT * FROM test.new_table where parents = 4; - parameters:[]
+2021-05-23 17:36:52 [ERROR] - getTestExe: Error: (conn=3438, no: 1054, SQLState: 42S22) Unknown column 'parents' in 'where clause'
+sql: SELECT * FROM test.new_table where parents = 5; - parameters:[]
+2021-05-23 17:36:52 [ERROR] - getTestExe: Error: (conn=3439, no: 1054, SQLState: 42S22) Unknown column 'parents' in 'where clause'
+sql: SELECT * FROM test.new_table where parents = 6; - parameters:[]
+2021-05-23 17:37:04 [INFO] - server started on http://localhost:3000
+2021-05-23 17:37:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:37:05 [INFO] - connected ! connection id: 3485 -----
+2021-05-23 17:37:05 [INFO] - connected ! connection id: 3486 -----
+2021-05-23 17:37:05 [INFO] - exe Disconnected ! connection id: 3485 !!
+2021-05-23 17:37:05 [INFO] - connected ! connection id: 3487 -----
+2021-05-23 17:37:05 [INFO] - connected ! connection id: 3488 -----
+2021-05-23 17:37:05 [INFO] - connected ! connection id: 3489 -----
+2021-05-23 17:38:03 [INFO] - server started on http://localhost:3000
+2021-05-23 17:38:03 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:38:04 [INFO] - connected ! connection id: 3535 -----
+2021-05-23 17:38:04 [INFO] - connected ! connection id: 3536 -----
+2021-05-23 17:38:04 [INFO] - exe Disconnected ! connection id: 3535 !!
+2021-05-23 17:38:04 [INFO] - connected ! connection id: 3537 -----
+2021-05-23 17:38:04 [INFO] - connected ! connection id: 3538 -----
+2021-05-23 17:38:04 [INFO] - connected ! connection id: 3539 -----
+2021-05-23 17:38:28 [INFO] - server started on http://localhost:3000
+2021-05-23 17:38:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:38:31 [INFO] - connected ! connection id: 3585 -----
+2021-05-23 17:38:31 [INFO] - connected ! connection id: 3586 -----
+2021-05-23 17:38:31 [INFO] - exe Disconnected ! connection id: 3585 !!
+2021-05-23 17:38:31 [INFO] - connected ! connection id: 3587 -----
+2021-05-23 17:38:31 [INFO] - connected ! connection id: 3588 -----
+2021-05-23 17:38:31 [INFO] - connected ! connection id: 3589 -----
+2021-05-23 17:39:06 [INFO] - server started on http://localhost:3000
+2021-05-23 17:39:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:39:10 [INFO] - connected ! connection id: 3635 -----
+2021-05-23 17:39:10 [INFO] - connected ! connection id: 3636 -----
+2021-05-23 17:39:11 [INFO] - exe Disconnected ! connection id: 3635 !!
+2021-05-23 17:39:11 [INFO] - connected ! connection id: 3637 -----
+2021-05-23 17:39:11 [INFO] - connected ! connection id: 3638 -----
+2021-05-23 17:39:11 [INFO] - connected ! connection id: 3639 -----
+2021-05-23 17:40:17 [INFO] - server started on http://localhost:3000
+2021-05-23 17:40:17 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:40:17 [INFO] - connected ! connection id: 3685 -----
+2021-05-23 17:40:17 [INFO] - connected ! connection id: 3686 -----
+2021-05-23 17:40:17 [INFO] - exe Disconnected ! connection id: 3685 !!
+2021-05-23 17:40:17 [INFO] - connected ! connection id: 3687 -----
+2021-05-23 17:40:17 [INFO] - connected ! connection id: 3688 -----
+2021-05-23 17:40:17 [INFO] - connected ! connection id: 3689 -----
+2021-05-23 17:40:27 [INFO] - connected ! connection id: 3690 -----
+2021-05-23 17:40:27 [INFO] - connected ! connection id: 3691 -----
+2021-05-23 17:40:28 [INFO] - exe Disconnected ! connection id: 3690 !!
+2021-05-23 17:40:28 [INFO] - connected ! connection id: 3692 -----
+2021-05-23 17:40:28 [INFO] - connected ! connection id: 3693 -----
+2021-05-23 17:40:28 [INFO] - connected ! connection id: 3694 -----
+2021-05-23 17:41:37 [INFO] - server started on http://localhost:3000
+2021-05-23 17:41:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:41:40 [INFO] - connected ! connection id: 3735 -----
+2021-05-23 17:41:40 [INFO] - connected ! connection id: 3736 -----
+2021-05-23 17:41:40 [INFO] - exe Disconnected ! connection id: 3735 !!
+2021-05-23 17:41:40 [INFO] - connected ! connection id: 3737 -----
+2021-05-23 17:41:40 [INFO] - connected ! connection id: 3738 -----
+2021-05-23 17:41:40 [INFO] - connected ! connection id: 3739 -----
+2021-05-23 17:42:35 [INFO] - connected ! connection id: 3740 -----
+2021-05-23 17:42:35 [INFO] - connected ! connection id: 3741 -----
+2021-05-23 17:42:35 [INFO] - exe Disconnected ! connection id: 3740 !!
+2021-05-23 17:42:35 [INFO] - connected ! connection id: 3742 -----
+2021-05-23 17:42:35 [INFO] - connected ! connection id: 3743 -----
+2021-05-23 17:42:35 [INFO] - connected ! connection id: 3744 -----
+2021-05-23 17:43:06 [INFO] - server started on http://localhost:3000
+2021-05-23 17:43:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:43:07 [INFO] - connected ! connection id: 3785 -----
+2021-05-23 17:43:07 [INFO] - connected ! connection id: 3786 -----
+2021-05-23 17:43:07 [INFO] - exe Disconnected ! connection id: 3785 !!
+2021-05-23 17:43:07 [INFO] - connected ! connection id: 3787 -----
+2021-05-23 17:43:07 [INFO] - connected ! connection id: 3788 -----
+2021-05-23 17:43:07 [INFO] - connected ! connection id: 3789 -----
+2021-05-23 17:43:33 [INFO] - server started on http://localhost:3000
+2021-05-23 17:43:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-05-23 17:43:37 [INFO] - connected ! connection id: 3835 -----
+2021-05-23 17:43:37 [INFO] - connected ! connection id: 3836 -----
+2021-05-23 17:43:37 [INFO] - exe Disconnected ! connection id: 3835 !!
+2021-05-23 17:43:37 [INFO] - connected ! connection id: 3837 -----
+2021-05-23 17:43:37 [INFO] - connected ! connection id: 3838 -----
+2021-05-23 17:43:37 [INFO] - connected ! connection id: 3839 -----
+2021-05-23 17:47:10 [INFO] - connected ! connection id: 3840 -----
+2021-05-23 17:47:10 [INFO] - connected ! connection id: 3841 -----
+2021-05-23 17:47:10 [INFO] - exe Disconnected ! connection id: 3840 !!
+2021-05-23 17:47:10 [INFO] - connected ! connection id: 3842 -----
+2021-05-23 17:47:10 [INFO] - connected ! connection id: 3843 -----
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3844 -----
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3845 -----
+2021-05-23 17:47:31 [INFO] - exe Disconnected ! connection id: 3844 !!
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3846 -----
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3847 -----
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3848 -----
+2021-05-23 17:47:31 [INFO] - connected ! connection id: 3849 -----
