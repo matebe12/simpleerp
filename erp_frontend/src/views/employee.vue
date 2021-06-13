@@ -5,17 +5,29 @@
             <v-form ref="form" v-model="valid" lazy-validation>
                 <v-row align="center" justify="center" class="inputfield">
                     <v-col cols="12" sm="6" md="2">
-                        <v-text-field label="아이디" outlined></v-text-field>
+                        <v-text-field
+                            label="아이디"
+                            outlined
+                            v-model="userId"
+                        ></v-text-field>
                     </v-col>
                     <v-col cols="12" sm="6" md="2">
-                        <v-text-field label="이름" outlined></v-text-field>
+                        <v-text-field
+                            label="이름"
+                            outlined
+                            v-model="userNm"
+                        ></v-text-field>
                     </v-col>
                     <v-col cols="12" sm="6" md="2">
-                        <v-text-field label="이메일" outlined></v-text-field>
+                        <v-text-field
+                            label="이메일"
+                            outlined
+                            v-model="userEmail"
+                        ></v-text-field>
                     </v-col>
                     <v-col cols="12" sm="6" md="2">
                         <v-select
-                            v-model="select"
+                            v-model="useYN"
                             :items="items"
                             label="사용여부"
                             outlined
@@ -45,6 +57,8 @@
         </v-card>
         <v-container class="spacing-playground pa-6" fluid>
             <v-row align="end" justify="end" class="btnArea">
+                <h2>total : {{ totalCnt }}</h2>
+                <v-spacer />
                 <v-btn color="error" @click="reset" x-large class="btnm">
                     비밀번호 초기화
                 </v-btn>
@@ -107,7 +121,11 @@
                                 ></v-checkbox>
                             </td>
 
-                            <td class="text-center">{{ item.USER_ID }}</td>
+                            <td class="text-center">
+                                <a href="javascript:void(0);" class="userId">{{
+                                    item.USER_ID
+                                }}</a>
+                            </td>
                             <td class="text-center">{{ item.USER_NM }}</td>
                             <td class="text-center">{{ item.USER_EMAIL }}</td>
                             <td class="text-center">{{ item.USE_YN }}</td>
@@ -128,6 +146,14 @@
         >
             <SignupModal @closeModal="dialog = !dialog" />
         </v-dialog>
+        <div class="text-center">
+            <v-pagination
+                v-model="page"
+                :length="getTotalPage"
+                :total-visible="10"
+                @input="searchEmployee($event)"
+            ></v-pagination>
+        </div>
     </v-container>
 </template>
 
@@ -152,10 +178,18 @@ interface Employees {
     },
 })
 export default class Employee extends Vue {
+    get getTotalPage() {
+        return Math.ceil(this.totalCnt / 10);
+    }
+    totalCnt = 0;
+    userId = '';
+    userNm = '';
+    userEmail = '';
+    useYN = '';
+    page = 1;
     dialog = false;
     valid = true;
     allSelected = false;
-    select = '전체';
     items = ['전체', '사용', '미사용'];
     selected: Employees[] = [];
     employee: Employees[] = [];
@@ -175,18 +209,28 @@ export default class Employee extends Vue {
     resetValidation(): void {
         (this.$refs.form as HTMLFormElement).resetValidation();
     }
-    async searchEmployee(): Promise<void> {
+    async searchEmployee(n: number): Promise<void> {
         try {
-            const result = await getEmployee();
+            console.log(this.page);
+
+            const req = {
+                USER_ID: this.userId,
+                USER_NM: this.userNm,
+                USER_EMAIL: this.userEmail,
+                USE_YN: this.useYN,
+                PAGE: this.page == 1 ? 0 : (this.page - 1) * 10,
+            };
+            const result = await getEmployee(req);
             this.selected = [];
             this.allSelected = false;
-            this.employee = result.data.data.getEmployee;
+            this.employee = result.data.data.getEmployee.Employee;
+            this.totalCnt = result.data.data.getEmployee.TotalCnt;
         } catch (error) {
             console.log(error);
         }
     }
     async created(): Promise<void> {
-        await this.searchEmployee();
+        await this.searchEmployee(0);
     }
 }
 </script>
@@ -205,6 +249,10 @@ export default class Employee extends Vue {
 .btnm {
     margin-left: 1%;
     margin-right: 1%;
+}
+.userId {
+    text-decoration-line: none;
+    color: black;
 }
 ::-webkit-scrollbar {
     width: 15px;
