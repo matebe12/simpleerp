@@ -44,6 +44,32 @@ module.exports = {
         } finally {
         }
     },
+    async getEmployeeOne(conn = mariadb.Connection, { USER_ID }) {
+        try {
+            console.log(USER_ID);
+            await conn.beginTransaction();
+            let result = [];
+            let str = `
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE USER_ID = '${USER_ID}'`;
+            result = await conn.query(str);
+            console.log(result);
+
+            return result;
+        } catch (error) {
+            logger.error('getEmployeeOne: ' + error);
+            throw error;
+        } finally {
+        }
+    },
     async getEmployeeTotal(
         conn = mariadb.Connection,
         { USER_ID, USER_NM, USER_EMAIL, USE_YN, PAGE }
@@ -67,6 +93,7 @@ module.exports = {
                 str += `USE_YN  =  N`;
             }
             result = await conn.query(str);
+            console.log(result);
 
             //console.log(result);
             return result;
@@ -109,6 +136,39 @@ module.exports = {
                     '${USE_YN}',
                     'admin',
                     '${process.env.INIT_PW}')
+            `;
+            result = await conn.query(str);
+            conn.commit();
+            let ss = await conn.query(
+                `select * from toyerp.employee where USER_ID = '${USER_ID}'`
+            );
+            console.log(result);
+            console.log(ss);
+            return result;
+        } catch (error) {
+            logger.error('insertEmployee: ' + error);
+            conn.rollback();
+            throw error;
+        } finally {
+        }
+    },
+    async updateEmployee(
+        conn = mariadb.Connection,
+        { USER_ID, USER_NM, USER_ADDRESS, USER_EMAIL, USER_BIRTH, USE_YN }
+    ) {
+        try {
+            await conn.beginTransaction();
+            let result = [];
+            let str = `
+            
+                UPDATE toyerp.employee
+                SET 
+                USER_NM        =          '${USER_NM}',
+                USER_ADDRESS   =          '${USER_ADDRESS}',
+                USER_EMAIL     =          '${USER_EMAIL}',
+                USER_BIRTH     =          '${USER_BIRTH}',
+                USE_YN         =          '${USE_YN}'
+                WHERE USER_ID = "${USER_ID}"
             `;
             result = await conn.query(str);
             conn.commit();

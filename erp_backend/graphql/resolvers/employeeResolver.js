@@ -22,6 +22,18 @@ const employeeResolver = {
                 if (conn) await db.endPoolConnection(conn);
             }
         },
+        async getEmployeeOne(_, req) {
+            let conn = await db.getPoolConnection();
+            try {
+                const results = await exe.getEmployeeOne(conn, req);
+                return results;
+            } catch (error) {
+                logger.error('getEmployeeOne: ' + error);
+                throw error;
+            } finally {
+                if (conn) await db.endPoolConnection(conn);
+            }
+        },
     },
     Mutation: {
         async checkId(_, req) {
@@ -37,14 +49,19 @@ const employeeResolver = {
                 if (conn) await db.endPoolConnection(conn);
             }
         },
-        async insertEmployee(_, req) {
+        async insertUpdateEmployee(_, req) {
             let conn = await db.getPoolConnection();
             try {
-                const results = await exe.insertEmployee(conn, req);
+                let results;
+                if (!req.IS_UPDATE) {
+                    results = await exe.insertEmployee(conn, req);
+                } else {
+                    results = await exe.updateEmployee(conn, req);
+                }
                 console.log(results);
                 return results.affectedRows;
             } catch (error) {
-                logger.error('insertEmployee: ' + error);
+                logger.error('insertUpdateEmployee: ' + error);
                 throw error;
             } finally {
                 if (conn) await db.endPoolConnection(conn);

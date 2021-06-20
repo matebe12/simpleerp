@@ -9,16 +9,18 @@ const employeeType = gql`
             USE_YN: String
             PAGE: Int
         ): GetEmployee
+        getEmployeeOne(USER_ID: String!): [Employee]
     }
     type Mutation {
         checkId(USER_ID: String): Int
-        insertEmployee(
+        insertUpdateEmployee(
             USER_ID: String!
             USER_NM: String!
             USER_ADDRESS: String
             USER_EMAIL: String
             USER_BIRTH: String
             USE_YN: String!
+            IS_UPDATE: Boolean
         ): Int
     }
     input RequestEmployee {
