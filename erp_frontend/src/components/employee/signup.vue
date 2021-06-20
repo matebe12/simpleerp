@@ -12,10 +12,14 @@
                                 label="*아이디"
                                 required
                                 outlined
-                                v-model="userId"
-                                :rules="validationMixin.idRules"
+                                :readonly="isUpdate"
+                                :value="selectUserId"
+                                ref="userId"
+                                @input="checkId"
                                 :error-messages="
-                                    check ? '중복된 아이디 입니다.' : ''
+                                    check && !isUpdate
+                                        ? '중복된 아이디 입니다.'
+                                        : ''
                                 "
                             ></v-text-field>
                         </v-col>
@@ -108,18 +112,14 @@
                     <v-spacer></v-spacer>
                     <v-btn
                         color="primary"
-                        @click="insertEmployee"
+                        @click="insertUpdateEmployee"
                         large
                         class="btnm"
+                        :disabled="!isFullInput"
                     >
                         등록
                     </v-btn>
-                    <v-btn
-                        color="error"
-                        @click="$emit('closeModal')"
-                        large
-                        class="btnm"
-                    >
+                    <v-btn color="error" @click="closeModal" large class="btnm">
                         닫기
                     </v-btn>
                 </v-card-actions>
@@ -137,11 +137,14 @@
 </template>
 
 <script lang="ts">
-import { Component, Watch, Vue } from 'vue-property-decorator';
-import { VueDaumPostcodePluginOptions } from 'vue-daum-postcode';
+import { Component, Watch, Vue, Prop } from 'vue-property-decorator';
 import { VueDaumPostcode } from 'vue-daum-postcode';
 import validation from '@/mixin/validation';
-import { checkId, insertEmployee } from '@/axios/employeeAPI';
+import {
+    checkId,
+    insertUpdateEmployee,
+    getEmployeeOne,
+} from '@/axios/employeeAPI';
 
 @Component({
     name: 'SignUp',
@@ -150,11 +153,13 @@ import { checkId, insertEmployee } from '@/axios/employeeAPI';
     },
 })
 export default class SignUp extends Vue {
+    @Prop() selectUserId!: { type: string; default: '' };
+    @Prop() isUpdate!: { type: boolean };
     validationMixin: any = new validation();
     picker = false;
     //age: number = 37;
     activePicker = '';
-    userBirth = null;
+    userBirth = '';
     userId = '';
     userName = '';
     userAddr = '';
@@ -164,6 +169,41 @@ export default class SignUp extends Vue {
     isOpen = false;
     valid = true;
     check = 0;
+
+    async bindEmployee(): Promise<void> {
+        console.log('update');
+        try {
+            let result = await getEmployeeOne({ USER_ID: this.selectUserId });
+            let value = result.data.data.getEmployeeOne[0];
+            this.userName = value['USER_NM'];
+            this.userAddr = value['USER_ADDRESS'];
+            this.userBirth = value['USER_BIRTH'];
+            this.userEmail = value['USER_EMAIL'];
+            this.useYN = value['USE_YN'];
+            console.log(result);
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    async created(): Promise<void> {
+        if (this.isUpdate) {
+            console.log('trrr');
+            this.bindEmployee();
+        } else {
+            console.log('fall');
+        }
+    }
+
+    beforeDestroy(): void {
+        console.log('beforedes');
+    }
+
+    get isFullInput(): boolean {
+        if (this.userName && this.useYN && this.valid) return true;
+        else return false;
+    }
+
     @Watch('menu')
     public selectedWatch(val: string): void {
         val && setTimeout(() => (this.activePicker = 'YEAR'));
@@ -177,8 +217,9 @@ export default class SignUp extends Vue {
         this.userAddr = result['address'];
         this.isOpen = false;
     }
-    async insertEmployee(): Promise<void> {
+    async insertUpdateEmployee(): Promise<void> {
         try {
+            this.userId = (this.$refs.userId as HTMLFormElement).value;
             const req = {
                 USER_ID: this.userId,
                 USER_NM: this.userName,
@@ -186,17 +227,40 @@ export default class SignUp extends Vue {
                 USER_EMAIL: this.userEmail,
                 USER_BIRTH: this.userBirth,
                 USE_YN: this.useYN,
+                IS_UPDATE: this.isUpdate,
             };
-            const result = await insertEmployee(req);
+            const result = await insertUpdateEmployee(req);
+            if (result.data.data['insertUpdateEmployee'] == 1) {
+                alert('등록 되었습니다.');
+                this.$emit('searchEmployee');
+            } else {
+                alert('등록에 실패하였습니다. 다시 시도해주세요.');
+            }
+            console.log(result);
         } catch (error) {
             console.error(error);
         }
     }
-    @Watch('userId')
+    //@Watch('selectUserId')
+
     public async checkId(val: string): Promise<any> {
         const result = await checkId({ USER_ID: val });
         this.check = result.data.data.checkId;
         console.log(this.check);
+    }
+    closeModal(): void {
+        this.activePicker = '';
+        this.userBirth = '';
+        this.userId = '';
+        // console.log((this.$refs.userId as HTMLFormElement).value);
+        // (this.$refs.userId as HTMLFormElement).text = '';
+
+        // (this.$refs.userId as HTMLFormElement).value = '';
+        this.userName = '';
+        this.userAddr = '';
+        this.userEmail = '';
+        this.useYN = 'Y';
+        this.$emit('closeModal');
     }
     //openAddr(): void {}
 }

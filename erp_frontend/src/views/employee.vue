@@ -64,7 +64,7 @@
                 </v-btn>
                 <v-btn
                     color="primary"
-                    @click="dialog = !dialog"
+                    @click="onSelectId('', false)"
                     x-large
                     class="btnm"
                 >
@@ -122,9 +122,12 @@
                             </td>
 
                             <td class="text-center">
-                                <a href="javascript:void(0);" class="userId">{{
-                                    item.USER_ID
-                                }}</a>
+                                <a
+                                    href="javascript:void(0);"
+                                    class="userId"
+                                    @click="onSelectId(item.USER_ID, true)"
+                                    >{{ item.USER_ID }}</a
+                                >
                             </td>
                             <td class="text-center">{{ item.USER_NM }}</td>
                             <td class="text-center">{{ item.USER_EMAIL }}</td>
@@ -144,7 +147,14 @@
             max-width="600px"
             transition="dialog-bottom-transition"
         >
-            <SignupModal @closeModal="dialog = !dialog" />
+            <SignupModal
+                ref="employeeModal"
+                v-if="dialog"
+                @closeModal="dialog = !dialog"
+                @searchEmployee="searchEmployee"
+                :selectUserId="this.selectUserId"
+                :isUpdate="this.isUpdate"
+            />
         </v-dialog>
         <div class="text-center">
             <v-pagination
@@ -178,7 +188,7 @@ interface Employees {
     },
 })
 export default class Employee extends Vue {
-    get getTotalPage() {
+    get getTotalPage(): number {
         return Math.ceil(this.totalCnt / 10);
     }
     totalCnt = 0;
@@ -190,6 +200,8 @@ export default class Employee extends Vue {
     dialog = false;
     valid = true;
     allSelected = false;
+    selectUserId = '';
+    isUpdate = false;
     items = ['전체', '사용', '미사용'];
     selected: Employees[] = [];
     employee: Employees[] = [];
@@ -208,6 +220,17 @@ export default class Employee extends Vue {
     }
     resetValidation(): void {
         (this.$refs.form as HTMLFormElement).resetValidation();
+    }
+    async onSelectId(id: string, isUpdate: boolean): Promise<void> {
+        this.selectUserId = id;
+        this.isUpdate = isUpdate;
+        //if (isUpdate) {
+        // await this.$store.dispatch(
+        //     'getEmployeeOneAction',
+        //     this.selectUserId
+        // );
+        //}
+        this.dialog = !this.dialog;
     }
     async searchEmployee(n: number): Promise<void> {
         try {

@@ -1,15 +1,14 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
+import Vue from 'vue';
+import Vuex from 'vuex';
 
-Vue.use(Vuex)
+import employee from '@/store/modules/employee';
+
+Vue.use(Vuex);
+
+console.log(employee);
 
 export default new Vuex.Store({
-  state: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
-  modules: {
-  }
-})
+    modules: {
+        employee,
+    },
+});

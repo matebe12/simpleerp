@@ -31,6 +31,27 @@ async function getEmployee({
     return response;
 }
 
+async function getEmployeeOne({ USER_ID }: any): Promise<any> {
+    const response: AxiosResponse = await AxiosService.instance.post('', {
+        query: `
+    query{
+        getEmployeeOne(USER_ID:"${USER_ID}"){
+                USER_ID
+                USER_NM
+                USER_EMAIL
+                USER_BIRTH
+                USER_ADDRESS
+                USE_YN
+                CREATED_NO
+                CREATED_DT
+        }
+    }
+    
+    `,
+    });
+    return response;
+}
+
 async function checkId({ USER_ID }: any): Promise<any> {
     const response: AxiosResponse = await AxiosService.instance.post('', {
         query: `
@@ -42,22 +63,23 @@ async function checkId({ USER_ID }: any): Promise<any> {
     return response;
 }
 
-async function insertEmployee({
+async function insertUpdateEmployee({
     USER_ID,
     USER_NM,
     USER_EMAIL,
     USE_YN,
     USER_BIRTH,
     USER_ADDRESS,
+    IS_UPDATE,
 }: any): Promise<any> {
     const response: AxiosResponse = await AxiosService.instance.post('', {
         query: `
     mutation{
-        insertEmployee(USER_ID:"${USER_ID}", USER_NM:"${USER_NM}",USER_EMAIL:"${USER_EMAIL}", USE_YN:"${USE_YN}", USER_BIRTH:"${USER_BIRTH}", USER_ADDRESS:"${USER_ADDRESS}")
+        insertUpdateEmployee(USER_ID:"${USER_ID}", USER_NM:"${USER_NM}",USER_EMAIL:"${USER_EMAIL}", USE_YN:"${USE_YN}", USER_BIRTH:"${USER_BIRTH}", USER_ADDRESS:"${USER_ADDRESS}", IS_UPDATE: ${IS_UPDATE})
     }    
     `,
     });
     return response;
 }
 
-export { getEmployee, checkId, insertEmployee };
+export { getEmployee, checkId, insertUpdateEmployee, getEmployeeOne };
