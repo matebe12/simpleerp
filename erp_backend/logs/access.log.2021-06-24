@@ -1,0 +1,244 @@
+2021-06-24 20:34:19 [INFO] - server started on http://localhost:3000
+2021-06-24 20:34:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-06-24 20:36:49 [INFO] - connected ! connection id: 8 -----
+2021-06-24 20:36:49 [INFO] - exe Disconnected ! connection id: 8 !!
+2021-06-24 20:36:53 [INFO] - connected ! connection id: 9 -----
+2021-06-24 20:36:53 [INFO] - exe Disconnected ! connection id: 9 !!
+2021-06-24 20:37:00 [INFO] - connected ! connection id: 10 -----
+2021-06-24 20:37:00 [INFO] - exe Disconnected ! connection id: 10 !!
+2021-06-24 20:37:12 [INFO] - connected ! connection id: 11 -----
+2021-06-24 20:37:12 [INFO] - exe Disconnected ! connection id: 11 !!
+2021-06-24 20:37:13 [INFO] - connected ! connection id: 12 -----
+2021-06-24 20:37:13 [INFO] - exe Disconnected ! connection id: 12 !!
+2021-06-24 20:39:13 [INFO] - connected ! connection id: 13 -----
+2021-06-24 20:39:13 [INFO] - exe Disconnected ! connection id: 13 !!
+2021-06-24 20:39:52 [INFO] - connected ! connection id: 14 -----
+2021-06-24 20:39:52 [INFO] - exe Disconnected ! connection id: 14 !!
+2021-06-24 20:39:56 [INFO] - connected ! connection id: 15 -----
+2021-06-24 20:39:56 [INFO] - exe Disconnected ! connection id: 15 !!
+2021-06-24 20:39:57 [INFO] - connected ! connection id: 16 -----
+2021-06-24 20:39:57 [INFO] - exe Disconnected ! connection id: 16 !!
+2021-06-24 20:41:13 [INFO] - connected ! connection id: 17 -----
+2021-06-24 20:41:13 [INFO] - exe Disconnected ! connection id: 17 !!
+2021-06-24 20:44:16 [INFO] - connected ! connection id: 18 -----
+2021-06-24 20:44:16 [INFO] - exe Disconnected ! connection id: 18 !!
+2021-06-24 20:44:16 [INFO] - connected ! connection id: 19 -----
+2021-06-24 20:44:16 [INFO] - exe Disconnected ! connection id: 19 !!
+2021-06-24 20:44:23 [INFO] - connected ! connection id: 20 -----
+2021-06-24 20:44:23 [INFO] - exe Disconnected ! connection id: 20 !!
+2021-06-24 20:46:43 [INFO] - connected ! connection id: 21 -----
+2021-06-24 20:46:43 [INFO] - exe Disconnected ! connection id: 21 !!
+2021-06-24 20:46:46 [INFO] - connected ! connection id: 22 -----
+2021-06-24 20:46:46 [INFO] - exe Disconnected ! connection id: 22 !!
+2021-06-24 20:48:16 [INFO] - connected ! connection id: 23 -----
+2021-06-24 20:48:16 [INFO] - exe Disconnected ! connection id: 23 !!
+2021-06-24 20:48:19 [INFO] - connected ! connection id: 24 -----
+2021-06-24 20:48:19 [INFO] - exe Disconnected ! connection id: 24 !!
+2021-06-24 20:48:34 [INFO] - connected ! connection id: 25 -----
+2021-06-24 20:48:34 [INFO] - exe Disconnected ! connection id: 25 !!
+2021-06-24 20:52:12 [INFO] - connected ! connection id: 26 -----
+2021-06-24 20:52:12 [INFO] - exe Disconnected ! connection id: 26 !!
+2021-06-24 20:52:15 [INFO] - connected ! connection id: 27 -----
+2021-06-24 20:52:15 [INFO] - exe Disconnected ! connection id: 27 !!
+2021-06-24 20:56:26 [INFO] - connected ! connection id: 28 -----
+2021-06-24 20:56:26 [INFO] - exe Disconnected ! connection id: 28 !!
+2021-06-24 20:58:41 [INFO] - connected ! connection id: 29 -----
+2021-06-24 20:58:41 [ERROR] - getEmployee: Error: (conn=29, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:58:41 [ERROR] - getEmployee: Error: (conn=29, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:58:41 [INFO] - exe Disconnected ! connection id: 29 !!
+2021-06-24 20:58:43 [INFO] - connected ! connection id: 30 -----
+2021-06-24 20:58:43 [INFO] - exe Disconnected ! connection id: 30 !!
+2021-06-24 20:58:55 [INFO] - connected ! connection id: 31 -----
+2021-06-24 20:58:55 [INFO] - exe Disconnected ! connection id: 31 !!
+2021-06-24 20:59:12 [INFO] - connected ! connection id: 32 -----
+2021-06-24 20:59:12 [ERROR] - getEmployee: Error: (conn=32, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:59:12 [ERROR] - getEmployee: Error: (conn=32, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:59:12 [INFO] - exe Disconnected ! connection id: 32 !!
+2021-06-24 20:59:46 [INFO] - connected ! connection id: 33 -----
+2021-06-24 20:59:46 [INFO] - exe Disconnected ! connection id: 33 !!
+2021-06-24 20:59:49 [INFO] - connected ! connection id: 34 -----
+2021-06-24 20:59:49 [ERROR] - getEmployee: Error: (conn=34, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:59:49 [ERROR] - getEmployee: Error: (conn=34, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  NLIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  NLIMIT 0, 10 - parameters:[]
+2021-06-24 20:59:49 [INFO] - exe Disconnected ! connection id: 34 !!
+2021-06-24 21:00:28 [INFO] - server started on http://localhost:3000
+2021-06-24 21:00:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-06-24 21:00:28 [INFO] - connected ! connection id: 58 -----
+2021-06-24 21:00:28 [ERROR] - getEmployee: Error: (conn=58, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  N LIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  N LIMIT 0, 10 - parameters:[]
+2021-06-24 21:00:28 [ERROR] - getEmployee: Error: (conn=58, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  N LIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  N LIMIT 0, 10 - parameters:[]
+2021-06-24 21:00:28 [INFO] - exe Disconnected ! connection id: 58 !!
+2021-06-24 21:01:11 [INFO] - server started on http://localhost:3000
+2021-06-24 21:01:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-06-24 21:01:12 [INFO] - connected ! connection id: 108 -----
+2021-06-24 21:01:12 [ERROR] - getEmployee: Error: (conn=108, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  'N' LIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  'N' LIMIT 0, 10 - parameters:[]
+2021-06-24 21:01:12 [ERROR] - getEmployee: Error: (conn=108, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  'N' LIMIT 0, 10' at line 11
+sql: 
+            SELECT USER_ID,
+            USER_NM,
+            USER_EMAIL,
+            USER_BIRTH,
+            USER_ADDRESS,
+            USE_YN,
+            CREATED_NO,
+            DATE_FORMAT(CREATED_DT, "%Y %c/%e %r") AS CREATED_DT
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  'N' LIMIT 0, 10 - parameters:[]
+2021-06-24 21:01:12 [INFO] - exe Disconnected ! connection id: 108 !!
+2021-06-24 21:03:38 [INFO] - server started on http://localhost:3000
+2021-06-24 21:03:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-06-24 21:03:41 [INFO] - connected ! connection id: 158 -----
+2021-06-24 21:03:41 [ERROR] - getEmployeeTotal: Error: (conn=158, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  N' at line 4
+sql: 
+            SELECT COUNT(*) AS TOTAL
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  N - parameters:[]
+2021-06-24 21:03:41 [ERROR] - getEmployee: Error: (conn=158, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USE_YN  =  N' at line 4
+sql: 
+            SELECT COUNT(*) AS TOTAL
+            FROM toyerp.employee
+            WHERE 1 = 1
+            AND USER_ID LIKE '%%'AND USER_NM LIKE '%%'AND USER_EMAIL LIKE '%%'USE_YN  =  N - parameters:[]
+2021-06-24 21:03:41 [INFO] - exe Disconnected ! connection id: 158 !!
+2021-06-24 21:04:45 [INFO] - server started on http://localhost:3000
+2021-06-24 21:04:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-06-24 21:04:48 [INFO] - connected ! connection id: 208 -----
+2021-06-24 21:04:48 [INFO] - exe Disconnected ! connection id: 208 !!
+2021-06-24 21:04:53 [INFO] - connected ! connection id: 209 -----
+2021-06-24 21:04:53 [INFO] - exe Disconnected ! connection id: 209 !!
+2021-06-24 21:05:16 [INFO] - connected ! connection id: 210 -----
+2021-06-24 21:05:16 [INFO] - exe Disconnected ! connection id: 210 !!
+2021-06-24 21:05:22 [INFO] - connected ! connection id: 211 -----
+2021-06-24 21:05:22 [INFO] - exe Disconnected ! connection id: 211 !!
+2021-06-24 21:05:23 [INFO] - connected ! connection id: 212 -----
+2021-06-24 21:05:23 [INFO] - exe Disconnected ! connection id: 212 !!
+2021-06-24 21:05:25 [INFO] - connected ! connection id: 213 -----
+2021-06-24 21:05:25 [INFO] - exe Disconnected ! connection id: 213 !!
+2021-06-24 21:05:27 [INFO] - connected ! connection id: 214 -----
+2021-06-24 21:05:27 [INFO] - exe Disconnected ! connection id: 214 !!
+2021-06-24 21:06:58 [INFO] - connected ! connection id: 215 -----
+2021-06-24 21:06:58 [INFO] - exe Disconnected ! connection id: 215 !!
+2021-06-24 21:07:20 [INFO] - connected ! connection id: 216 -----
+2021-06-24 21:07:20 [INFO] - exe Disconnected ! connection id: 216 !!
+2021-06-24 22:10:57 [INFO] - connected ! connection id: 311 -----
+2021-06-24 22:10:57 [INFO] - exe Disconnected ! connection id: 311 !!
+2021-06-24 22:11:18 [INFO] - connected ! connection id: 312 -----
+2021-06-24 22:11:18 [INFO] - exe Disconnected ! connection id: 312 !!
+2021-06-24 22:11:28 [INFO] - connected ! connection id: 313 -----
+2021-06-24 22:11:28 [INFO] - exe Disconnected ! connection id: 313 !!
+2021-06-24 22:11:31 [INFO] - connected ! connection id: 314 -----
+2021-06-24 22:11:31 [INFO] - exe Disconnected ! connection id: 314 !!
+2021-06-24 22:14:26 [INFO] - connected ! connection id: 315 -----
+2021-06-24 22:14:26 [INFO] - exe Disconnected ! connection id: 315 !!
+2021-06-24 22:14:37 [INFO] - connected ! connection id: 316 -----
+2021-06-24 22:14:37 [INFO] - exe Disconnected ! connection id: 316 !!
+2021-06-24 22:14:52 [INFO] - connected ! connection id: 317 -----
+2021-06-24 22:14:52 [INFO] - exe Disconnected ! connection id: 317 !!

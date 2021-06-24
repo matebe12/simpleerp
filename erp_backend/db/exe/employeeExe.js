@@ -30,10 +30,10 @@ module.exports = {
             if (!USER_EMAIL) str += `AND USER_EMAIL LIKE '%${USER_EMAIL}%'`;
 
             if (USE_YN == '사용') {
-                str += `USE_YN  =  Y`;
+                str += `AND USE_YN  =  'Y' `;
             }
             if (USE_YN == '미사용') {
-                str += `USE_YN  =  N`;
+                str += `AND USE_YN  =  'N' `;
             }
             str += `LIMIT ${PAGE}, 10`;
             result = await conn.query(str);
@@ -87,10 +87,10 @@ module.exports = {
             if (!USER_EMAIL) str += `AND USER_EMAIL LIKE '%${USER_EMAIL}%'`;
 
             if (USE_YN == '사용') {
-                str += `USE_YN  =  Y`;
+                str += `AND USE_YN  =  'Y'`;
             }
             if (USE_YN == '미사용') {
-                str += `USE_YN  =  N`;
+                str += `AND USE_YN  =  'N'`;
             }
             result = await conn.query(str);
             console.log(result);
