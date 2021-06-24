@@ -37,35 +37,15 @@
             </v-row>
         </v-card>
         <v-container class="spacing-playground pa-6" fluid> </v-container>
-        <v-card class="mx-auto">
-            <v-sheet class="pa-4 primary lighten-2">
-                <v-text-field
-                    v-model="search"
-                    label="코드 검색.."
-                    dark
-                    flat
-                    solo-inverted
-                    hide-details
-                    clearable
-                    clear-icon="mdi-close-circle-outline"
-                ></v-text-field>
-                <!-- <v-checkbox
-                    v-model="caseSensitive"
-                    dark
-                    hide-details
-                    label="Case sensitive search"
-                ></v-checkbox> -->
-            </v-sheet>
-            <v-card-text>
-                <v-treeview
-                    :items="items"
-                    :search="search"
-                    :filter="filter"
-                    :open.sync="open"
-                >
-                </v-treeview>
-            </v-card-text>
-        </v-card>
+        <v-data-table :headers="headers" :items="cosas">
+            <template v-slot:[`item.description`]>
+                <td>
+                    <template>
+                        <v-treeview :items="treeItems"></v-treeview>
+                    </template>
+                </td>
+            </template>
+        </v-data-table>
         <v-dialog
             v-model="dialog"
             persistent
@@ -117,69 +97,91 @@ export default class CommonCode extends Vue {
     employee = '';
     isUpdate = false;
     dialog = false;
-    items = [
+    headers = [
+        { text: 'Name', value: 'name' },
+        { text: 'Description', value: 'description' },
+    ];
+    cosas = [
+        { name: 'Item1', description: 'description1' },
+        { name: 'Item2', description: 'description2' },
+    ];
+    treeItems = [
         {
             id: 1,
-            name: '코드 목록',
+            name: 'Applications :',
             children: [
                 {
                     id: 2,
-                    name: 'Core team',
+                    name: 'Calendar : app',
+                    children: [
+                        { id: 2, name: 'Calendar : app' },
+                        { id: 3, name: 'Chrome : app' },
+                        { id: 4, name: 'Webstorm : app' },
+                    ],
+                },
+                { id: 3, name: 'Chrome : app' },
+                { id: 4, name: 'Webstorm : app' },
+            ],
+        },
+        {
+            id: 5,
+            name: 'Documents :',
+            children: [
+                {
+                    id: 6,
+                    name: 'vuetify :',
                     children: [
                         {
-                            id: 201,
-                            name: 'John',
-                        },
-                        {
-                            id: 202,
-                            name: 'Kael',
-                        },
-                        {
-                            id: 203,
-                            name: 'Nekosaur',
-                        },
-                        {
-                            id: 204,
-                            name: 'Jacek',
-                        },
-                        {
-                            id: 205,
-                            name: 'Andrew',
+                            id: 7,
+                            name: 'src :',
+                            children: [
+                                { id: 8, name: 'index : ts' },
+                                { id: 9, name: 'bootstrap : ts' },
+                            ],
                         },
                     ],
                 },
                 {
-                    id: 3,
-                    name: 'Administrators',
+                    id: 10,
+                    name: 'material2 :',
                     children: [
                         {
-                            id: 301,
-                            name: 'Mike',
-                        },
-                        {
-                            id: 302,
-                            name: 'Hunt',
+                            id: 11,
+                            name: 'src :',
+                            children: [
+                                { id: 12, name: 'v-btn : ts' },
+                                { id: 13, name: 'v-card : ts' },
+                                { id: 14, name: 'v-window : ts' },
+                            ],
                         },
                     ],
                 },
+            ],
+        },
+        {
+            id: 15,
+            name: 'Downloads :',
+            children: [
+                { id: 16, name: 'October : pdf' },
+                { id: 17, name: 'November : pdf' },
+                { id: 18, name: 'Tutorial : html' },
+            ],
+        },
+        {
+            id: 19,
+            name: 'Videos :',
+            children: [
                 {
-                    id: 4,
-                    name: 'Contributors',
+                    id: 20,
+                    name: 'Tutorials :',
                     children: [
-                        {
-                            id: 401,
-                            name: 'Phlow',
-                        },
-                        {
-                            id: 402,
-                            name: 'Brandon',
-                        },
-                        {
-                            id: 403,
-                            name: 'Sean',
-                        },
+                        { id: 21, name: 'Basic layouts : mp4' },
+                        { id: 22, name: 'Advanced techniques : mp4' },
+                        { id: 23, name: 'All about app : dir' },
                     ],
                 },
+                { id: 24, name: 'Intro : mov' },
+                { id: 25, name: 'Conference introduction : avi' },
             ],
         },
     ];
