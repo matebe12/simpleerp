@@ -13,7 +13,7 @@
                 <v-icon large color="white">mdi-home</v-icon>
                 <v-list-item-content>
                     <v-list-item-title class="px-5 title" style="color: white"
-                        >INFOFLA</v-list-item-title
+                        >BACK International</v-list-item-title
                     >
                 </v-list-item-content>
             </v-list-item>
@@ -89,6 +89,17 @@ export default Vue.extend({
                     {
                         title: '직원관리',
                         to: '/employee',
+                    },
+                ],
+            },
+            {
+                title: '코드관리',
+                active: true,
+                icon: 'mdi-qrcode-remove',
+                subItems: [
+                    {
+                        title: '코드관리',
+                        to: '/code',
                     },
                 ],
             },

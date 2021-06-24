@@ -2,58 +2,50 @@
     <v-container class="spacing-playground pa-6" fluid>
         <h1>직원관리</h1>
         <v-card outlined class="spacing-playground pa-6" fluid>
-            <v-form ref="form" v-model="valid" lazy-validation>
-                <v-row align="center" justify="center" class="inputfield">
-                    <v-col cols="12" sm="6" md="2">
-                        <v-text-field
-                            label="아이디"
-                            outlined
-                            v-model="userId"
-                        ></v-text-field>
-                    </v-col>
-                    <v-col cols="12" sm="6" md="2">
-                        <v-text-field
-                            label="이름"
-                            outlined
-                            v-model="userNm"
-                        ></v-text-field>
-                    </v-col>
-                    <v-col cols="12" sm="6" md="2">
-                        <v-text-field
-                            label="이메일"
-                            outlined
-                            v-model="userEmail"
-                        ></v-text-field>
-                    </v-col>
-                    <v-col cols="12" sm="6" md="2">
-                        <v-select
-                            v-model="useYN"
-                            :items="items"
-                            label="사용여부"
-                            outlined
-                        ></v-select>
-                    </v-col>
-                    <v-row align="end" justify="end" class="btnArea">
-                        <v-btn
-                            color="error"
-                            @click="reset"
-                            x-large
-                            class="btnm"
-                        >
-                            초기화
-                        </v-btn>
-                        <v-btn
-                            color="primary"
-                            @click.prevent="searchEmployee"
-                            @click="reset"
-                            x-large
-                            class="btnm"
-                        >
-                            검색
-                        </v-btn>
-                    </v-row>
+            <v-row align="center" justify="center" class="inputfield">
+                <v-col cols="12" sm="6" md="2">
+                    <v-text-field
+                        label="아이디"
+                        outlined
+                        v-model="userId"
+                    ></v-text-field>
+                </v-col>
+                <v-col cols="12" sm="6" md="2">
+                    <v-text-field
+                        label="이름"
+                        outlined
+                        v-model="userNm"
+                    ></v-text-field>
+                </v-col>
+                <v-col cols="12" sm="6" md="2">
+                    <v-text-field
+                        label="이메일"
+                        outlined
+                        v-model="userEmail"
+                    ></v-text-field>
+                </v-col>
+                <v-col cols="12" sm="6" md="2">
+                    <v-select
+                        v-model="useYN"
+                        :items="items"
+                        label="사용여부"
+                        outlined
+                    ></v-select>
+                </v-col>
+                <v-row align="end" justify="end" class="btnArea">
+                    <v-btn color="error" @click="reset" x-large class="btnm">
+                        초기화
+                    </v-btn>
+                    <v-btn
+                        color="primary"
+                        @click.prevent="searchEmployee"
+                        x-large
+                        class="btnm"
+                    >
+                        검색
+                    </v-btn>
                 </v-row>
-            </v-form>
+            </v-row>
         </v-card>
         <v-container class="spacing-playground pa-6" fluid>
             <v-row align="end" justify="end" class="btnArea">
@@ -113,7 +105,11 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr v-for="item in employee" :key="item.USER_ID">
+                        <tr
+                            v-for="(item, index) in employee"
+                            :key="index"
+                            @click="onCheckUser(item)"
+                        >
                             <td>
                                 <v-checkbox
                                     v-model="selected"
@@ -220,6 +216,12 @@ export default class Employee extends Vue {
     }
     resetValidation(): void {
         (this.$refs.form as HTMLFormElement).resetValidation();
+    }
+    onCheckUser(user: Employees): void {
+        //console.log(this.selected.indexOf(user));
+        let index = this.selected.indexOf(user);
+        if (index == -1) this.selected.push(user);
+        else this.selected.splice(index, 1);
     }
     async onSelectId(id: string, isUpdate: boolean): Promise<void> {
         this.selectUserId = id;
