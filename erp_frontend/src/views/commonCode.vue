@@ -27,7 +27,12 @@
                                     mdi-minus
                                 </v-icon>
                             </v-btn>
-                            <v-btn class="mx-2 mb-1" dark color="primary">
+                            <v-btn
+                                class="mx-2 mb-1"
+                                dark
+                                color="primary"
+                                @click="openCodeModal(1)"
+                            >
                                 <v-icon dark>
                                     mdi-plus
                                 </v-icon>
@@ -51,13 +56,26 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
+                                <tr v-for="(item, index) in code1" :key="index">
                                     <td>
-                                        <v-radio></v-radio>
+                                        <v-radio-group
+                                            v-model="selectCode1"
+                                            @change="
+                                                getCodeList(item.CODE_ID, 2)
+                                            "
+                                        >
+                                            <v-radio :value="item"></v-radio>
+                                        </v-radio-group>
                                     </td>
-                                    <td class="text-center">CODE000001</td>
-                                    <td class="text-center">최상위코드</td>
-                                    <td class="text-center">Y</td>
+                                    <td class="text-center">
+                                        {{ item.CODE_ID }}
+                                    </td>
+                                    <td class="text-center">
+                                        {{ item.CODE_NM }}
+                                    </td>
+                                    <td class="text-center">
+                                        {{ item.USE_YN }}
+                                    </td>
                                 </tr>
                             </tbody>
                         </template>
@@ -73,7 +91,11 @@
                                         >- 코드 분류</span
                                     >
                                 </v-flex>
-                                <v-btn class="mx-2 mb-1" color="error" disabled>
+                                <v-btn
+                                    class="mx-2 mb-1"
+                                    color="error"
+                                    :disabled="!isTwo"
+                                >
                                     <v-icon dark>
                                         mdi-minus
                                     </v-icon>
@@ -81,7 +103,7 @@
                                 <v-btn
                                     class="mx-2 mb-1"
                                     color="primary"
-                                    disabled
+                                    :disabled="!isTwo"
                                 >
                                     <v-icon dark>
                                         mdi-plus
@@ -115,17 +137,31 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
+                                    <tr
+                                        v-for="(item, index) in code2"
+                                        :key="index"
+                                    >
                                         <td>
-                                            <v-radio></v-radio>
+                                            <v-radio-group
+                                                v-model="selectCode2"
+                                                @change="
+                                                    getCodeList(item.CODE_ID, 3)
+                                                "
+                                            >
+                                                <v-radio
+                                                    :value="item"
+                                                ></v-radio>
+                                            </v-radio-group>
                                         </td>
                                         <td class="text-center">
-                                            CODE000001
+                                            {{ item.CODE_ID }}
                                         </td>
                                         <td class="text-center">
-                                            중위코드
+                                            {{ item.CODE_NM }}
                                         </td>
-                                        <td class="text-center">Y</td>
+                                        <td class="text-center">
+                                            {{ item.USE_YN }}
+                                        </td>
                                     </tr>
                                 </tbody>
                             </template>
@@ -140,7 +176,11 @@
                                         >- 코드 값</span
                                     >
                                 </v-flex>
-                                <v-btn class="mx-2 mb-3" color="error" disabled>
+                                <v-btn
+                                    class="mx-2 mb-3"
+                                    color="error"
+                                    :disabled="!isThird"
+                                >
                                     <v-icon dark>
                                         mdi-minus
                                     </v-icon>
@@ -148,7 +188,7 @@
                                 <v-btn
                                     class="mx-2 mb-3"
                                     color="primary"
-                                    disabled
+                                    :disabled="!isThird"
                                 >
                                     <v-icon dark>
                                         mdi-plus
@@ -182,17 +222,28 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
+                                    <tr
+                                        v-for="(item, index) in code3"
+                                        :key="index"
+                                    >
                                         <td>
-                                            <v-radio></v-radio>
+                                            <v-radio-group
+                                                v-model="selectCode3"
+                                            >
+                                                <v-radio
+                                                    :value="item"
+                                                ></v-radio>
+                                            </v-radio-group>
                                         </td>
                                         <td class="text-center">
-                                            CODE000001
+                                            {{ item.CODE_ID }}
                                         </td>
                                         <td class="text-center">
-                                            최하위코드
+                                            {{ item.CODE_NM }}
                                         </td>
-                                        <td class="text-center">Y</td>
+                                        <td class="text-center">
+                                            {{ item.USE_YN }}
+                                        </td>
                                     </tr>
                                 </tbody>
                             </template>
@@ -207,13 +258,13 @@
             max-width="600px"
             transition="dialog-bottom-transition"
         >
-            <SignupModal
+            <CodeModal
                 ref="codeModal"
                 v-if="dialog"
                 @closeModal="dialog = !dialog"
-                @searchCode="searchCode"
-                :selectCode="this.selectCode"
-                :isUpdate="this.isUpdate"
+                :selectCode="selectCode"
+                :isUpdate="isUpdate"
+                :level="level"
             />
         </v-dialog>
     </v-container>
@@ -221,120 +272,62 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-
+import CodeModal from '@/components/code/codeModal.vue';
+import { getCodeList, getCodeOne } from '@/axios/code';
 @Component({
     name: 'commoncode',
-    components: {},
+    components: {
+        CodeModal,
+    },
 })
 export default class CommonCode extends Vue {
-    get getTotalPage(): number {
-        return Math.ceil(this.totalCnt / 10);
-    }
-    filter(item: any, search: any): any {
-        return this.caseSensitive
-            ? (item: any, search: any, textKey: string | number) =>
-                  item[textKey].indexOf(search) > -1
-            : undefined;
-    }
-    page = 1;
-    totalCnt = 0;
-    name = '';
     code = '';
-    selectCode = '';
-    employee = '';
+    selectCode1 = {};
+    selectCode2 = {};
+    selectCode3 = {};
     isUpdate = false;
     dialog = false;
-    headers = [
-        { text: 'Name', value: 'name' },
-        { text: 'Description', value: 'description' },
-    ];
-    cosas = [
-        { name: 'Item1', description: 'description1' },
-        { name: 'Item2', description: 'description2' },
-    ];
-    treeItems = [
-        {
-            id: 1,
-            name: 'Applications :',
-            children: [
-                {
-                    id: 2,
-                    name: 'Calendar : app',
-                    children: [
-                        { id: 2, name: 'Calendar : app' },
-                        { id: 3, name: 'Chrome : app' },
-                        { id: 4, name: 'Webstorm : app' },
-                    ],
-                },
-                { id: 3, name: 'Chrome : app' },
-                { id: 4, name: 'Webstorm : app' },
-            ],
-        },
-        {
-            id: 5,
-            name: 'Documents :',
-            children: [
-                {
-                    id: 6,
-                    name: 'vuetify :',
-                    children: [
-                        {
-                            id: 7,
-                            name: 'src :',
-                            children: [
-                                { id: 8, name: 'index : ts' },
-                                { id: 9, name: 'bootstrap : ts' },
-                            ],
-                        },
-                    ],
-                },
-                {
-                    id: 10,
-                    name: 'material2 :',
-                    children: [
-                        {
-                            id: 11,
-                            name: 'src :',
-                            children: [
-                                { id: 12, name: 'v-btn : ts' },
-                                { id: 13, name: 'v-card : ts' },
-                                { id: 14, name: 'v-window : ts' },
-                            ],
-                        },
-                    ],
-                },
-            ],
-        },
-        {
-            id: 15,
-            name: 'Downloads :',
-            children: [
-                { id: 16, name: 'October : pdf' },
-                { id: 17, name: 'November : pdf' },
-                { id: 18, name: 'Tutorial : html' },
-            ],
-        },
-        {
-            id: 19,
-            name: 'Videos :',
-            children: [
-                {
-                    id: 20,
-                    name: 'Tutorials :',
-                    children: [
-                        { id: 21, name: 'Basic layouts : mp4' },
-                        { id: 22, name: 'Advanced techniques : mp4' },
-                        { id: 23, name: 'All about app : dir' },
-                    ],
-                },
-                { id: 24, name: 'Intro : mov' },
-                { id: 25, name: 'Conference introduction : avi' },
-            ],
-        },
-    ];
-    open = [1, 2];
-    search = null;
-    caseSensitive = false;
+    level = 0;
+    code1 = [];
+    code2 = [];
+    code3 = [];
+    isThird = false;
+    isTwo = false;
+    openCodeModal(level: number): void {
+        this.level = level;
+        this.dialog = true;
+    }
+    async getCodeList(parent: string, level: number): Promise<void> {
+        try {
+            console.log(parent);
+
+            const result = await getCodeList({ PARENT_CODE: parent });
+            console.log(result.data.data.getCodeList);
+            switch (level) {
+                case 1:
+                    this.code1 = result.data.data.getCodeList;
+                    this.isTwo = false;
+                    this.isThird = false;
+                    break;
+                case 2:
+                    this.code2 = [];
+                    this.code3 = [];
+                    this.code2 = result.data.data.getCodeList;
+                    this.isTwo = true;
+                    this.isThird = false;
+                    break;
+                case 3:
+                    this.code3 = result.data.data.getCodeList;
+                    this.isThird = true;
+                    break;
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    }
+    async created(): Promise<void> {
+        this.getCodeList('root', 1);
+    }
 }
 </script>
 
