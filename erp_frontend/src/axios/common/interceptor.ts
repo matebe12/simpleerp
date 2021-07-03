@@ -1,3 +1,5 @@
+import store from '@/store/index';
+
 export function setInterceptors(instance: {
     interceptors: {
         request: {
@@ -18,13 +20,13 @@ export function setInterceptors(instance: {
     instance.interceptors.request.use(
         function(config) {
             // Do something before request is sent
-            // console.log(config);
-            //store.state.loading = true;
+            console.log('store.state.loading.loading');
+            store.state.loading.loading = true;
             //config.headers.Authorization = store.state.user.USER_TOKEN;
             return config;
         },
         function(error) {
-            //store.state.loading = false;
+            setTimeout(() => (store.state.loading.loading = false), 1000);
             // Do something with request error
             return Promise.reject(error);
         }
@@ -35,13 +37,15 @@ export function setInterceptors(instance: {
         function(response) {
             // Any status code that lie within the range of 2xx cause this function to trigger
             // Do something with response data
-            //store.state.loading = false;
+            setTimeout(() => (store.state.loading.loading = false), 1000);
+
             return response;
         },
         function(error) {
             // Any status codes that falls outside the range of 2xx cause this function to trigger
             // Do something with response error
-            //store.state.loading = false;
+            setTimeout(() => (store.state.loading.loading = false), 1000);
+
             return Promise.reject(error);
         }
     );

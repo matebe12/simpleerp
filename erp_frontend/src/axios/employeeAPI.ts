@@ -1,5 +1,4 @@
-import AxiosService from './index';
-import AxiosResponse from './index';
+import instance from './index';
 
 async function getEmployee({
     USER_ID,
@@ -8,7 +7,7 @@ async function getEmployee({
     USE_YN,
     PAGE,
 }: any): Promise<any> {
-    const response: AxiosResponse = await AxiosService.instance.post('', {
+    const response = await instance.post('', {
         query: `
     query{
         getEmployee(USER_ID:"${USER_ID}", USER_NM:"${USER_NM}",USER_EMAIL:"${USER_EMAIL}", USE_YN:"${USE_YN}",PAGE:${PAGE}){
@@ -32,7 +31,7 @@ async function getEmployee({
 }
 
 async function getEmployeeOne({ USER_ID }: any): Promise<any> {
-    const response: AxiosResponse = await AxiosService.instance.post('', {
+    const response = await instance.post('', {
         query: `
     query{
         getEmployeeOne(USER_ID:"${USER_ID}"){
@@ -53,7 +52,7 @@ async function getEmployeeOne({ USER_ID }: any): Promise<any> {
 }
 
 async function checkId({ USER_ID }: any): Promise<any> {
-    const response: AxiosResponse = await AxiosService.instance.post('', {
+    const response = await instance.post('', {
         query: `
     mutation{
         checkId(USER_ID:"${USER_ID}")
@@ -72,7 +71,7 @@ async function insertUpdateEmployee({
     USER_ADDRESS,
     IS_UPDATE,
 }: any): Promise<any> {
-    const response: AxiosResponse = await AxiosService.instance.post('', {
+    const response = await instance.post('', {
         query: `
     mutation{
         insertUpdateEmployee(USER_ID:"${USER_ID}", USER_NM:"${USER_NM}",USER_EMAIL:"${USER_EMAIL}", USE_YN:"${USE_YN}", USER_BIRTH:"${USER_BIRTH}", USER_ADDRESS:"${USER_ADDRESS}", IS_UPDATE: ${IS_UPDATE})

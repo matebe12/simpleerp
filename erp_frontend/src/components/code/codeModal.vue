@@ -15,6 +15,7 @@
                             item-text="name"
                             item-value="value"
                             label="대분류"
+                            :disabled="isUpdate || level >= 2"
                             @change="getCodeList(select1, 2)"
                             outlined
                         ></v-select>
@@ -22,7 +23,7 @@
 
                     <v-col cols="12" sm="6" md="4">
                         <v-select
-                            :disabled="select1 == '1'"
+                            :disabled="select1 == '1' || isUpdate || level >= 2"
                             v-model="select2"
                             :items="items2"
                             item-text="name"
@@ -38,7 +39,7 @@
                             label="*코드 아이디"
                             required
                             outlined
-                            :readonly="select1 != 1"
+                            :readonly="select1 != 1 || !isUpdate"
                             v-model="codeId"
                             @input="checkCodeId"
                             :error-messages="
@@ -80,8 +81,19 @@
                         large
                         class="btnm"
                         :disabled="!isFullInput"
+                        v-if="!isUpdate"
                     >
                         등록
+                    </v-btn>
+                    <v-btn
+                        color="primary"
+                        @click="insertUpdateCode"
+                        large
+                        class="btnm"
+                        :disabled="!isFullInput"
+                        v-else
+                    >
+                        수정
                     </v-btn>
                     <v-btn color="error" @click="closeModal" large class="btnm">
                         닫기
@@ -105,9 +117,10 @@ import {
     name: 'CodeModal',
 })
 export default class CodeModal extends Vue {
-    @Prop() selectCode!: { type: string; default: '' };
+    @Prop() selectCode!: any;
     @Prop() isUpdate!: { type: boolean };
     @Prop() level!: number;
+    @Prop() updatecode!: any;
     select1 = '1';
     select2 = '1';
     items1 = [{ name: '입력', value: '1' }];
@@ -123,9 +136,27 @@ export default class CodeModal extends Vue {
     }
     async created(): Promise<void> {
         if (this.level == 1) {
-            this.select1 = '';
+            this.select1 = '1';
             try {
                 await this.getCodeList('root', 1);
+            } catch (error) {
+                console.log(error);
+            }
+        } else if (this.level == 2) {
+            this.select1 = this.selectCode;
+            try {
+                console.log(this.selectCode['CODE_ID']);
+
+                await this.getCodeList(this.selectCode['CODE_ID'], 2);
+            } catch (error) {
+                console.log(error);
+            }
+        } else {
+            this.select2 = this.selectCode;
+            try {
+                console.log(this.selectCode['CODE_ID']);
+
+                await this.getCodeList(this.selectCode['CODE_ID'], 3);
             } catch (error) {
                 console.log(error);
             }
@@ -135,17 +166,33 @@ export default class CodeModal extends Vue {
     public async getCodeList(parent_code: any, level: number): Promise<any> {
         console.log(parent_code);
 
-        const result = await getCodeList({ PARENT_CODE: parent_code });
-        let list = result.data.data.getCodeList;
-        if (level == 1) {
-            this.items1 = [{ name: '입력', value: '1' }];
-            for (let i = 0; i < list.length; i++) {
-                this.items1.push({
-                    name: list[i]['CODE_NM'],
-                    value: list[i]['CODE_ID'],
-                });
-            }
-        } else if (level == 2) {
+        const result1 = await getCodeList({ PARENT_CODE: 'root' });
+        let list = result1.data.data.getCodeList;
+        this.items1 = [{ name: '입력', value: '1' }];
+        for (let i = 0; i < list.length; i++) {
+            this.items1.push({
+                name: list[i]['CODE_NM'],
+                value: list[i]['CODE_ID'],
+            });
+        }
+        if (this.isUpdate) {
+            this.codeId = this.updatecode['CODE_TYPE'];
+            this.codeNm = this.updatecode['CODE_NM'];
+        }
+        if (level == 1 && this.isUpdate) {
+            this.select1 = this.updatecode['CODE_ID'];
+        }
+        if (level == 2) {
+            const child = await getCodeOne({ CODE_ID: parent_code });
+            let parent1 = child.data.data.getCodeOne[0];
+            this.select1 = parent1['CODE_ID'];
+            this.codeId = child.data.data.getCodeOne[0]['CODE_TYPE'];
+        } else if (level == 3) {
+            const child = await getCodeOne({ CODE_ID: parent_code });
+            let parent1 = child.data.data.getCodeOne[0];
+            this.select1 = parent1['PARENT_CODE'];
+            const result2 = await getCodeList({ PARENT_CODE: this.select1 });
+            let list = result2.data.data.getCodeList;
             this.items2 = [{ name: '입력', value: '1' }];
             for (let i = 0; i < list.length; i++) {
                 this.items2.push({
@@ -153,9 +200,7 @@ export default class CodeModal extends Vue {
                     value: list[i]['CODE_ID'],
                 });
             }
-            const child = await getCodeOne({ CODE_ID: parent_code });
-            console.log(child.data.data.getCodeOne[0]['CODE_ID']);
-
+            this.select2 = parent1['CODE_ID'];
             this.codeId = child.data.data.getCodeOne[0]['CODE_TYPE'];
         }
         console.log(list);
@@ -200,10 +245,18 @@ export default class CodeModal extends Vue {
                 USE_YN: this.useYN,
                 IS_UPDATE: this.isUpdate,
             };
+            if (this.updatecode) req.CODE_ID = this.updatecode['CODE_ID'];
+            if (this.updatecode && this.level == 1) req.PARENT_CODE = 'root';
             const result = await insertUpdateCode(req);
+            let level = 1;
+            if (this.select1 != '1' && this.select2 == '1' && !this.isUpdate)
+                level = 2;
+            else if (this.select2 != '1' && !this.isUpdate) level = 3;
+            console.log(level);
+
             if (result.data.data['insertUpdateCode'] == 1) {
                 alert('등록 되었습니다.');
-                this.$emit('searchEmployee');
+                this.$emit('getCodeList', req.PARENT_CODE, this.level);
             } else {
                 alert('등록에 실패하였습니다. 다시 시도해주세요.');
             }
