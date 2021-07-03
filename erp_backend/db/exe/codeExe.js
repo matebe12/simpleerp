@@ -98,34 +98,58 @@ module.exports = {
         } finally {
         }
     },
-    async updateEmployee(
+    async updateCode(
         conn = mariadb.Connection,
-        { USER_ID, USER_NM, USER_ADDRESS, USER_EMAIL, USER_BIRTH, USE_YN }
+        { CODE_ID, CODE_NM, PARENT_CODE, USE_YN }
     ) {
         try {
             await conn.beginTransaction();
             let result = [];
             let str = `
             
-                UPDATE toyerp.employee
+                UPDATE toyerp.common_code
                 SET 
-                USER_NM        =          '${USER_NM}',
-                USER_ADDRESS   =          '${USER_ADDRESS}',
-                USER_EMAIL     =          '${USER_EMAIL}',
-                USER_BIRTH     =          '${USER_BIRTH}',
-                USE_YN         =          '${USE_YN}'
-                WHERE USER_ID = "${USER_ID}"
+                CODE_ID         =          '${CODE_ID}',
+                CODE_NM         =          '${CODE_NM}',
+                PARENT_CODE     =          '${PARENT_CODE}',
+                USE_YN          =          '${USE_YN}'
+                WHERE CODE_ID   =          '${CODE_ID}'
             `;
             result = await conn.query(str);
             conn.commit();
-            let ss = await conn.query(
-                `select * from toyerp.employee where USER_ID = '${USER_ID}'`
-            );
             console.log(result);
-            console.log(ss);
             return result;
         } catch (error) {
-            logger.error('insertEmployee: ' + error);
+            logger.error('updateCode: ' + error);
+            conn.rollback();
+            throw error;
+        } finally {
+        }
+    },
+    async deleteCode(conn = mariadb.Connection, { CODE_ID }) {
+        try {
+            await conn.beginTransaction();
+            let result1 = [];
+            let str1 = `
+             SELECT COUNT(PARENT_CODE) AS CNT FROM toyerp.common_code
+             WHERE PARENT_CODE = '${CODE_ID}'
+            `;
+            result1 = await conn.query(str1);
+            console.log(result1[0]['CNT']);
+            if (result1[0]['CNT'] > 0)
+                throw new Error('자식 코드들이 존재 합니다.');
+            let result2 = [];
+            let str2 = `
+
+                DELETE FROM toyerp.common_code
+                WHERE CODE_ID   =          '${CODE_ID}'
+            `;
+            result2 = await conn.query(str2);
+            conn.commit();
+            //console.log(result2);
+            return result2;
+        } catch (error) {
+            logger.error('deleteCode: ' + error);
             conn.rollback();
             throw error;
         } finally {

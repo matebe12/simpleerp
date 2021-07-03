@@ -19,6 +19,7 @@ const codeResolver = {
         },
         async getCodeOne(_, req) {
             let conn = await db.getPoolConnection();
+            console.log(req.CODE_ID);
             try {
                 const results = await exe.getCodeOne(conn, req);
                 return results;
@@ -52,6 +53,19 @@ const codeResolver = {
                 return results[0].result;
             } catch (error) {
                 logger.error('checkCodeName: ' + error);
+                throw error;
+            } finally {
+                if (conn) await db.endPoolConnection(conn);
+            }
+        },
+        async deleteCode(_, req) {
+            let conn = await db.getPoolConnection();
+            try {
+                const results = await exe.deleteCode(conn, req);
+                console.log(results);
+                return results.affectedRows;
+            } catch (error) {
+                logger.error('deleteCode: ' + error);
                 throw error;
             } finally {
                 if (conn) await db.endPoolConnection(conn);

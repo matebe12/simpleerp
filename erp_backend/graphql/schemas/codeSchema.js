@@ -14,6 +14,7 @@ const codeType = gql`
     }
     type Mutation {
         checkCodeId(CODE_ID: String): Int
+        deleteCode(CODE_ID: String): Int
         checkCodeName(CODE_NM: String): Int
         insertUpdateCode(
             CODE_ID: String!
