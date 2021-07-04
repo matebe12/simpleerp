@@ -1,0 +1,726 @@
+2021-07-05 00:13:28 [INFO] - connected ! connection id: 6786 -----
+2021-07-05 00:13:28 [INFO] - connected ! connection id: 6787 -----
+2021-07-05 00:13:28 [INFO] - exe Disconnected ! connection id: 6786 !!
+2021-07-05 00:13:28 [INFO] - connected ! connection id: 6788 -----
+2021-07-05 00:18:44 [INFO] - connected ! connection id: 6760 -----
+2021-07-05 00:18:44 [INFO] - connected ! connection id: 6762 -----
+2021-07-05 00:18:44 [INFO] - exe Disconnected ! connection id: 6760 !!
+2021-07-05 00:18:44 [INFO] - connected ! connection id: 6768 -----
+2021-07-05 00:18:49 [INFO] - connected ! connection id: 6774 -----
+2021-07-05 00:18:49 [INFO] - connected ! connection id: 6780 -----
+2021-07-05 00:18:49 [INFO] - exe Disconnected ! connection id: 6774 !!
+2021-07-05 00:18:49 [INFO] - connected ! connection id: 6786 -----
+2021-07-05 00:19:28 [INFO] - connected ! connection id: 6798 -----
+2021-07-05 00:19:28 [INFO] - connected ! connection id: 6799 -----
+2021-07-05 00:19:28 [INFO] - exe Disconnected ! connection id: 6798 !!
+2021-07-05 00:19:28 [INFO] - connected ! connection id: 6800 -----
+2021-07-05 00:19:30 [INFO] - connected ! connection id: 6801 -----
+2021-07-05 00:19:30 [INFO] - connected ! connection id: 6802 -----
+2021-07-05 00:19:30 [INFO] - exe Disconnected ! connection id: 6801 !!
+2021-07-05 00:19:30 [INFO] - connected ! connection id: 6803 -----
+2021-07-05 00:19:53 [INFO] - connected ! connection id: 6804 -----
+2021-07-05 00:19:53 [INFO] - connected ! connection id: 6805 -----
+2021-07-05 00:19:53 [INFO] - exe Disconnected ! connection id: 6804 !!
+2021-07-05 00:19:53 [INFO] - connected ! connection id: 6806 -----
+2021-07-05 00:19:58 [INFO] - connected ! connection id: 6807 -----
+2021-07-05 00:19:58 [INFO] - connected ! connection id: 6808 -----
+2021-07-05 00:19:58 [INFO] - exe Disconnected ! connection id: 6807 !!
+2021-07-05 00:19:58 [INFO] - connected ! connection id: 6809 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6810 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6760 -----
+2021-07-05 00:20:25 [INFO] - exe Disconnected ! connection id: 6810 !!
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6774 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6798 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6801 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6804 -----
+2021-07-05 00:20:25 [INFO] - connected ! connection id: 6807 -----
+2021-07-05 00:26:58 [INFO] - connected ! connection id: 6810 -----
+2021-07-05 00:27:32 [INFO] - server started on http://localhost:3000
+2021-07-05 00:27:32 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6811 -----
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6812 -----
+2021-07-05 00:27:35 [INFO] - exe Disconnected ! connection id: 6811 !!
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6813 -----
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6814 -----
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6815 -----
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6816 -----
+2021-07-05 00:27:35 [INFO] - connected ! connection id: 6817 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6818 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6819 -----
+2021-07-05 00:30:15 [INFO] - exe Disconnected ! connection id: 6818 !!
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6820 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6821 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6822 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6823 -----
+2021-07-05 00:30:15 [INFO] - connected ! connection id: 6824 -----
+2021-07-05 00:34:06 [INFO] - server started on http://localhost:3000
+2021-07-05 00:34:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6861 -----
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6862 -----
+2021-07-05 00:39:07 [INFO] - exe Disconnected ! connection id: 6861 !!
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6863 -----
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6864 -----
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6865 -----
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6866 -----
+2021-07-05 00:39:07 [INFO] - connected ! connection id: 6867 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6868 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6869 -----
+2021-07-05 00:40:17 [INFO] - exe Disconnected ! connection id: 6868 !!
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6870 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6871 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6872 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6873 -----
+2021-07-05 00:40:17 [INFO] - connected ! connection id: 6874 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6875 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6876 -----
+2021-07-05 00:40:20 [INFO] - exe Disconnected ! connection id: 6875 !!
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6877 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6878 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6879 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6880 -----
+2021-07-05 00:40:20 [INFO] - connected ! connection id: 6881 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6882 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6883 -----
+2021-07-05 00:40:36 [INFO] - exe Disconnected ! connection id: 6882 !!
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6884 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6885 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6886 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6887 -----
+2021-07-05 00:40:36 [INFO] - connected ! connection id: 6888 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6889 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6890 -----
+2021-07-05 00:41:55 [INFO] - exe Disconnected ! connection id: 6889 !!
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6891 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6892 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6893 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6894 -----
+2021-07-05 00:41:55 [INFO] - connected ! connection id: 6895 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6896 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6897 -----
+2021-07-05 00:43:53 [INFO] - exe Disconnected ! connection id: 6896 !!
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6898 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6899 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6902 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6901 -----
+2021-07-05 00:43:53 [INFO] - connected ! connection id: 6900 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6903 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6904 -----
+2021-07-05 00:46:29 [INFO] - exe Disconnected ! connection id: 6903 !!
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6905 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6906 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6907 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6908 -----
+2021-07-05 00:46:29 [INFO] - connected ! connection id: 6909 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6910 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6861 -----
+2021-07-05 00:47:05 [INFO] - exe Disconnected ! connection id: 6910 !!
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6868 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6875 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6882 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6889 -----
+2021-07-05 00:47:05 [INFO] - connected ! connection id: 6896 -----
+2021-07-05 00:56:58 [INFO] - connected ! connection id: 6903 -----
+2021-07-05 00:56:58 [INFO] - connected ! connection id: 6910 -----
+2021-07-05 00:56:58 [INFO] - exe Disconnected ! connection id: 6903 !!
+2021-07-05 00:56:58 [INFO] - connected ! connection id: 6903 -----
+2021-07-05 00:57:58 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:57:58 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:57:58 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60008ms
+2021-07-05 00:57:58 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60009ms
+2021-07-05 00:57:58 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60009ms
+2021-07-05 00:57:58 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60008ms
+2021-07-05 00:57:58 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60009ms
+2021-07-05 00:57:58 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60009ms
+2021-07-05 00:59:03 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:59:24 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:59:29 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:59:29 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 00:59:47 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:59:50 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 00:59:50 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 00:59:53 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:00:42 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:01:08 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:01:12 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:01:21 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60002ms
+2021-07-05 01:01:52 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:01:55 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:02:53 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60011ms
+2021-07-05 01:03:00 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:03:19 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60002ms
+2021-07-05 01:03:21 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 59999ms
+2021-07-05 01:03:53 [INFO] - server started on http://localhost:3000
+2021-07-05 01:03:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6920 -----
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6921 -----
+2021-07-05 01:03:56 [INFO] - exe Disconnected ! connection id: 6920 !!
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6922 -----
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6923 -----
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6924 -----
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6925 -----
+2021-07-05 01:03:56 [INFO] - connected ! connection id: 6926 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6927 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6928 -----
+2021-07-05 01:04:11 [INFO] - exe Disconnected ! connection id: 6927 !!
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6929 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6930 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6931 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6932 -----
+2021-07-05 01:04:11 [INFO] - connected ! connection id: 6933 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6934 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6935 -----
+2021-07-05 01:04:14 [INFO] - exe Disconnected ! connection id: 6934 !!
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6936 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6937 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6938 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6939 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6940 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6941 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6942 -----
+2021-07-05 01:04:14 [INFO] - exe Disconnected ! connection id: 6941 !!
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6943 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6944 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6946 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6945 -----
+2021-07-05 01:04:14 [INFO] - connected ! connection id: 6947 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6948 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6949 -----
+2021-07-05 01:05:03 [INFO] - exe Disconnected ! connection id: 6948 !!
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6950 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6951 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6952 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6953 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6954 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6955 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6956 -----
+2021-07-05 01:05:03 [INFO] - exe Disconnected ! connection id: 6955 !!
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6957 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6958 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6959 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6960 -----
+2021-07-05 01:05:03 [INFO] - connected ! connection id: 6961 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6962 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6963 -----
+2021-07-05 01:05:37 [INFO] - exe Disconnected ! connection id: 6962 !!
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6964 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6965 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6966 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6967 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6968 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6969 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6920 -----
+2021-07-05 01:05:37 [INFO] - exe Disconnected ! connection id: 6969 !!
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6927 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6934 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6941 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6948 -----
+2021-07-05 01:05:37 [INFO] - connected ! connection id: 6955 -----
+2021-07-05 01:06:11 [INFO] - connected ! connection id: 6962 -----
+2021-07-05 01:06:11 [INFO] - connected ! connection id: 6969 -----
+2021-07-05 01:06:11 [INFO] - exe Disconnected ! connection id: 6962 !!
+2021-07-05 01:06:11 [INFO] - connected ! connection id: 6962 -----
+2021-07-05 01:06:34 [INFO] - server started on http://localhost:3000
+2021-07-05 01:06:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6970 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6971 -----
+2021-07-05 01:06:36 [INFO] - exe Disconnected ! connection id: 6970 !!
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6972 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6973 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6974 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6975 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6976 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6977 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6978 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6979 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6980 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6981 -----
+2021-07-05 01:06:36 [INFO] - exe Disconnected ! connection id: 6980 !!
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6982 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6983 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6984 -----
+2021-07-05 01:06:36 [INFO] - connected ! connection id: 6985 -----
+2021-07-05 01:06:37 [INFO] - connected ! connection id: 6986 -----
+2021-07-05 01:06:37 [INFO] - connected ! connection id: 6987 -----
+2021-07-05 01:06:37 [INFO] - connected ! connection id: 6988 -----
+2021-07-05 01:06:37 [INFO] - connected ! connection id: 6989 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6990 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6991 -----
+2021-07-05 01:08:06 [INFO] - exe Disconnected ! connection id: 6990 !!
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6992 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6993 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6994 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6995 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6996 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6997 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6998 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 6999 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7000 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7001 -----
+2021-07-05 01:08:06 [INFO] - exe Disconnected ! connection id: 7000 !!
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7002 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7003 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7004 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7005 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7006 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7007 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7008 -----
+2021-07-05 01:08:06 [INFO] - connected ! connection id: 7009 -----
+2021-07-05 01:08:13 [INFO] - connected ! connection id: 7010 -----
+2021-07-05 01:08:13 [INFO] - exe Disconnected ! connection id: 7010 !!
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7011 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7012 -----
+2021-07-05 01:08:16 [INFO] - exe Disconnected ! connection id: 7011 !!
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7013 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7014 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7015 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7016 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7017 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7018 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 7019 -----
+2021-07-05 01:08:16 [INFO] - connected ! connection id: 6970 -----
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 6980 -----
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 6990 -----
+2021-07-05 01:08:50 [INFO] - exe Disconnected ! connection id: 6980 !!
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 6980 -----
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 7000 -----
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 7010 -----
+2021-07-05 01:08:50 [INFO] - connected ! connection id: 7011 -----
+2021-07-05 01:09:12 [INFO] - server started on http://localhost:3000
+2021-07-05 01:09:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7021 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7022 -----
+2021-07-05 01:09:16 [INFO] - exe Disconnected ! connection id: 7021 !!
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7023 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7024 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7025 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7026 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7027 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7028 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7029 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7030 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7031 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7032 -----
+2021-07-05 01:09:16 [INFO] - exe Disconnected ! connection id: 7031 !!
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7033 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7034 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7035 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7036 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7038 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7037 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7039 -----
+2021-07-05 01:09:16 [INFO] - connected ! connection id: 7040 -----
+2021-07-05 01:09:22 [INFO] - connected ! connection id: 7041 -----
+2021-07-05 01:09:22 [INFO] - exe Disconnected ! connection id: 7041 !!
+2021-07-05 01:09:24 [INFO] - connected ! connection id: 7042 -----
+2021-07-05 01:09:24 [INFO] - exe Disconnected ! connection id: 7042 !!
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7043 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7044 -----
+2021-07-05 01:09:26 [INFO] - exe Disconnected ! connection id: 7043 !!
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7045 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7046 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7047 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7048 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7049 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7050 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7051 -----
+2021-07-05 01:09:26 [INFO] - connected ! connection id: 7052 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7053 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7054 -----
+2021-07-05 01:09:32 [INFO] - exe Disconnected ! connection id: 7053 !!
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7055 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7056 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7057 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7058 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7059 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7060 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7061 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7062 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7063 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7064 -----
+2021-07-05 01:09:32 [INFO] - exe Disconnected ! connection id: 7063 !!
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7065 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7066 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7067 -----
+2021-07-05 01:09:32 [INFO] - connected ! connection id: 7068 -----
+2021-07-05 01:09:33 [INFO] - connected ! connection id: 7069 -----
+2021-07-05 01:09:33 [INFO] - connected ! connection id: 7070 -----
+2021-07-05 01:09:33 [INFO] - connected ! connection id: 7021 -----
+2021-07-05 01:09:33 [INFO] - connected ! connection id: 7031 -----
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7041 -----
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7042 -----
+2021-07-05 01:09:36 [INFO] - exe Disconnected ! connection id: 7041 !!
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7041 -----
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7043 -----
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7053 -----
+2021-07-05 01:09:36 [INFO] - connected ! connection id: 7063 -----
+2021-07-05 01:10:09 [INFO] - server started on http://localhost:3000
+2021-07-05 01:10:09 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7071 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7072 -----
+2021-07-05 01:12:13 [INFO] - exe Disconnected ! connection id: 7071 !!
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7073 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7074 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7075 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7076 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7077 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7078 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7079 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7081 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7080 -----
+2021-07-05 01:12:13 [INFO] - connected ! connection id: 7082 -----
+2021-07-05 01:12:14 [INFO] - exe Disconnected ! connection id: 7081 !!
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7083 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7084 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7085 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7086 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7087 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7088 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7089 -----
+2021-07-05 01:12:14 [INFO] - connected ! connection id: 7090 -----
+2021-07-05 01:12:20 [INFO] - connected ! connection id: 7091 -----
+2021-07-05 01:12:20 [INFO] - connected ! connection id: 7092 -----
+2021-07-05 01:12:21 [INFO] - exe Disconnected ! connection id: 7091 !!
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7093 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7094 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7095 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7096 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7097 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7098 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7099 -----
+2021-07-05 01:12:21 [INFO] - connected ! connection id: 7100 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7101 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7102 -----
+2021-07-05 01:12:23 [INFO] - exe Disconnected ! connection id: 7101 !!
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7103 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7104 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7105 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7106 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7107 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7108 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7109 -----
+2021-07-05 01:12:23 [INFO] - connected ! connection id: 7110 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7111 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7112 -----
+2021-07-05 01:12:25 [INFO] - exe Disconnected ! connection id: 7111 !!
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7113 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7114 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7115 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7116 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7117 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7118 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7119 -----
+2021-07-05 01:12:25 [INFO] - connected ! connection id: 7120 -----
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7071 -----
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7081 -----
+2021-07-05 01:12:28 [INFO] - exe Disconnected ! connection id: 7071 !!
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7071 -----
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7091 -----
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7101 -----
+2021-07-05 01:12:28 [INFO] - connected ! connection id: 7111 -----
+2021-07-05 01:13:28 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:13:28 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:13:28 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60003ms
+2021-07-05 01:13:28 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60003ms
+2021-07-05 01:13:28 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:13:28 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:13:28 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:13:28 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:13:49 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:17:20 [INFO] - server started on http://localhost:3000
+2021-07-05 01:17:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:18:16 [INFO] - server started on http://localhost:3000
+2021-07-05 01:18:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7172 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7173 -----
+2021-07-05 01:18:18 [INFO] - exe Disconnected ! connection id: 7172 !!
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7174 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7175 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7176 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7177 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7178 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7179 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7180 -----
+2021-07-05 01:18:18 [INFO] - connected ! connection id: 7181 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7182 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7183 -----
+2021-07-05 01:18:22 [INFO] - exe Disconnected ! connection id: 7182 !!
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7184 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7185 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7186 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7187 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7188 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7189 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7190 -----
+2021-07-05 01:18:22 [INFO] - connected ! connection id: 7191 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7192 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7193 -----
+2021-07-05 01:18:27 [INFO] - exe Disconnected ! connection id: 7192 !!
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7194 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7195 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7196 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7197 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7198 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7199 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7200 -----
+2021-07-05 01:18:27 [INFO] - connected ! connection id: 7201 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7202 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7203 -----
+2021-07-05 01:18:31 [INFO] - exe Disconnected ! connection id: 7202 !!
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7204 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7205 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7206 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7207 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7208 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7209 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7210 -----
+2021-07-05 01:18:31 [INFO] - connected ! connection id: 7211 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7212 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7213 -----
+2021-07-05 01:18:35 [INFO] - exe Disconnected ! connection id: 7212 !!
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7214 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7215 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7216 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7217 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7218 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7219 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7220 -----
+2021-07-05 01:18:35 [INFO] - connected ! connection id: 7221 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7173 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7172 -----
+2021-07-05 01:18:37 [INFO] - exe Disconnected ! connection id: 7173 !!
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7183 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7182 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7193 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7192 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7203 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7202 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7213 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7212 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7172 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7173 -----
+2021-07-05 01:18:37 [INFO] - exe Disconnected ! connection id: 7172 !!
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7173 -----
+2021-07-05 01:18:37 [INFO] - connected ! connection id: 7172 -----
+2021-07-05 01:20:20 [INFO] - server started on http://localhost:3000
+2021-07-05 01:20:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:21:05 [INFO] - server started on http://localhost:3000
+2021-07-05 01:21:05 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7272 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7273 -----
+2021-07-05 01:21:18 [INFO] - exe Disconnected ! connection id: 7272 !!
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7274 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7275 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7276 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7277 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7278 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7279 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7280 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7281 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7282 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7283 -----
+2021-07-05 01:21:18 [INFO] - exe Disconnected ! connection id: 7282 !!
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7284 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7285 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7286 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7287 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7288 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7289 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7290 -----
+2021-07-05 01:21:18 [INFO] - connected ! connection id: 7291 -----
+2021-07-05 01:21:55 [INFO] - server started on http://localhost:3000
+2021-07-05 01:21:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:22:15 [INFO] - server started on http://localhost:3000
+2021-07-05 01:22:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:24:16 [INFO] - connected ! connection id: 7374 -----
+2021-07-05 01:24:16 [INFO] - connected ! connection id: 7375 -----
+2021-07-05 01:24:16 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:24:16 [INFO] - exe Disconnected ! connection id: 7374 !!
+2021-07-05 01:24:16 [INFO] - connected ! connection id: 7376 -----
+2021-07-05 01:24:16 [INFO] - connected ! connection id: 7377 -----
+2021-07-05 01:24:16 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:24:16 [INFO] - exe Disconnected ! connection id: 7376 !!
+2021-07-05 01:25:37 [INFO] - connected ! connection id: 7378 -----
+2021-07-05 01:25:37 [INFO] - connected ! connection id: 7379 -----
+2021-07-05 01:25:37 [INFO] - connected ! connection id: 7380 -----
+2021-07-05 01:25:37 [INFO] - connected ! connection id: 7381 -----
+2021-07-05 01:25:37 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:37 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:37 [INFO] - exe Disconnected ! connection id: 7378 !!
+2021-07-05 01:25:37 [INFO] - exe Disconnected ! connection id: 7379 !!
+2021-07-05 01:25:40 [INFO] - connected ! connection id: 7382 -----
+2021-07-05 01:25:40 [INFO] - connected ! connection id: 7383 -----
+2021-07-05 01:25:40 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:40 [INFO] - exe Disconnected ! connection id: 7382 !!
+2021-07-05 01:25:40 [INFO] - connected ! connection id: 7384 -----
+2021-07-05 01:25:40 [INFO] - connected ! connection id: 7385 -----
+2021-07-05 01:25:40 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:40 [INFO] - exe Disconnected ! connection id: 7384 !!
+2021-07-05 01:25:48 [INFO] - connected ! connection id: 7386 -----
+2021-07-05 01:25:48 [INFO] - connected ! connection id: 7387 -----
+2021-07-05 01:25:48 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:48 [INFO] - exe Disconnected ! connection id: 7386 !!
+2021-07-05 01:25:48 [INFO] - connected ! connection id: 7388 -----
+2021-07-05 01:25:49 [INFO] - connected ! connection id: 7389 -----
+2021-07-05 01:25:49 [ERROR] - getMenuList: ReferenceError: conn is not defined
+2021-07-05 01:25:49 [INFO] - exe Disconnected ! connection id: 7388 !!
+2021-07-05 01:27:23 [INFO] - server started on http://localhost:3000
+2021-07-05 01:27:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7432 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7433 -----
+2021-07-05 01:27:26 [INFO] - exe Disconnected ! connection id: 7432 !!
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7434 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7435 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7436 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7437 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7438 -----
+2021-07-05 01:27:26 [INFO] - connected ! connection id: 7439 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7440 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7441 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7442 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7443 -----
+2021-07-05 01:27:27 [INFO] - exe Disconnected ! connection id: 7442 !!
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7444 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7445 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7446 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7447 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7448 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7449 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7450 -----
+2021-07-05 01:27:27 [INFO] - connected ! connection id: 7451 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7452 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7453 -----
+2021-07-05 01:27:29 [INFO] - exe Disconnected ! connection id: 7452 !!
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7454 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7455 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7456 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7457 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7458 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7459 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7460 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7461 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7462 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7463 -----
+2021-07-05 01:27:29 [INFO] - exe Disconnected ! connection id: 7462 !!
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7464 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7465 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7466 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7467 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7468 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7469 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7470 -----
+2021-07-05 01:27:29 [INFO] - connected ! connection id: 7471 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7472 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7473 -----
+2021-07-05 01:27:31 [INFO] - exe Disconnected ! connection id: 7472 !!
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7474 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7475 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7476 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7477 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7478 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7479 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7480 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7481 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7432 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7482 -----
+2021-07-05 01:27:31 [INFO] - exe Disconnected ! connection id: 7432 !!
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7442 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7483 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7452 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7484 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7472 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7486 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7462 -----
+2021-07-05 01:27:31 [INFO] - connected ! connection id: 7485 -----
+2021-07-05 01:27:33 [INFO] - connected ! connection id: 7432 -----
+2021-07-05 01:27:33 [INFO] - connected ! connection id: 7487 -----
+2021-07-05 01:27:33 [INFO] - exe Disconnected ! connection id: 7432 !!
+2021-07-05 01:27:33 [INFO] - connected ! connection id: 7432 -----
+2021-07-05 01:27:33 [INFO] - connected ! connection id: 7488 -----
+2021-07-05 01:28:33 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:28:33 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60002ms
+2021-07-05 01:28:33 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:28:33 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60002ms
+2021-07-05 01:28:33 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:28:33 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60001ms
+2021-07-05 01:28:33 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:28:33 [ERROR] - MenuModel: Error: retrieve connection from pool timeout after 60000ms
+2021-07-05 01:28:34 [INFO] - getPoolConnection not connected due to error : Error: retrieve connection from pool timeout after 60002ms
+2021-07-05 01:29:44 [INFO] - server started on http://localhost:3000
+2021-07-05 01:29:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-05 01:29:44 [INFO] - connected ! connection id: 7489 -----
+2021-07-05 01:29:44 [INFO] - exe Disconnected ! connection id: 7489 !!
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7490 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7489 -----
+2021-07-05 01:29:49 [INFO] - exe Disconnected ! connection id: 7490 !!
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7491 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7492 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7493 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7494 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7495 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7496 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7497 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7498 -----
+2021-07-05 01:29:49 [INFO] - connected ! connection id: 7499 -----
+2021-07-05 01:29:49 [INFO] - exe Disconnected ! connection id: 7499 !!
+2021-07-05 01:29:54 [INFO] - connected ! connection id: 7500 -----
+2021-07-05 01:29:54 [INFO] - exe Disconnected ! connection id: 7500 !!
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7501 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7502 -----
+2021-07-05 01:29:56 [INFO] - exe Disconnected ! connection id: 7501 !!
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7503 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7504 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7505 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7506 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7507 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7508 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7509 -----
+2021-07-05 01:29:56 [INFO] - connected ! connection id: 7510 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7511 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7512 -----
+2021-07-05 01:29:58 [INFO] - exe Disconnected ! connection id: 7511 !!
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7513 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7514 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7515 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7516 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7517 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7518 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7519 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7520 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7521 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7522 -----
+2021-07-05 01:29:58 [INFO] - exe Disconnected ! connection id: 7521 !!
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7523 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7524 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7525 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7526 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7527 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7528 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7529 -----
+2021-07-05 01:29:58 [INFO] - connected ! connection id: 7530 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7531 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7532 -----
+2021-07-05 01:30:01 [INFO] - exe Disconnected ! connection id: 7531 !!
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7533 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7534 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7535 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7536 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7537 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7538 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7490 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7539 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7499 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7500 -----
+2021-07-05 01:30:01 [INFO] - exe Disconnected ! connection id: 7499 !!
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7501 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7540 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7511 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7541 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7531 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7543 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7521 -----
+2021-07-05 01:30:01 [INFO] - connected ! connection id: 7542 -----
+2021-07-05 01:30:04 [INFO] - connected ! connection id: 7499 -----
+2021-07-05 01:30:04 [INFO] - connected ! connection id: 7544 -----
+2021-07-05 01:30:04 [INFO] - exe Disconnected ! connection id: 7499 !!
+2021-07-05 01:30:04 [INFO] - connected ! connection id: 7499 -----
+2021-07-05 01:30:04 [INFO] - connected ! connection id: 7545 -----

@@ -473,3 +473,644 @@
 2021-07-04 02:04:10 [INFO] - exe Disconnected ! connection id: 3812 !!
 2021-07-04 02:04:14 [INFO] - connected ! connection id: 3813 -----
 2021-07-04 02:04:14 [INFO] - exe Disconnected ! connection id: 3813 !!
+2021-07-04 02:16:30 [INFO] - server started on http://localhost:3000
+2021-07-04 02:16:30 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 02:21:50 [INFO] - connected ! connection id: 3846 -----
+2021-07-04 02:21:50 [INFO] - exe Disconnected ! connection id: 3846 !!
+2021-07-04 02:22:01 [INFO] - connected ! connection id: 3847 -----
+2021-07-04 02:22:01 [INFO] - exe Disconnected ! connection id: 3847 !!
+2021-07-04 02:22:05 [INFO] - connected ! connection id: 3848 -----
+2021-07-04 02:22:05 [INFO] - exe Disconnected ! connection id: 3848 !!
+2021-07-04 02:22:21 [INFO] - connected ! connection id: 3849 -----
+2021-07-04 02:22:21 [INFO] - exe Disconnected ! connection id: 3849 !!
+2021-07-04 02:26:14 [INFO] - connected ! connection id: 3850 -----
+2021-07-04 02:26:14 [INFO] - exe Disconnected ! connection id: 3850 !!
+2021-07-04 02:28:00 [INFO] - connected ! connection id: 3851 -----
+2021-07-04 02:28:00 [INFO] - exe Disconnected ! connection id: 3851 !!
+2021-07-04 02:29:02 [INFO] - connected ! connection id: 3852 -----
+2021-07-04 02:29:02 [INFO] - exe Disconnected ! connection id: 3852 !!
+2021-07-04 02:29:55 [INFO] - connected ! connection id: 3853 -----
+2021-07-04 02:29:55 [INFO] - exe Disconnected ! connection id: 3853 !!
+2021-07-04 02:30:45 [INFO] - connected ! connection id: 3854 -----
+2021-07-04 02:30:45 [INFO] - exe Disconnected ! connection id: 3854 !!
+2021-07-04 02:30:53 [INFO] - connected ! connection id: 3855 -----
+2021-07-04 02:30:53 [INFO] - exe Disconnected ! connection id: 3855 !!
+2021-07-04 02:33:47 [INFO] - connected ! connection id: 3856 -----
+2021-07-04 02:33:47 [INFO] - exe Disconnected ! connection id: 3856 !!
+2021-07-04 02:33:59 [INFO] - connected ! connection id: 3857 -----
+2021-07-04 02:33:59 [INFO] - exe Disconnected ! connection id: 3857 !!
+2021-07-04 02:34:55 [INFO] - connected ! connection id: 3858 -----
+2021-07-04 02:34:55 [INFO] - exe Disconnected ! connection id: 3858 !!
+2021-07-04 02:35:03 [INFO] - connected ! connection id: 3859 -----
+2021-07-04 02:35:03 [INFO] - exe Disconnected ! connection id: 3859 !!
+2021-07-04 02:39:38 [INFO] - connected ! connection id: 3860 -----
+2021-07-04 02:39:38 [INFO] - exe Disconnected ! connection id: 3860 !!
+2021-07-04 02:39:40 [INFO] - connected ! connection id: 3861 -----
+2021-07-04 02:39:40 [INFO] - exe Disconnected ! connection id: 3861 !!
+2021-07-04 02:39:52 [INFO] - connected ! connection id: 3862 -----
+2021-07-04 02:39:52 [INFO] - exe Disconnected ! connection id: 3862 !!
+2021-07-04 02:39:54 [INFO] - connected ! connection id: 3863 -----
+2021-07-04 02:39:54 [INFO] - exe Disconnected ! connection id: 3863 !!
+2021-07-04 02:39:58 [INFO] - connected ! connection id: 3864 -----
+2021-07-04 02:39:58 [INFO] - exe Disconnected ! connection id: 3864 !!
+2021-07-04 02:39:59 [INFO] - connected ! connection id: 3865 -----
+2021-07-04 02:39:59 [INFO] - exe Disconnected ! connection id: 3865 !!
+2021-07-04 02:39:59 [INFO] - connected ! connection id: 3866 -----
+2021-07-04 02:39:59 [INFO] - exe Disconnected ! connection id: 3866 !!
+2021-07-04 02:46:14 [INFO] - connected ! connection id: 3867 -----
+2021-07-04 02:46:14 [INFO] - exe Disconnected ! connection id: 3867 !!
+2021-07-04 02:51:58 [INFO] - connected ! connection id: 3847 -----
+2021-07-04 02:51:58 [INFO] - exe Disconnected ! connection id: 3847 !!
+2021-07-04 02:52:35 [INFO] - connected ! connection id: 3850 -----
+2021-07-04 02:52:35 [INFO] - exe Disconnected ! connection id: 3850 !!
+2021-07-04 02:53:44 [INFO] - connected ! connection id: 3851 -----
+2021-07-04 02:53:44 [INFO] - exe Disconnected ! connection id: 3851 !!
+2021-07-04 02:53:52 [INFO] - connected ! connection id: 3852 -----
+2021-07-04 02:53:52 [INFO] - exe Disconnected ! connection id: 3852 !!
+2021-07-04 02:56:16 [INFO] - connected ! connection id: 3853 -----
+2021-07-04 02:56:16 [INFO] - exe Disconnected ! connection id: 3853 !!
+2021-07-04 02:56:20 [INFO] - connected ! connection id: 3854 -----
+2021-07-04 02:56:20 [INFO] - exe Disconnected ! connection id: 3854 !!
+2021-07-04 03:02:20 [INFO] - connected ! connection id: 3856 -----
+2021-07-04 03:02:20 [INFO] - exe Disconnected ! connection id: 3856 !!
+2021-07-04 03:14:15 [INFO] - connected ! connection id: 3867 -----
+2021-07-04 03:14:15 [INFO] - exe Disconnected ! connection id: 3867 !!
+2021-07-04 03:14:21 [INFO] - connected ! connection id: 3896 -----
+2021-07-04 03:14:21 [INFO] - exe Disconnected ! connection id: 3896 !!
+2021-07-04 03:14:24 [INFO] - connected ! connection id: 3897 -----
+2021-07-04 03:14:24 [INFO] - exe Disconnected ! connection id: 3897 !!
+2021-07-04 03:14:34 [INFO] - connected ! connection id: 3898 -----
+2021-07-04 03:14:34 [INFO] - exe Disconnected ! connection id: 3898 !!
+2021-07-04 03:14:35 [INFO] - connected ! connection id: 3899 -----
+2021-07-04 03:14:35 [INFO] - exe Disconnected ! connection id: 3899 !!
+2021-07-04 03:15:04 [INFO] - connected ! connection id: 3900 -----
+2021-07-04 03:15:04 [INFO] - exe Disconnected ! connection id: 3900 !!
+2021-07-04 03:15:04 [INFO] - connected ! connection id: 3901 -----
+2021-07-04 03:15:04 [INFO] - exe Disconnected ! connection id: 3901 !!
+2021-07-04 03:15:07 [INFO] - connected ! connection id: 3902 -----
+2021-07-04 03:15:07 [INFO] - exe Disconnected ! connection id: 3902 !!
+2021-07-04 03:15:12 [INFO] - connected ! connection id: 3903 -----
+2021-07-04 03:15:12 [INFO] - exe Disconnected ! connection id: 3903 !!
+2021-07-04 03:15:17 [INFO] - connected ! connection id: 3904 -----
+2021-07-04 03:15:17 [INFO] - exe Disconnected ! connection id: 3904 !!
+2021-07-04 03:15:19 [INFO] - connected ! connection id: 3905 -----
+2021-07-04 03:15:19 [INFO] - exe Disconnected ! connection id: 3905 !!
+2021-07-04 03:15:23 [INFO] - connected ! connection id: 3906 -----
+2021-07-04 03:15:23 [INFO] - exe Disconnected ! connection id: 3906 !!
+2021-07-04 03:15:32 [INFO] - connected ! connection id: 3907 -----
+2021-07-04 03:15:32 [INFO] - exe Disconnected ! connection id: 3907 !!
+2021-07-04 03:15:36 [INFO] - connected ! connection id: 3908 -----
+2021-07-04 03:15:36 [INFO] - exe Disconnected ! connection id: 3908 !!
+2021-07-04 03:15:36 [INFO] - connected ! connection id: 3909 -----
+2021-07-04 03:15:36 [INFO] - exe Disconnected ! connection id: 3909 !!
+2021-07-04 03:15:44 [INFO] - connected ! connection id: 3910 -----
+2021-07-04 03:15:44 [INFO] - exe Disconnected ! connection id: 3910 !!
+2021-07-04 03:15:44 [INFO] - connected ! connection id: 3911 -----
+2021-07-04 03:15:44 [INFO] - exe Disconnected ! connection id: 3911 !!
+2021-07-04 03:15:47 [INFO] - connected ! connection id: 3912 -----
+2021-07-04 03:15:47 [INFO] - exe Disconnected ! connection id: 3912 !!
+2021-07-04 03:15:49 [INFO] - connected ! connection id: 3913 -----
+2021-07-04 03:15:49 [INFO] - exe Disconnected ! connection id: 3913 !!
+2021-07-04 03:16:59 [INFO] - connected ! connection id: 3925 -----
+2021-07-04 03:16:59 [INFO] - exe Disconnected ! connection id: 3925 !!
+2021-07-04 03:17:26 [INFO] - connected ! connection id: 3847 -----
+2021-07-04 03:17:26 [INFO] - exe Disconnected ! connection id: 3847 !!
+2021-07-04 03:17:35 [INFO] - connected ! connection id: 3926 -----
+2021-07-04 03:17:35 [INFO] - exe Disconnected ! connection id: 3926 !!
+2021-07-04 03:17:36 [INFO] - connected ! connection id: 3927 -----
+2021-07-04 03:17:36 [INFO] - exe Disconnected ! connection id: 3927 !!
+2021-07-04 03:17:41 [INFO] - connected ! connection id: 3850 -----
+2021-07-04 03:17:41 [INFO] - exe Disconnected ! connection id: 3850 !!
+2021-07-04 03:17:41 [INFO] - connected ! connection id: 3851 -----
+2021-07-04 03:17:41 [INFO] - exe Disconnected ! connection id: 3851 !!
+2021-07-04 03:17:50 [INFO] - connected ! connection id: 3852 -----
+2021-07-04 03:17:50 [INFO] - exe Disconnected ! connection id: 3852 !!
+2021-07-04 03:17:51 [INFO] - connected ! connection id: 3853 -----
+2021-07-04 03:17:51 [INFO] - exe Disconnected ! connection id: 3853 !!
+2021-07-04 03:17:52 [INFO] - connected ! connection id: 3854 -----
+2021-07-04 03:17:52 [INFO] - exe Disconnected ! connection id: 3854 !!
+2021-07-04 03:18:05 [INFO] - connected ! connection id: 3928 -----
+2021-07-04 03:18:05 [INFO] - exe Disconnected ! connection id: 3928 !!
+2021-07-04 03:21:56 [INFO] - connected ! connection id: 3856 -----
+2021-07-04 03:21:56 [INFO] - exe Disconnected ! connection id: 3856 !!
+2021-07-04 03:22:13 [INFO] - connected ! connection id: 3929 -----
+2021-07-04 03:22:13 [INFO] - exe Disconnected ! connection id: 3929 !!
+2021-07-04 03:22:24 [INFO] - connected ! connection id: 3930 -----
+2021-07-04 03:22:24 [INFO] - exe Disconnected ! connection id: 3930 !!
+2021-07-04 03:23:36 [INFO] - connected ! connection id: 3931 -----
+2021-07-04 03:23:36 [INFO] - exe Disconnected ! connection id: 3931 !!
+2021-07-04 03:24:15 [INFO] - connected ! connection id: 3932 -----
+2021-07-04 03:24:15 [INFO] - exe Disconnected ! connection id: 3932 !!
+2021-07-04 03:24:22 [INFO] - connected ! connection id: 3933 -----
+2021-07-04 03:24:22 [INFO] - exe Disconnected ! connection id: 3933 !!
+2021-07-04 03:24:38 [INFO] - connected ! connection id: 3934 -----
+2021-07-04 03:24:38 [INFO] - exe Disconnected ! connection id: 3934 !!
+2021-07-04 03:24:47 [INFO] - connected ! connection id: 3935 -----
+2021-07-04 03:24:47 [INFO] - exe Disconnected ! connection id: 3935 !!
+2021-07-04 03:24:51 [INFO] - connected ! connection id: 3936 -----
+2021-07-04 03:24:51 [INFO] - exe Disconnected ! connection id: 3936 !!
+2021-07-04 03:24:59 [INFO] - connected ! connection id: 3937 -----
+2021-07-04 03:24:59 [INFO] - exe Disconnected ! connection id: 3937 !!
+2021-07-04 03:25:37 [INFO] - connected ! connection id: 3938 -----
+2021-07-04 03:25:37 [INFO] - exe Disconnected ! connection id: 3938 !!
+2021-07-04 03:26:07 [INFO] - connected ! connection id: 3867 -----
+2021-07-04 03:26:07 [INFO] - exe Disconnected ! connection id: 3867 !!
+2021-07-04 03:26:12 [INFO] - connected ! connection id: 3896 -----
+2021-07-04 03:26:12 [INFO] - exe Disconnected ! connection id: 3896 !!
+2021-07-04 03:26:23 [INFO] - connected ! connection id: 3897 -----
+2021-07-04 03:26:23 [INFO] - exe Disconnected ! connection id: 3897 !!
+2021-07-04 03:26:32 [INFO] - connected ! connection id: 3898 -----
+2021-07-04 03:26:32 [INFO] - exe Disconnected ! connection id: 3898 !!
+2021-07-04 03:27:33 [INFO] - connected ! connection id: 3899 -----
+2021-07-04 03:27:33 [INFO] - exe Disconnected ! connection id: 3899 !!
+2021-07-04 03:29:09 [INFO] - connected ! connection id: 3900 -----
+2021-07-04 03:29:09 [INFO] - exe Disconnected ! connection id: 3900 !!
+2021-07-04 03:29:41 [INFO] - connected ! connection id: 3901 -----
+2021-07-04 03:29:41 [INFO] - exe Disconnected ! connection id: 3901 !!
+2021-07-04 03:30:47 [INFO] - connected ! connection id: 3902 -----
+2021-07-04 03:30:47 [INFO] - exe Disconnected ! connection id: 3902 !!
+2021-07-04 03:31:00 [INFO] - connected ! connection id: 3903 -----
+2021-07-04 03:31:00 [INFO] - exe Disconnected ! connection id: 3903 !!
+2021-07-04 03:31:03 [INFO] - connected ! connection id: 3904 -----
+2021-07-04 03:31:03 [INFO] - exe Disconnected ! connection id: 3904 !!
+2021-07-04 03:31:31 [INFO] - connected ! connection id: 3905 -----
+2021-07-04 03:31:31 [INFO] - exe Disconnected ! connection id: 3905 !!
+2021-07-04 03:31:38 [INFO] - connected ! connection id: 3906 -----
+2021-07-04 03:31:38 [INFO] - exe Disconnected ! connection id: 3906 !!
+2021-07-04 03:31:43 [INFO] - connected ! connection id: 3907 -----
+2021-07-04 03:31:43 [INFO] - exe Disconnected ! connection id: 3907 !!
+2021-07-04 03:31:49 [INFO] - connected ! connection id: 3908 -----
+2021-07-04 03:31:49 [INFO] - exe Disconnected ! connection id: 3908 !!
+2021-07-04 03:31:56 [INFO] - connected ! connection id: 3909 -----
+2021-07-04 03:31:56 [INFO] - exe Disconnected ! connection id: 3909 !!
+2021-07-04 03:31:58 [INFO] - connected ! connection id: 3910 -----
+2021-07-04 03:31:58 [INFO] - exe Disconnected ! connection id: 3910 !!
+2021-07-04 03:33:00 [INFO] - connected ! connection id: 3911 -----
+2021-07-04 03:33:00 [INFO] - exe Disconnected ! connection id: 3911 !!
+2021-07-04 03:34:10 [INFO] - connected ! connection id: 3912 -----
+2021-07-04 03:34:10 [INFO] - exe Disconnected ! connection id: 3912 !!
+2021-07-04 21:42:36 [INFO] - server started on http://localhost:3000
+2021-07-04 21:42:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:09:06 [INFO] - connected ! connection id: 4003 -----
+2021-07-04 22:09:06 [INFO] - exe Disconnected ! connection id: 4003 !!
+2021-07-04 22:09:09 [INFO] - connected ! connection id: 4004 -----
+2021-07-04 22:09:09 [INFO] - exe Disconnected ! connection id: 4004 !!
+2021-07-04 22:09:30 [INFO] - connected ! connection id: 4005 -----
+2021-07-04 22:09:30 [INFO] - exe Disconnected ! connection id: 4005 !!
+2021-07-04 22:09:32 [INFO] - connected ! connection id: 4006 -----
+2021-07-04 22:09:32 [INFO] - exe Disconnected ! connection id: 4006 !!
+2021-07-04 22:10:35 [INFO] - connected ! connection id: 4007 -----
+2021-07-04 22:10:35 [INFO] - exe Disconnected ! connection id: 4007 !!
+2021-07-04 22:24:27 [INFO] - connected ! connection id: 4003 -----
+2021-07-04 22:24:27 [INFO] - exe Disconnected ! connection id: 4003 !!
+2021-07-04 22:27:44 [INFO] - server started on http://localhost:3000
+2021-07-04 22:27:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:32:13 [INFO] - server started on http://localhost:3000
+2021-07-04 22:32:13 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:32:28 [INFO] - server started on http://localhost:3000
+2021-07-04 22:32:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:34:02 [INFO] - server started on http://localhost:3000
+2021-07-04 22:34:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:34:40 [INFO] - server started on http://localhost:3000
+2021-07-04 22:34:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:35:09 [INFO] - server started on http://localhost:3000
+2021-07-04 22:35:09 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:35:25 [INFO] - server started on http://localhost:3000
+2021-07-04 22:35:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:35:58 [INFO] - server started on http://localhost:3000
+2021-07-04 22:35:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:37:11 [INFO] - server started on http://localhost:3000
+2021-07-04 22:37:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:37:15 [INFO] - server started on http://localhost:3000
+2021-07-04 22:37:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:40:46 [INFO] - server started on http://localhost:3000
+2021-07-04 22:40:46 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:50:55 [INFO] - server started on http://localhost:3000
+2021-07-04 22:50:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:51:20 [INFO] - connected ! connection id: 4648 -----
+2021-07-04 22:51:20 [ERROR] - getMenuList: TypeError: Cannot read property 'load' of undefined
+2021-07-04 22:51:20 [INFO] - exe Disconnected ! connection id: 4648 !!
+2021-07-04 22:51:48 [INFO] - server started on http://localhost:3000
+2021-07-04 22:51:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:52:25 [INFO] - server started on http://localhost:3000
+2021-07-04 22:52:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:52:33 [INFO] - server started on http://localhost:3000
+2021-07-04 22:52:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:53:09 [INFO] - server started on http://localhost:3000
+2021-07-04 22:53:09 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:53:18 [INFO] - server started on http://localhost:3000
+2021-07-04 22:53:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:53:20 [INFO] - connected ! connection id: 4898 -----
+2021-07-04 22:53:20 [ERROR] - getMenuList: TypeError: Cannot read property 'load' of undefined
+2021-07-04 22:53:20 [INFO] - exe Disconnected ! connection id: 4898 !!
+2021-07-04 22:53:23 [INFO] - connected ! connection id: 4899 -----
+2021-07-04 22:53:23 [ERROR] - getMenuList: TypeError: Cannot read property 'load' of undefined
+2021-07-04 22:53:23 [INFO] - exe Disconnected ! connection id: 4899 !!
+2021-07-04 22:54:39 [INFO] - server started on http://localhost:3000
+2021-07-04 22:54:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:54:49 [INFO] - connected ! connection id: 4948 -----
+2021-07-04 22:54:49 [ERROR] - getMenuList: TypeError: Cannot read property 'load' of undefined
+2021-07-04 22:54:49 [INFO] - exe Disconnected ! connection id: 4948 !!
+2021-07-04 22:59:16 [INFO] - server started on http://localhost:3000
+2021-07-04 22:59:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 22:59:57 [INFO] - server started on http://localhost:3000
+2021-07-04 22:59:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:03:54 [INFO] - server started on http://localhost:3000
+2021-07-04 23:03:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:04:08 [INFO] - server started on http://localhost:3000
+2021-07-04 23:04:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:04:11 [INFO] - connected ! connection id: 5148 -----
+2021-07-04 23:04:11 [INFO] - connected ! connection id: 5149 -----
+2021-07-04 23:04:11 [ERROR] - getMenuList: Error: (conn=5149, no: 1146, SQLState: 42S02) Table 'test.menu' doesn't exist
+sql: 
+      SELECT * FROM test.menu where PARENT_NO = null;
+       - parameters:[]
+2021-07-04 23:04:11 [ERROR] - getMenuList: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error Error: (conn=5149, no: 1146, SQLState: 42S02) Table 'test.menu' doesn't exist
+sql: 
+      SELECT * FROM test.menu where PARENT_NO = null;
+       - parameters:[]'
+2021-07-04 23:04:11 [INFO] - exe Disconnected ! connection id: 5148 !!
+2021-07-04 23:05:02 [INFO] - connected ! connection id: 5150 -----
+2021-07-04 23:05:02 [INFO] - connected ! connection id: 5151 -----
+2021-07-04 23:05:02 [ERROR] - getMenuList: Error: (conn=5151, no: 1146, SQLState: 42S02) Table 'test.menu' doesn't exist
+sql: 
+      SELECT * FROM test.menu where PARENT_NO = null;
+       - parameters:[]
+2021-07-04 23:05:02 [ERROR] - getMenuList: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error Error: (conn=5151, no: 1146, SQLState: 42S02) Table 'test.menu' doesn't exist
+sql: 
+      SELECT * FROM test.menu where PARENT_NO = null;
+       - parameters:[]'
+2021-07-04 23:05:02 [INFO] - exe Disconnected ! connection id: 5150 !!
+2021-07-04 23:05:49 [INFO] - server started on http://localhost:3000
+2021-07-04 23:05:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:07:21 [INFO] - connected ! connection id: 5198 -----
+2021-07-04 23:07:21 [INFO] - connected ! connection id: 5199 -----
+2021-07-04 23:07:21 [INFO] - exe Disconnected ! connection id: 5198 !!
+2021-07-04 23:07:34 [INFO] - connected ! connection id: 5200 -----
+2021-07-04 23:07:34 [INFO] - connected ! connection id: 5201 -----
+2021-07-04 23:07:34 [INFO] - exe Disconnected ! connection id: 5200 !!
+2021-07-04 23:08:21 [INFO] - connected ! connection id: 5202 -----
+2021-07-04 23:08:21 [INFO] - connected ! connection id: 5203 -----
+2021-07-04 23:08:21 [INFO] - exe Disconnected ! connection id: 5202 !!
+2021-07-04 23:08:22 [INFO] - connected ! connection id: 5204 -----
+2021-07-04 23:08:22 [INFO] - connected ! connection id: 5205 -----
+2021-07-04 23:08:22 [INFO] - exe Disconnected ! connection id: 5204 !!
+2021-07-04 23:08:22 [INFO] - connected ! connection id: 5206 -----
+2021-07-04 23:08:22 [INFO] - connected ! connection id: 5207 -----
+2021-07-04 23:08:22 [INFO] - exe Disconnected ! connection id: 5206 !!
+2021-07-04 23:10:00 [INFO] - server started on http://localhost:3000
+2021-07-04 23:10:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:10:04 [INFO] - connected ! connection id: 5248 -----
+2021-07-04 23:10:04 [INFO] - connected ! connection id: 5249 -----
+2021-07-04 23:10:04 [INFO] - exe Disconnected ! connection id: 5248 !!
+2021-07-04 23:10:07 [INFO] - connected ! connection id: 5250 -----
+2021-07-04 23:10:07 [INFO] - connected ! connection id: 5251 -----
+2021-07-04 23:10:07 [INFO] - exe Disconnected ! connection id: 5250 !!
+2021-07-04 23:10:49 [INFO] - server started on http://localhost:3000
+2021-07-04 23:10:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:10:59 [INFO] - connected ! connection id: 5298 -----
+2021-07-04 23:10:59 [INFO] - connected ! connection id: 5299 -----
+2021-07-04 23:10:59 [INFO] - exe Disconnected ! connection id: 5298 !!
+2021-07-04 23:11:23 [INFO] - server started on http://localhost:3000
+2021-07-04 23:11:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:11:33 [INFO] - server started on http://localhost:3000
+2021-07-04 23:11:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:11:35 [INFO] - connected ! connection id: 5398 -----
+2021-07-04 23:11:35 [INFO] - connected ! connection id: 5399 -----
+2021-07-04 23:11:35 [INFO] - exe Disconnected ! connection id: 5398 !!
+2021-07-04 23:12:36 [INFO] - server started on http://localhost:3000
+2021-07-04 23:12:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:12:37 [INFO] - connected ! connection id: 5448 -----
+2021-07-04 23:12:37 [INFO] - connected ! connection id: 5449 -----
+2021-07-04 23:12:37 [INFO] - exe Disconnected ! connection id: 5448 !!
+2021-07-04 23:13:01 [INFO] - server started on http://localhost:3000
+2021-07-04 23:13:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:13:06 [INFO] - connected ! connection id: 5498 -----
+2021-07-04 23:13:06 [INFO] - connected ! connection id: 5499 -----
+2021-07-04 23:13:06 [ERROR] - getMenuList: Error: (conn=5499, no: 1054, SQLState: 42S22) Unknown column 'menu000000002' in 'where clause'
+sql: 
+      SELECT * FROM toyerp.menu where PARENT_NO = menu000000002;
+       - parameters:[]
+2021-07-04 23:13:06 [ERROR] - getMenuList: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error Error: (conn=5499, no: 1054, SQLState: 42S22) Unknown column 'menu000000002' in 'where clause'
+sql: 
+      SELECT * FROM toyerp.menu where PARENT_NO = menu000000002;
+       - parameters:[]'
+2021-07-04 23:13:06 [INFO] - exe Disconnected ! connection id: 5498 !!
+2021-07-04 23:14:00 [INFO] - server started on http://localhost:3000
+2021-07-04 23:14:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:14:04 [INFO] - connected ! connection id: 5548 -----
+2021-07-04 23:14:04 [INFO] - connected ! connection id: 5549 -----
+2021-07-04 23:14:04 [INFO] - exe Disconnected ! connection id: 5548 !!
+2021-07-04 23:15:07 [INFO] - server started on http://localhost:3000
+2021-07-04 23:15:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:15:11 [INFO] - connected ! connection id: 5598 -----
+2021-07-04 23:15:11 [INFO] - connected ! connection id: 5599 -----
+2021-07-04 23:15:11 [INFO] - exe Disconnected ! connection id: 5598 !!
+2021-07-04 23:15:26 [INFO] - server started on http://localhost:3000
+2021-07-04 23:15:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:15:30 [INFO] - connected ! connection id: 5648 -----
+2021-07-04 23:15:30 [INFO] - connected ! connection id: 5649 -----
+2021-07-04 23:15:30 [INFO] - exe Disconnected ! connection id: 5648 !!
+2021-07-04 23:15:40 [INFO] - connected ! connection id: 5650 -----
+2021-07-04 23:15:40 [INFO] - connected ! connection id: 5651 -----
+2021-07-04 23:15:40 [INFO] - exe Disconnected ! connection id: 5650 !!
+2021-07-04 23:16:02 [INFO] - server started on http://localhost:3000
+2021-07-04 23:16:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:16:04 [INFO] - connected ! connection id: 5698 -----
+2021-07-04 23:16:04 [INFO] - connected ! connection id: 5699 -----
+2021-07-04 23:16:04 [INFO] - exe Disconnected ! connection id: 5698 !!
+2021-07-04 23:16:15 [INFO] - connected ! connection id: 5700 -----
+2021-07-04 23:16:15 [INFO] - connected ! connection id: 5701 -----
+2021-07-04 23:16:15 [INFO] - exe Disconnected ! connection id: 5700 !!
+2021-07-04 23:16:22 [INFO] - connected ! connection id: 5702 -----
+2021-07-04 23:16:22 [INFO] - connected ! connection id: 5703 -----
+2021-07-04 23:16:22 [INFO] - exe Disconnected ! connection id: 5702 !!
+2021-07-04 23:18:41 [INFO] - server started on http://localhost:3000
+2021-07-04 23:18:41 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5748 -----
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5749 -----
+2021-07-04 23:18:45 [INFO] - exe Disconnected ! connection id: 5748 !!
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5750 -----
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5751 -----
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5752 -----
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5753 -----
+2021-07-04 23:18:45 [INFO] - connected ! connection id: 5754 -----
+2021-07-04 23:18:45 [ERROR] - MenuModel: Error: (conn=5750, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:18:45 [ERROR] - MenuModel: Error: (conn=5751, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:18:45 [ERROR] - MenuModel: Error: (conn=5752, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:18:45 [ERROR] - MenuModel: Error: (conn=5753, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:18:45 [ERROR] - MenuModel: Error: (conn=5754, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:19:06 [INFO] - connected ! connection id: 5755 -----
+2021-07-04 23:19:06 [INFO] - connected ! connection id: 5756 -----
+2021-07-04 23:19:06 [INFO] - exe Disconnected ! connection id: 5755 !!
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5757 -----
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5758 -----
+2021-07-04 23:19:12 [INFO] - exe Disconnected ! connection id: 5757 !!
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5759 -----
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5760 -----
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5761 -----
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5762 -----
+2021-07-04 23:19:12 [INFO] - connected ! connection id: 5763 -----
+2021-07-04 23:19:12 [ERROR] - MenuModel: Error: (conn=5759, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:19:12 [ERROR] - MenuModel: Error: (conn=5760, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:19:12 [ERROR] - MenuModel: Error: (conn=5761, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:19:12 [ERROR] - MenuModel: Error: (conn=5762, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:19:12 [ERROR] - MenuModel: Error: (conn=5763, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:11 [INFO] - connected ! connection id: 5764 -----
+2021-07-04 23:20:11 [INFO] - connected ! connection id: 5765 -----
+2021-07-04 23:20:11 [INFO] - exe Disconnected ! connection id: 5764 !!
+2021-07-04 23:20:11 [INFO] - connected ! connection id: 5766 -----
+2021-07-04 23:20:11 [ERROR] - MenuModel: Error: (conn=5766, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5767 -----
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5768 -----
+2021-07-04 23:20:36 [INFO] - exe Disconnected ! connection id: 5767 !!
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5769 -----
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5770 -----
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5771 -----
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5772 -----
+2021-07-04 23:20:36 [INFO] - connected ! connection id: 5773 -----
+2021-07-04 23:20:36 [ERROR] - MenuModel: Error: (conn=5769, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:36 [ERROR] - MenuModel: Error: (conn=5770, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:36 [ERROR] - MenuModel: Error: (conn=5771, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:36 [ERROR] - MenuModel: Error: (conn=5772, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:20:36 [ERROR] - MenuModel: Error: (conn=5773, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:22:52 [INFO] - server started on http://localhost:3000
+2021-07-04 23:22:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:22:55 [INFO] - connected ! connection id: 5798 -----
+2021-07-04 23:22:55 [INFO] - connected ! connection id: 5799 -----
+2021-07-04 23:22:56 [INFO] - exe Disconnected ! connection id: 5798 !!
+2021-07-04 23:22:56 [INFO] - connected ! connection id: 5800 -----
+2021-07-04 23:22:56 [INFO] - connected ! connection id: 5801 -----
+2021-07-04 23:22:56 [INFO] - connected ! connection id: 5802 -----
+2021-07-04 23:22:56 [INFO] - connected ! connection id: 5803 -----
+2021-07-04 23:22:56 [INFO] - connected ! connection id: 5804 -----
+2021-07-04 23:22:56 [ERROR] - MenuModel: Error: (conn=5800, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:22:56 [ERROR] - MenuModel: Error: (conn=5801, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:22:56 [ERROR] - MenuModel: Error: (conn=5802, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:22:56 [ERROR] - MenuModel: Error: (conn=5803, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:22:56 [ERROR] - MenuModel: Error: (conn=5804, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:18 [INFO] - server started on http://localhost:3000
+2021-07-04 23:23:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5848 -----
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5849 -----
+2021-07-04 23:23:22 [INFO] - exe Disconnected ! connection id: 5848 !!
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5850 -----
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5851 -----
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5852 -----
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5853 -----
+2021-07-04 23:23:22 [INFO] - connected ! connection id: 5854 -----
+2021-07-04 23:23:22 [ERROR] - MenuModel: Error: (conn=5851, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:22 [ERROR] - MenuModel: Error: (conn=5854, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:22 [ERROR] - MenuModel: Error: (conn=5850, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:22 [ERROR] - MenuModel: Error: (conn=5852, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:22 [ERROR] - MenuModel: Error: (conn=5853, no: 1054, SQLState: 42S22) Unknown column 'undefined' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = undefined; - parameters:[]
+2021-07-04 23:23:53 [INFO] - server started on http://localhost:3000
+2021-07-04 23:23:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:23:57 [INFO] - connected ! connection id: 5898 -----
+2021-07-04 23:23:57 [INFO] - connected ! connection id: 5899 -----
+2021-07-04 23:23:58 [INFO] - exe Disconnected ! connection id: 5898 !!
+2021-07-04 23:23:58 [INFO] - connected ! connection id: 5900 -----
+2021-07-04 23:23:58 [INFO] - connected ! connection id: 5901 -----
+2021-07-04 23:23:58 [INFO] - connected ! connection id: 5902 -----
+2021-07-04 23:23:58 [INFO] - connected ! connection id: 5903 -----
+2021-07-04 23:23:58 [INFO] - connected ! connection id: 5904 -----
+2021-07-04 23:23:58 [ERROR] - MenuModel: Error: (conn=5900, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = menu000000001; - parameters:[]
+2021-07-04 23:23:58 [ERROR] - MenuModel: Error: (conn=5901, no: 1054, SQLState: 42S22) Unknown column 'menu000000002' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = menu000000002; - parameters:[]
+2021-07-04 23:23:58 [ERROR] - MenuModel: Error: (conn=5902, no: 1054, SQLState: 42S22) Unknown column 'menu000000003' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = menu000000003; - parameters:[]
+2021-07-04 23:23:58 [ERROR] - MenuModel: Error: (conn=5903, no: 1054, SQLState: 42S22) Unknown column 'menu000000004' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = menu000000004; - parameters:[]
+2021-07-04 23:23:58 [ERROR] - MenuModel: Error: (conn=5904, no: 1054, SQLState: 42S22) Unknown column 'menu000000005' in 'where clause'
+sql: SELECT * FROM toyerp.menu where PARENT_NO = menu000000005; - parameters:[]
+2021-07-04 23:24:12 [INFO] - server started on http://localhost:3000
+2021-07-04 23:24:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5948 -----
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5949 -----
+2021-07-04 23:24:15 [INFO] - exe Disconnected ! connection id: 5948 !!
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5950 -----
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5951 -----
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5952 -----
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5953 -----
+2021-07-04 23:24:15 [INFO] - connected ! connection id: 5954 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5955 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5956 -----
+2021-07-04 23:25:19 [INFO] - exe Disconnected ! connection id: 5955 !!
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5957 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5958 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5959 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5960 -----
+2021-07-04 23:25:19 [INFO] - connected ! connection id: 5961 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5962 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5963 -----
+2021-07-04 23:25:28 [INFO] - exe Disconnected ! connection id: 5962 !!
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5964 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5965 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5966 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5967 -----
+2021-07-04 23:25:28 [INFO] - connected ! connection id: 5968 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5969 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5970 -----
+2021-07-04 23:25:46 [INFO] - exe Disconnected ! connection id: 5969 !!
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5971 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5972 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5973 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5974 -----
+2021-07-04 23:25:46 [INFO] - connected ! connection id: 5975 -----
+2021-07-04 23:32:57 [INFO] - server started on http://localhost:3000
+2021-07-04 23:32:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:33:06 [INFO] - connected ! connection id: 5998 -----
+2021-07-04 23:33:06 [INFO] - connected ! connection id: 5999 -----
+2021-07-04 23:33:06 [INFO] - exe Disconnected ! connection id: 5998 !!
+2021-07-04 23:33:06 [INFO] - connected ! connection id: 6000 -----
+2021-07-04 23:34:00 [INFO] - server started on http://localhost:3000
+2021-07-04 23:34:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:34:19 [INFO] - server started on http://localhost:3000
+2021-07-04 23:34:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:34:21 [INFO] - connected ! connection id: 6098 -----
+2021-07-04 23:34:21 [INFO] - connected ! connection id: 6099 -----
+2021-07-04 23:34:21 [ERROR] - getMenuList: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-04 23:34:21 [INFO] - exe Disconnected ! connection id: 6098 !!
+2021-07-04 23:35:34 [INFO] - server started on http://localhost:3000
+2021-07-04 23:35:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:36:19 [INFO] - server started on http://localhost:3000
+2021-07-04 23:36:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:36:20 [INFO] - connected ! connection id: 6198 -----
+2021-07-04 23:36:20 [INFO] - connected ! connection id: 6199 -----
+2021-07-04 23:36:20 [INFO] - exe Disconnected ! connection id: 6198 !!
+2021-07-04 23:36:38 [INFO] - server started on http://localhost:3000
+2021-07-04 23:36:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:36:51 [INFO] - server started on http://localhost:3000
+2021-07-04 23:36:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:37:00 [INFO] - connected ! connection id: 6298 -----
+2021-07-04 23:37:00 [INFO] - connected ! connection id: 6299 -----
+2021-07-04 23:37:00 [INFO] - exe Disconnected ! connection id: 6298 !!
+2021-07-04 23:37:29 [INFO] - connected ! connection id: 6300 -----
+2021-07-04 23:37:29 [INFO] - connected ! connection id: 6301 -----
+2021-07-04 23:37:29 [INFO] - exe Disconnected ! connection id: 6300 !!
+2021-07-04 23:37:58 [INFO] - server started on http://localhost:3000
+2021-07-04 23:37:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:37:59 [INFO] - connected ! connection id: 6348 -----
+2021-07-04 23:37:59 [INFO] - connected ! connection id: 6349 -----
+2021-07-04 23:37:59 [INFO] - exe Disconnected ! connection id: 6348 !!
+2021-07-04 23:38:28 [INFO] - server started on http://localhost:3000
+2021-07-04 23:38:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:38:52 [INFO] - connected ! connection id: 6398 -----
+2021-07-04 23:38:52 [INFO] - connected ! connection id: 6399 -----
+2021-07-04 23:38:52 [INFO] - exe Disconnected ! connection id: 6398 !!
+2021-07-04 23:39:13 [INFO] - server started on http://localhost:3000
+2021-07-04 23:39:13 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6448 -----
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6449 -----
+2021-07-04 23:39:15 [INFO] - exe Disconnected ! connection id: 6448 !!
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6450 -----
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6451 -----
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6452 -----
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6454 -----
+2021-07-04 23:39:15 [INFO] - connected ! connection id: 6453 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6455 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6456 -----
+2021-07-04 23:39:32 [INFO] - exe Disconnected ! connection id: 6455 !!
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6457 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6458 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6459 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6460 -----
+2021-07-04 23:39:32 [INFO] - connected ! connection id: 6461 -----
+2021-07-04 23:42:39 [INFO] - server started on http://localhost:3000
+2021-07-04 23:42:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:42:47 [INFO] - server started on http://localhost:3000
+2021-07-04 23:42:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:42:59 [INFO] - connected ! connection id: 6548 -----
+2021-07-04 23:42:59 [INFO] - connected ! connection id: 6549 -----
+2021-07-04 23:42:59 [INFO] - exe Disconnected ! connection id: 6548 !!
+2021-07-04 23:44:00 [INFO] - connected ! connection id: 6550 -----
+2021-07-04 23:44:00 [INFO] - connected ! connection id: 6551 -----
+2021-07-04 23:44:00 [INFO] - exe Disconnected ! connection id: 6550 !!
+2021-07-04 23:44:07 [INFO] - connected ! connection id: 6552 -----
+2021-07-04 23:44:07 [INFO] - connected ! connection id: 6553 -----
+2021-07-04 23:44:07 [INFO] - exe Disconnected ! connection id: 6552 !!
+2021-07-04 23:45:18 [INFO] - server started on http://localhost:3000
+2021-07-04 23:45:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:45:20 [INFO] - connected ! connection id: 6598 -----
+2021-07-04 23:45:20 [INFO] - connected ! connection id: 6599 -----
+2021-07-04 23:45:20 [INFO] - exe Disconnected ! connection id: 6598 !!
+2021-07-04 23:45:42 [INFO] - server started on http://localhost:3000
+2021-07-04 23:45:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:45:51 [INFO] - server started on http://localhost:3000
+2021-07-04 23:45:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:46:28 [INFO] - server started on http://localhost:3000
+2021-07-04 23:46:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-04 23:46:31 [INFO] - connected ! connection id: 6748 -----
+2021-07-04 23:46:31 [INFO] - connected ! connection id: 6749 -----
+2021-07-04 23:46:31 [INFO] - exe Disconnected ! connection id: 6748 !!
+2021-07-04 23:47:26 [INFO] - connected ! connection id: 6750 -----
+2021-07-04 23:47:26 [INFO] - connected ! connection id: 6751 -----
+2021-07-04 23:47:26 [INFO] - exe Disconnected ! connection id: 6750 !!
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6752 -----
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6753 -----
+2021-07-04 23:47:40 [INFO] - exe Disconnected ! connection id: 6752 !!
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6754 -----
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6755 -----
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6756 -----
+2021-07-04 23:47:40 [INFO] - connected ! connection id: 6757 -----
+2021-07-04 23:48:00 [INFO] - connected ! connection id: 6758 -----
+2021-07-04 23:48:00 [INFO] - connected ! connection id: 6759 -----
+2021-07-04 23:48:00 [INFO] - exe Disconnected ! connection id: 6758 !!
+2021-07-04 23:56:35 [INFO] - connected ! connection id: 6760 -----
+2021-07-04 23:56:35 [INFO] - connected ! connection id: 6761 -----
+2021-07-04 23:56:35 [INFO] - exe Disconnected ! connection id: 6760 !!
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6762 -----
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6763 -----
+2021-07-04 23:56:52 [INFO] - exe Disconnected ! connection id: 6762 !!
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6764 -----
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6765 -----
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6766 -----
+2021-07-04 23:56:52 [INFO] - connected ! connection id: 6767 -----
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6768 -----
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6769 -----
+2021-07-04 23:57:49 [INFO] - exe Disconnected ! connection id: 6768 !!
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6770 -----
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6771 -----
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6772 -----
+2021-07-04 23:57:49 [INFO] - connected ! connection id: 6773 -----
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6774 -----
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6775 -----
+2021-07-04 23:58:23 [INFO] - exe Disconnected ! connection id: 6774 !!
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6779 -----
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6778 -----
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6777 -----
+2021-07-04 23:58:23 [INFO] - connected ! connection id: 6776 -----
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6780 -----
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6781 -----
+2021-07-04 23:58:37 [INFO] - exe Disconnected ! connection id: 6780 !!
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6782 -----
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6783 -----
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6784 -----
+2021-07-04 23:58:37 [INFO] - connected ! connection id: 6785 -----
