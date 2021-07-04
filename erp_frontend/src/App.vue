@@ -23,15 +23,15 @@
             <v-list dense>
                 <v-list-group
                     v-for="item in items"
-                    :key="item.title"
+                    :key="item.MENU_NM"
                     link
-                    :prepend-icon="item.icon"
+                    prepend-icon="mdi-folder"
                     no-action
                 >
                     <template v-slot:activator>
                         <v-list-item-content>
                             <v-list-item-title
-                                v-text="item.title"
+                                v-text="item.MENU_NM"
                                 class="title font-weight-bold"
                                 style="padding: 5px;"
                             ></v-list-item-title>
@@ -39,13 +39,13 @@
                     </template>
 
                     <v-list-item
-                        v-for="subItem in item.subItems"
-                        :key="subItem.title"
-                        :to="subItem.to"
+                        v-for="subItem in item.children"
+                        :key="subItem.MENU_NM"
+                        :to="subItem.MENU_URL"
                     >
                         <v-list-item-content>
                             <v-list-item-title
-                                v-text="subItem.title"
+                                v-text="subItem.MENU_NM"
                             ></v-list-item-title>
                         </v-list-item-content>
                     </v-list-item>
@@ -79,10 +79,21 @@
 
 <script lang="ts">
 import Vue from 'vue';
+import { getMenuList } from '@/axios/menu';
 
 export default Vue.extend({
     name: 'App',
     methods: {},
+    // async updated(): Promise<void> {
+    //     try {
+    //         let result = await getMenuList({ MENU_NO: 'menu000000000' });
+    //         //console.log(result.data.data['getMenuList']['result']);
+    //         let item = result.data.data['getMenuList']['result'];
+    //         this.items = item;
+    //     } catch (error) {
+    //         console.error(error);
+    //     }
+    // },
     data: () => ({
         drawer: true,
         items: [
@@ -119,6 +130,17 @@ export default Vue.extend({
                     {
                         title: '코드관리',
                         to: '/code',
+                    },
+                ],
+            },
+            {
+                title: '메뉴관리',
+                active: true,
+                icon: 'mdi-qrcode-remove',
+                subItems: [
+                    {
+                        title: '메뉴관리',
+                        to: '/menu',
                     },
                 ],
             },

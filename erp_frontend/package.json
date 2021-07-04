@@ -15,7 +15,9 @@
         "vue-daum-postcode": "^0.9.0",
         "vue-property-decorator": "^9.1.2",
         "vue-router": "^3.2.0",
+        "vuedraggable": "^2.24.3",
         "vuetify": "^2.4.0",
+        "vuetify-draggable-treeview": "0.0.6",
         "vuex": "^3.4.0"
     },
     "devDependencies": {
