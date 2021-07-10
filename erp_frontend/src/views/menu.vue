@@ -25,27 +25,54 @@
                 <v-card>
                     <v-card-title> </v-card-title>
                     <v-card-text>
-                        <v-draggable-treeview v-model="items" group="hoge">
-                            <!-- eslint-disable-next-line vue/no-unused-vars -->
-                            <template v-slot:prepend="{ item }">
-                                <v-icon>mdi-folder</v-icon>
-                            </template>
+                        <v-treeview
+                            v-model="selected"
+                            :open="initiallyOpen"
+                            :items="getNodes(items)"
+                            activatable
+                            item-key="name"
+                            open-on-click
+                        >
                             <template v-slot:label="{ item }">
-                                <span class="primary--text">{{
-                                    item.MENU_NM
-                                }}</span>
+                                <div class="v-treeview-node__label">
+                                    <span>{{ item.name }}</span>
+                                    <v-btn
+                                        class="mx-2 mb-1"
+                                        dark
+                                        x-small
+                                        color="error"
+                                        @click.stop="deleteMenu(item)"
+                                        v-if="item.order == 1"
+                                    >
+                                        {{ item['ORDER'] }}
+                                        <v-icon dark>
+                                            mdi-minus
+                                        </v-icon>
+                                    </v-btn>
+                                    <v-btn
+                                        class="mx-2 mb-1"
+                                        dark
+                                        x-small
+                                        color="primary"
+                                        @click="openCodeModal(1, false)"
+                                        v-if="item.order == 1"
+                                    >
+                                        <v-icon dark>
+                                            mdi-plus
+                                        </v-icon>
+                                    </v-btn>
+                                </div>
                             </template>
-                            <template v-slot:append="{ item }">
-                                <template
-                                    v-if="
-                                        item.children != null &&
-                                            item.children.length > 0
-                                    "
-                                >
-                                    has {{ item.children.length }} children
-                                </template>
+                            <template v-slot:prepend="{ item, open }">
+                                <v-icon v-if="item.children.length > 0">
+                                    {{
+                                        open ? 'mdi-folder-open' : 'mdi-folder'
+                                    }} </v-icon
+                                ><v-icon v-else>
+                                    {{ 'mdi-language-html5' }}
+                                </v-icon>
                             </template>
-                        </v-draggable-treeview>
+                        </v-treeview>
                     </v-card-text>
                 </v-card>
             </v-flex>
@@ -63,45 +90,33 @@ import { getMenuList } from '@/axios/menu';
     components: { VuetifyDraggableTreeview },
 })
 export default class Menu extends Vue {
-    items = [
-        {
-            id: 1,
-            name: 'Central League',
-            children: [
-                { id: 101, name: 'Dragons' },
-                { id: 102, name: 'Tigers' },
-            ],
-        },
-        {
-            id: 2,
-            name: 'Pacific League',
-            children: [
-                {
-                    id: 201,
-                    name: 'Lions',
-                    children: [
-                        { id: 203, name: 'Lions Minor' },
-                        {
-                            id: 204,
-                            name: 'Lions third',
-                            children: [
-                                { id: 2041, name: 'Lions Minor Second' },
-                            ],
-                        },
-                    ],
-                },
-            ],
-        },
-    ];
+    selected = [];
+    items = [];
+    initiallyOpen = ['public'];
     async created(): Promise<void> {
         try {
             let result = await getMenuList({ MENU_NO: 'menu000000000' });
-            console.log(result.data.data['getMenuList']['result']);
-            let item = result.data.data['getMenuList']['result'];
+            console.log(result.data.data['getMenuList']);
+            let item = result.data.data['getMenuList'];
             this.items = item;
+            this.getNodes(this.items);
         } catch (error) {
             console.error(error);
         }
+    }
+    getNodes(items: any): any {
+        return items.map(item => {
+            let itemList = {
+                id: item['MENU_NO'],
+                name: item['MENU_NM'],
+                order: item['ORDER'],
+                children: item.children ? this.getNodes(item.children) : [],
+            };
+            return itemList;
+        });
+    }
+    deleteMenu(): void {
+        console.log('gg');
     }
 }
 </script>

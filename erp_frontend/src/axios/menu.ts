@@ -5,27 +5,29 @@ async function getMenuList({ MENU_NO }: any): Promise<any> {
         query: `
             query{
   getMenuList(MENU_NO:"${MENU_NO}"){
-                result{
                 MENU_NO
                 MENU_NM
                 MENU_URL
                 ORDER
                 DEL_YN
+                MENU_ICON
                 children{
                     MENU_NO
                     MENU_NM
                     MENU_URL
                     ORDER
                     DEL_YN
+                    MENU_ICON
                   children{
                     MENU_NO
                     MENU_NM
                     MENU_URL
                     ORDER
                     DEL_YN
+                    MENU_ICON
                 }
                 }
-            }
+            
         }  
 }
     `,

@@ -39,6 +39,24 @@
     float: right;
 }
 
+.mdi-view-dashboard::before {
+    color: white;
+}
+.mdi-account-circle::before {
+    color: white;
+}
+.mdi-qrcode-remove::before {
+    color: white;
+}
+.mdi-folder::before {
+    color: white;
+}
+.mdi-chevron-down::before {
+    color: white;
+}
+.v-list-item--active .v-list-item .v-list-item--link .theme--light {
+    background-color: black;
+}
 /*
  * The following styles are auto-applied to elements with
  * transition="modal" when their visibility is toggled
