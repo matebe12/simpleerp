@@ -12,10 +12,8 @@ app.use(cors());
 
 import typeDefs from './graphql/schemas.js';
 const resolvers = require('./graphql/resolver.js');
-
 const logger = require('./logger/winston');
 const log = msg => logger.info(msg);
-
 const server = new ApolloServer({
     typeDefs,
     resolvers,

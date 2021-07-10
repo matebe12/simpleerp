@@ -150,6 +150,7 @@ module.exports = {
             conn.rollback();
             throw error;
         } finally {
+            conn.end();
         }
     },
     async updateEmployee(
@@ -183,6 +184,7 @@ module.exports = {
             conn.rollback();
             throw error;
         } finally {
+            conn.end();
         }
     },
 };

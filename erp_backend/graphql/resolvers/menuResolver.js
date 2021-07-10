@@ -1,38 +1,30 @@
 require('dotenv').config();
-import db from '../../db/dbConnection';
-import menuLoader from '../dataloader/menuLoader.js';
+import { getPoolConnection } from '../../db/dbConnection';
+import { getMenuLoader } from '../dataloader/menuLoader.js';
+import { getMenuList } from '../../db/exe/menuExe';
 import logger from '../../logger/winston';
-
-//const commonSql = require("../../db/dbCommonExe")
-
 const menuResolver = {
     Query: {
         async getMenuList(_, { MENU_NO }) {
-            let conn = await db.getPoolConnection();
+            let conn = await getPoolConnection();
             try {
                 let req = {
                     MENU_NO,
                 };
-                console.log(req);
-                const results = await menuLoader.getMenuLoader.load(req);
-                console.log(results);
-                return results;
+                return await getMenuList(conn, req);
             } catch (error) {
                 logger.error('getMenuList: ' + error);
                 throw error;
             } finally {
-                if (conn) await db.endPoolConnection(conn);
+                if (conn) await conn.end();
             }
         },
     },
     MenuModel: {
-        children: async parent => {
+        children: async ({ MENU_NO }) => {
             try {
-                let conn = await db.getPoolConnection();
-                //console.log(`ffjfcghj ${parent['MENU_NO']}`);
-                let str = `SELECT * FROM toyerp.menu where PARENT_NO = '${parent['MENU_NO']}';`;
-                let result = await conn.query(str);
                 console.log(result);
+                let result = await getMenuLoader.load({ PARENT_NO: MENU_NO });
                 return result;
             } catch (error) {
                 logger.error('MenuModel: ' + error);

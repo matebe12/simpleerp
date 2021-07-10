@@ -1,25 +1,44 @@
 import mariadb from 'mariadb';
-import db from '../dbConnection';
+import { exeTransaction } from '../dbConnection';
+import { arrangeForDataLoader } from '../../db/exe/common';
 //const query = require('./dbQuery');
 //const etcSql = require('./dbEtcExe');
 const logger = require('../../logger/winston');
 
-module.exports = {
-    async getMenuList(conn = mariadb.Connection, req = null) {
-        try {
-            await conn.beginTransaction();
-            let result = [];
-            console.log(req);
-            let str = `
-      SELECT * FROM toyerp.menu where PARENT_NO = '${req}';
-      `;
-            result = await conn.query(str);
-            return { result };
-        } catch (error) {
-            logger.error('getMenuList: ' + error);
-            throw error;
-        } finally {
-            conn.close();
-        }
-    },
+const getMenuListNotLoader = async (conn = null, req = null) => {
+    const str = `SELECT * FROM toyerp.menu where PARENT_NO = '${req['MENU_NO']}'`;
+    return await exeTransaction(conn, str);
 };
+
+const getMenuList = async (conn = null, req = null) => {
+    try {
+        let str = '';
+        if (req.length > 0) {
+            let PARENT_NO = [];
+            req.map((v, i) => {
+                PARENT_NO = [...PARENT_NO, v.PARENT_NO];
+            });
+            str = `
+            SELECT * FROM toyerp.menu where PARENT_NO in (${req.map(
+                key => `'${key['PARENT_NO']}'`
+            )});
+            `;
+            console.log(str);
+            let result = await exeTransaction(null, str);
+            let arrangeResults = arrangeForDataLoader(
+                PARENT_NO,
+                result,
+                function (item) {
+                    return item['PARENT_NO'];
+                }
+            );
+            return arrangeResults;
+        } else
+            str = `SELECT * FROM toyerp.menu where PARENT_NO = '${req['MENU_NO']}'`;
+        return await exeTransaction(conn, str);
+    } catch (error) {
+        logger.error('getMenuList3: ' + error);
+        throw error;
+    }
+};
+export { getMenuList, getMenuListNotLoader };

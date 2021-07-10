@@ -7,9 +7,12 @@ export default {
     getEmployeeLoader: new dataloader(
         async req => {
             try {
+                console.log(req);
                 const conn = await db.getPoolConnection();
                 const result = await exe.employeeExe(conn, req);
                 console.log(result);
+                db.endPoolConnection();
+
                 return [result];
             } catch (error) {
                 logger.log(`getEmployeeLoader error ${error}`);

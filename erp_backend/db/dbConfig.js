@@ -9,5 +9,4 @@ export default {
     port: 3306,
     password: process.env.DB_PW,
     database: process.env.DB_NAME,
-    multipleStatements: true,
 };

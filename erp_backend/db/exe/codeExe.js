@@ -17,6 +17,7 @@ module.exports = {
             logger.error('checkCodeId: ' + error);
             throw error;
         } finally {
+            conn.end();
         }
     },
     async getCodeList(conn = mariadb.Connection, { PARENT_CODE }) {
@@ -32,6 +33,7 @@ module.exports = {
             logger.error('getCodeList: ' + error);
             throw error;
         } finally {
+            conn.end();
         }
     },
     async getCodeOne(conn = mariadb.Connection, { CODE_ID }) {
@@ -47,6 +49,7 @@ module.exports = {
             logger.error('getCodeList: ' + error);
             throw error;
         } finally {
+            conn.end();
         }
     },
     async checkCodeName(conn = mariadb.Connection, { CODE_NM }) {
@@ -62,6 +65,7 @@ module.exports = {
             logger.error('checkCodeName: ' + error);
             throw error;
         } finally {
+            conn.end();
         }
     },
     async insertCode(
@@ -96,6 +100,7 @@ module.exports = {
             conn.rollback();
             throw error;
         } finally {
+            conn.end();
         }
     },
     async updateCode(
@@ -124,6 +129,7 @@ module.exports = {
             conn.rollback();
             throw error;
         } finally {
+            conn.end();
         }
     },
     async deleteCode(conn = mariadb.Connection, { CODE_ID }) {
@@ -153,6 +159,7 @@ module.exports = {
             conn.rollback();
             throw error;
         } finally {
+            conn.end();
         }
     },
 };

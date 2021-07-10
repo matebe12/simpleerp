@@ -2,10 +2,7 @@ import { gql } from 'apollo-server-express';
 
 const codeType = gql`
     type Query {
-        getMenuList(MENU_NO: String): Menu
-    }
-    type Menu {
-        result: [MenuModel]
+        getMenuList(MENU_NO: String): [MenuModel]
     }
     type MenuModel {
         MENU_NO: ID
@@ -16,6 +13,7 @@ const codeType = gql`
         ORDER: Int
         DEL_YN: String
         CREATED_NO: String
+        MENU_ICON: String
         children: [MenuModel]
     }
 `;

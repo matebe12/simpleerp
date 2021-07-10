@@ -1,0 +1,2501 @@
+2021-07-10 14:51:10 [INFO] - server started on http://localhost:3000
+2021-07-10 14:51:10 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:51:14 [INFO] - connected ! connection id: 6999 -----
+2021-07-10 14:51:38 [INFO] - server started on http://localhost:3000
+2021-07-10 14:51:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:51:50 [INFO] - connected ! connection id: 7049 -----
+2021-07-10 14:54:29 [INFO] - server started on http://localhost:3000
+2021-07-10 14:54:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:55:54 [INFO] - server started on http://localhost:3000
+2021-07-10 14:55:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:59:04 [INFO] - server started on http://localhost:3000
+2021-07-10 14:59:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:59:05 [INFO] - connected ! connection id: 7249 -----
+2021-07-10 14:59:13 [INFO] - connected ! connection id: 7250 -----
+2021-07-10 14:59:25 [INFO] - server started on http://localhost:3000
+2021-07-10 14:59:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 14:59:28 [INFO] - connected ! connection id: 7299 -----
+2021-07-10 15:03:23 [INFO] - server started on http://localhost:3000
+2021-07-10 15:03:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:03:25 [INFO] - connected ! connection id: 7399 -----
+2021-07-10 15:03:43 [INFO] - server started on http://localhost:3000
+2021-07-10 15:03:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:03:47 [INFO] - connected ! connection id: 7449 -----
+2021-07-10 15:03:47 [INFO] - connected ! connection id: 7450 -----
+2021-07-10 15:03:47 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:03:47 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:03:47 [INFO] - connected ! connection id: 7451 -----
+2021-07-10 15:03:47 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:03:47 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:03:47 [INFO] - connected ! connection id: 7452 -----
+2021-07-10 15:03:47 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:03:47 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:03:47 [INFO] - connected ! connection id: 7453 -----
+2021-07-10 15:03:47 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:03:47 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:04:53 [INFO] - server started on http://localhost:3000
+2021-07-10 15:04:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:04:55 [INFO] - connected ! connection id: 7499 -----
+2021-07-10 15:04:55 [INFO] - connected ! connection id: 7501 -----
+2021-07-10 15:04:55 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:04:55 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:04:55 [INFO] - connected ! connection id: 7502 -----
+2021-07-10 15:04:55 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:04:55 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:04:55 [INFO] - connected ! connection id: 7503 -----
+2021-07-10 15:04:55 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:04:55 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:04:55 [INFO] - connected ! connection id: 7500 -----
+2021-07-10 15:04:55 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:04:55 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:05:07 [INFO] - server started on http://localhost:3000
+2021-07-10 15:05:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:05:24 [INFO] - connected ! connection id: 7549 -----
+2021-07-10 15:05:24 [INFO] - connected ! connection id: 7550 -----
+2021-07-10 15:05:24 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:05:24 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:05:24 [INFO] - connected ! connection id: 7551 -----
+2021-07-10 15:05:24 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:05:24 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:05:24 [INFO] - connected ! connection id: 7552 -----
+2021-07-10 15:05:24 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:05:24 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:05:24 [INFO] - connected ! connection id: 7553 -----
+2021-07-10 15:05:24 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:05:24 [ERROR] - MenuModel: ReferenceError: conn is not defined
+2021-07-10 15:05:36 [INFO] - server started on http://localhost:3000
+2021-07-10 15:05:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7599 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7600 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7601 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7602 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7603 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7604 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7605 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7606 -----
+2021-07-10 15:05:36 [INFO] - connected ! connection id: 7607 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7608 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7609 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7610 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7611 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7612 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7613 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7614 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7615 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7616 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7617 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7618 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7619 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7620 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7621 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7622 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7623 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7624 -----
+2021-07-10 15:05:59 [INFO] - connected ! connection id: 7625 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7626 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7627 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7628 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7629 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7630 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7631 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7632 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7634 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7636 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7637 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7638 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7639 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7640 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7641 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7642 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7643 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7644 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7645 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7646 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7647 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7648 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7599 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7604 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7605 -----
+2021-07-10 15:06:00 [INFO] - connected ! connection id: 7606 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7607 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7608 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7613 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7614 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7615 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7616 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7617 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7622 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7623 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7624 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7625 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7626 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7631 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7632 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7634 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7640 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7641 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7642 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7643 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7644 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7599 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7604 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7605 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7606 -----
+2021-07-10 15:06:01 [INFO] - connected ! connection id: 7607 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7616 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7617 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7622 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7623 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7624 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7634 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7640 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7641 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7604 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7616 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7605 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7634 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7606 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7640 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7607 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7641 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7616 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7634 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7640 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7635 -----
+2021-07-10 15:06:02 [INFO] - connected ! connection id: 7633 -----
+2021-07-10 15:06:24 [INFO] - server started on http://localhost:3000
+2021-07-10 15:06:24 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:11:44 [INFO] - server started on http://localhost:3000
+2021-07-10 15:11:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:12:06 [INFO] - server started on http://localhost:3000
+2021-07-10 15:12:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:13:35 [INFO] - server started on http://localhost:3000
+2021-07-10 15:13:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:13:37 [INFO] - connected ! connection id: 7852 -----
+2021-07-10 15:13:37 [INFO] - connected ! connection id: 7853 -----
+2021-07-10 15:13:56 [INFO] - server started on http://localhost:3000
+2021-07-10 15:13:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:13:59 [INFO] - connected ! connection id: 7902 -----
+2021-07-10 15:13:59 [INFO] - connected ! connection id: 7903 -----
+2021-07-10 15:15:23 [INFO] - server started on http://localhost:3000
+2021-07-10 15:15:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:15:31 [INFO] - server started on http://localhost:3000
+2021-07-10 15:15:31 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:15:39 [INFO] - connected ! connection id: 8002 -----
+2021-07-10 15:15:39 [INFO] - connected ! connection id: 8003 -----
+2021-07-10 15:15:39 [ERROR] - getMenuList3: TypeError: Cannot read property 'beginTransaction' of null
+2021-07-10 15:15:39 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'beginTransaction' of null'
+2021-07-10 15:15:39 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'beginTransaction' of null'
+2021-07-10 15:15:39 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'beginTransaction' of null'
+2021-07-10 15:15:39 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'beginTransaction' of null'
+2021-07-10 15:17:53 [INFO] - server started on http://localhost:3000
+2021-07-10 15:17:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:17:55 [INFO] - connected ! connection id: 8052 -----
+2021-07-10 15:17:55 [INFO] - connected ! connection id: 8054 -----
+2021-07-10 15:18:48 [INFO] - server started on http://localhost:3000
+2021-07-10 15:18:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:18:48 [INFO] - connected ! connection id: 8102 -----
+2021-07-10 15:18:49 [INFO] - connected ! connection id: 8104 -----
+2021-07-10 15:20:20 [INFO] - connected ! connection id: 8106 -----
+2021-07-10 15:20:20 [INFO] - connected ! connection id: 8108 -----
+2021-07-10 15:20:30 [INFO] - server started on http://localhost:3000
+2021-07-10 15:20:30 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:20:32 [INFO] - connected ! connection id: 8152 -----
+2021-07-10 15:20:32 [INFO] - connected ! connection id: 8154 -----
+2021-07-10 15:20:50 [INFO] - server started on http://localhost:3000
+2021-07-10 15:20:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:20:52 [INFO] - connected ! connection id: 8203 -----
+2021-07-10 15:20:52 [INFO] - connected ! connection id: 8205 -----
+2021-07-10 15:21:13 [INFO] - server started on http://localhost:3000
+2021-07-10 15:21:13 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:21:17 [INFO] - connected ! connection id: 8253 -----
+2021-07-10 15:21:17 [INFO] - connected ! connection id: 8255 -----
+2021-07-10 15:21:52 [INFO] - server started on http://localhost:3000
+2021-07-10 15:21:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:22:08 [INFO] - server started on http://localhost:3000
+2021-07-10 15:22:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:22:09 [INFO] - connected ! connection id: 8353 -----
+2021-07-10 15:22:09 [INFO] - connected ! connection id: 8355 -----
+2021-07-10 15:22:54 [INFO] - server started on http://localhost:3000
+2021-07-10 15:22:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:22:54 [INFO] - connected ! connection id: 8403 -----
+2021-07-10 15:22:54 [INFO] - connected ! connection id: 8405 -----
+2021-07-10 15:23:16 [INFO] - server started on http://localhost:3000
+2021-07-10 15:23:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:23:17 [INFO] - connected ! connection id: 8453 -----
+2021-07-10 15:23:17 [INFO] - connected ! connection id: 8455 -----
+2021-07-10 15:23:24 [INFO] - connected ! connection id: 8457 -----
+2021-07-10 15:23:24 [INFO] - connected ! connection id: 8459 -----
+2021-07-10 15:23:30 [INFO] - connected ! connection id: 8461 -----
+2021-07-10 15:23:30 [INFO] - connected ! connection id: 8463 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8465 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8467 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8469 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8471 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8473 -----
+2021-07-10 15:23:31 [INFO] - connected ! connection id: 8475 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8477 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8479 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8481 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8483 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8485 -----
+2021-07-10 15:23:32 [INFO] - connected ! connection id: 8487 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8489 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8491 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8493 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8495 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8497 -----
+2021-07-10 15:23:33 [INFO] - connected ! connection id: 8499 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8501 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8454 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8456 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8457 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8462 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8464 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8465 -----
+2021-07-10 15:23:34 [INFO] - connected ! connection id: 8470 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8472 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8473 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8478 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8480 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8481 -----
+2021-07-10 15:23:35 [INFO] - connected ! connection id: 8486 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8488 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8489 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8494 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8496 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8497 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8502 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8453 -----
+2021-07-10 15:23:36 [INFO] - connected ! connection id: 8456 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8461 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8466 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8465 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8474 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8476 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8478 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8484 -----
+2021-07-10 15:23:37 [INFO] - connected ! connection id: 8485 -----
+2021-07-10 15:23:38 [INFO] - connected ! connection id: 8488 -----
+2021-07-10 15:23:38 [INFO] - connected ! connection id: 8493 -----
+2021-07-10 15:24:00 [INFO] - server started on http://localhost:3000
+2021-07-10 15:24:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:24:01 [INFO] - connected ! connection id: 8503 -----
+2021-07-10 15:24:01 [INFO] - connected ! connection id: 8505 -----
+2021-07-10 15:24:02 [INFO] - connected ! connection id: 8507 -----
+2021-07-10 15:24:02 [INFO] - connected ! connection id: 8509 -----
+2021-07-10 15:24:42 [INFO] - server started on http://localhost:3000
+2021-07-10 15:24:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:24:44 [INFO] - connected ! connection id: 8553 -----
+2021-07-10 15:24:44 [INFO] - connected ! connection id: 8555 -----
+2021-07-10 15:27:11 [INFO] - server started on http://localhost:3000
+2021-07-10 15:27:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:27:13 [INFO] - connected ! connection id: 8603 -----
+2021-07-10 15:27:13 [ERROR] - exeTransaction: Error: (conn=8604, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 15:27:13 [ERROR] - getMenuList3: Error: (conn=8604, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 15:27:13 [ERROR] - getMenuList: Error: (conn=8604, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 15:27:27 [INFO] - server started on http://localhost:3000
+2021-07-10 15:27:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:27:35 [INFO] - server started on http://localhost:3000
+2021-07-10 15:27:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:27:37 [INFO] - connected ! connection id: 8703 -----
+2021-07-10 15:27:37 [INFO] - connected ! connection id: 8705 -----
+2021-07-10 15:27:46 [INFO] - connected ! connection id: 8707 -----
+2021-07-10 15:27:46 [INFO] - connected ! connection id: 8709 -----
+2021-07-10 15:28:01 [INFO] - server started on http://localhost:3000
+2021-07-10 15:28:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:28:07 [INFO] - server started on http://localhost:3000
+2021-07-10 15:28:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:28:43 [INFO] - server started on http://localhost:3000
+2021-07-10 15:28:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:28:45 [INFO] - connected ! connection id: 8853 -----
+2021-07-10 15:28:53 [INFO] - connected ! connection id: 8855 -----
+2021-07-10 15:29:15 [INFO] - server started on http://localhost:3000
+2021-07-10 15:29:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:29:17 [INFO] - connected ! connection id: 8903 -----
+2021-07-10 15:29:17 [ERROR] - getMenuList3: ReferenceError: result is not defined
+2021-07-10 15:29:17 [ERROR] - getMenuList: ReferenceError: result is not defined
+2021-07-10 15:29:27 [INFO] - server started on http://localhost:3000
+2021-07-10 15:29:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:29:28 [INFO] - connected ! connection id: 8953 -----
+2021-07-10 15:30:20 [INFO] - server started on http://localhost:3000
+2021-07-10 15:30:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:30:27 [INFO] - server started on http://localhost:3000
+2021-07-10 15:30:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:30:33 [INFO] - server started on http://localhost:3000
+2021-07-10 15:30:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:30:34 [INFO] - connected ! connection id: 9103 -----
+2021-07-10 15:30:58 [INFO] - server started on http://localhost:3000
+2021-07-10 15:30:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:31:10 [INFO] - server started on http://localhost:3000
+2021-07-10 15:31:10 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:31:13 [INFO] - connected ! connection id: 9203 -----
+2021-07-10 15:31:35 [INFO] - server started on http://localhost:3000
+2021-07-10 15:31:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:31:41 [INFO] - connected ! connection id: 9253 -----
+2021-07-10 15:31:41 [INFO] - connected ! connection id: 9255 -----
+2021-07-10 15:31:52 [INFO] - connected ! connection id: 9257 -----
+2021-07-10 15:31:52 [INFO] - connected ! connection id: 9259 -----
+2021-07-10 15:32:28 [INFO] - server started on http://localhost:3000
+2021-07-10 15:32:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:32:29 [INFO] - connected ! connection id: 9303 -----
+2021-07-10 15:32:44 [INFO] - server started on http://localhost:3000
+2021-07-10 15:32:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:32:46 [INFO] - connected ! connection id: 9353 -----
+2021-07-10 15:32:46 [INFO] - connected ! connection id: 9355 -----
+2021-07-10 15:33:26 [INFO] - server started on http://localhost:3000
+2021-07-10 15:33:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:33:28 [INFO] - connected ! connection id: 9403 -----
+2021-07-10 15:33:28 [INFO] - connected ! connection id: 9405 -----
+2021-07-10 15:33:50 [INFO] - server started on http://localhost:3000
+2021-07-10 15:33:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:33:51 [INFO] - connected ! connection id: 9453 -----
+2021-07-10 15:33:51 [INFO] - connected ! connection id: 9455 -----
+2021-07-10 15:35:25 [INFO] - server started on http://localhost:3000
+2021-07-10 15:35:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:35:31 [INFO] - connected ! connection id: 9503 -----
+2021-07-10 15:35:31 [INFO] - connected ! connection id: 9505 -----
+2021-07-10 15:36:03 [INFO] - server started on http://localhost:3000
+2021-07-10 15:36:03 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:36:04 [INFO] - connected ! connection id: 9553 -----
+2021-07-10 15:36:04 [INFO] - connected ! connection id: 9555 -----
+2021-07-10 15:36:13 [INFO] - server started on http://localhost:3000
+2021-07-10 15:36:13 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:36:15 [INFO] - connected ! connection id: 9603 -----
+2021-07-10 15:36:15 [INFO] - connected ! connection id: 9605 -----
+2021-07-10 15:40:14 [INFO] - server started on http://localhost:3000
+2021-07-10 15:40:14 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:40:15 [INFO] - connected ! connection id: 9705 -----
+2021-07-10 15:40:15 [INFO] - connected ! connection id: 9707 -----
+2021-07-10 15:43:56 [INFO] - server started on http://localhost:3000
+2021-07-10 15:43:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:44:11 [INFO] - server started on http://localhost:3000
+2021-07-10 15:44:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:44:14 [INFO] - connected ! connection id: 9806 -----
+2021-07-10 15:44:14 [INFO] - connected ! connection id: 9808 -----
+2021-07-10 15:44:14 [ERROR] - MenuModel: TypeError: Cannot read property '0' of undefined
+2021-07-10 15:44:14 [ERROR] - MenuModel: TypeError: Cannot read property '0' of undefined
+2021-07-10 15:44:14 [ERROR] - MenuModel: TypeError: Cannot read property '0' of undefined
+2021-07-10 15:44:14 [ERROR] - MenuModel: TypeError: Cannot read property '0' of undefined
+2021-07-10 15:44:23 [INFO] - server started on http://localhost:3000
+2021-07-10 15:44:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:44:24 [INFO] - connected ! connection id: 9856 -----
+2021-07-10 15:44:24 [INFO] - connected ! connection id: 9858 -----
+2021-07-10 15:44:47 [INFO] - server started on http://localhost:3000
+2021-07-10 15:44:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:45:52 [INFO] - server started on http://localhost:3000
+2021-07-10 15:45:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:46:34 [INFO] - server started on http://localhost:3000
+2021-07-10 15:46:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:46:36 [INFO] - connected ! connection id: 10006 -----
+2021-07-10 15:46:36 [INFO] - connected ! connection id: 10008 -----
+2021-07-10 15:47:26 [INFO] - server started on http://localhost:3000
+2021-07-10 15:47:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:47:32 [INFO] - connected ! connection id: 10056 -----
+2021-07-10 15:47:32 [INFO] - connected ! connection id: 10058 -----
+2021-07-10 15:48:02 [INFO] - server started on http://localhost:3000
+2021-07-10 15:48:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:48:03 [INFO] - connected ! connection id: 10106 -----
+2021-07-10 15:48:03 [INFO] - connected ! connection id: 10108 -----
+2021-07-10 15:49:31 [INFO] - server started on http://localhost:3000
+2021-07-10 15:49:31 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:49:34 [INFO] - connected ! connection id: 10156 -----
+2021-07-10 15:49:34 [INFO] - connected ! connection id: 10158 -----
+2021-07-10 15:52:00 [INFO] - server started on http://localhost:3000
+2021-07-10 15:52:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:52:09 [INFO] - connected ! connection id: 10206 -----
+2021-07-10 15:54:59 [INFO] - server started on http://localhost:3000
+2021-07-10 15:54:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:55:00 [INFO] - connected ! connection id: 10256 -----
+2021-07-10 15:55:39 [INFO] - server started on http://localhost:3000
+2021-07-10 15:55:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:55:40 [INFO] - connected ! connection id: 10306 -----
+2021-07-10 15:56:11 [INFO] - connected ! connection id: 10308 -----
+2021-07-10 15:56:32 [INFO] - server started on http://localhost:3000
+2021-07-10 15:56:32 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:56:34 [INFO] - connected ! connection id: 10356 -----
+2021-07-10 15:56:58 [INFO] - server started on http://localhost:3000
+2021-07-10 15:56:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10406 -----
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10408 -----
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10413 -----
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10414 -----
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10415 -----
+2021-07-10 15:56:59 [INFO] - connected ! connection id: 10416 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10421 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10423 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10428 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10429 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10430 -----
+2021-07-10 15:57:31 [INFO] - connected ! connection id: 10431 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10436 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10438 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10443 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10444 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10445 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10446 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10451 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10453 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10409 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10410 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10411 -----
+2021-07-10 15:57:32 [INFO] - connected ! connection id: 10412 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10422 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10424 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10433 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10434 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10435 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10437 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10442 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10448 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10454 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10455 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10417 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10418 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10421 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10427 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10447 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10440 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10439 -----
+2021-07-10 15:57:33 [INFO] - connected ! connection id: 10441 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10452 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10406 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10425 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10432 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10442 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10450 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10407 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10421 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10436 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10451 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10407 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10420 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10426 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10419 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10426 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10452 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10422 -----
+2021-07-10 15:57:34 [INFO] - connected ! connection id: 10449 -----
+2021-07-10 15:57:43 [INFO] - server started on http://localhost:3000
+2021-07-10 15:57:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:07:11 [INFO] - server started on http://localhost:3000
+2021-07-10 16:07:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:07:40 [INFO] - connected ! connection id: 10656 -----
+2021-07-10 16:07:40 [ERROR] - exeTransaction: Error: (conn=10657, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'toString() { [native code] })' at line 1
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (function toString() { [native code] });
+             - parameters:[]
+2021-07-10 16:07:40 [ERROR] - getMenuList3: Error: (conn=10657, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'toString() { [native code] })' at line 1
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (function toString() { [native code] });
+             - parameters:[]
+2021-07-10 16:07:40 [ERROR] - getMenuList: Error: (conn=10657, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'toString() { [native code] })' at line 1
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (function toString() { [native code] });
+             - parameters:[]
+2021-07-10 16:08:03 [INFO] - server started on http://localhost:3000
+2021-07-10 16:08:03 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:08:03 [INFO] - connected ! connection id: 10706 -----
+2021-07-10 16:08:03 [ERROR] - exeTransaction: Error: (conn=10707, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:08:03 [ERROR] - getMenuList3: Error: (conn=10707, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:08:03 [ERROR] - getMenuList: Error: (conn=10707, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:08:25 [INFO] - server started on http://localhost:3000
+2021-07-10 16:08:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10756 -----
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10758 -----
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10763 -----
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10764 -----
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10765 -----
+2021-07-10 16:08:28 [INFO] - connected ! connection id: 10766 -----
+2021-07-10 16:08:40 [INFO] - server started on http://localhost:3000
+2021-07-10 16:08:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:08:43 [INFO] - connected ! connection id: 10806 -----
+2021-07-10 16:08:43 [INFO] - connected ! connection id: 10808 -----
+2021-07-10 16:09:03 [INFO] - server started on http://localhost:3000
+2021-07-10 16:09:03 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:09:09 [INFO] - connected ! connection id: 10856 -----
+2021-07-10 16:09:09 [ERROR] - exeTransaction: Error: (conn=10857, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:09:09 [ERROR] - getMenuList3: Error: (conn=10857, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:09:09 [ERROR] - getMenuList: Error: (conn=10857, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:11:48 [INFO] - server started on http://localhost:3000
+2021-07-10 16:11:48 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:11:48 [INFO] - connected ! connection id: 10906 -----
+2021-07-10 16:11:48 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 16:11:48 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 16:17:26 [INFO] - server started on http://localhost:3000
+2021-07-10 16:17:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:17:31 [INFO] - connected ! connection id: 11006 -----
+2021-07-10 16:17:31 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 16:17:31 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 16:19:31 [INFO] - server started on http://localhost:3000
+2021-07-10 16:19:31 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:19:31 [INFO] - connected ! connection id: 11056 -----
+2021-07-10 16:19:31 [ERROR] - exeTransaction: Error: (conn=11057, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:19:31 [ERROR] - getMenuList3: Error: (conn=11057, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:19:31 [ERROR] - getMenuList: Error: (conn=11057, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:20:01 [INFO] - server started on http://localhost:3000
+2021-07-10 16:20:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:20:02 [INFO] - connected ! connection id: 11106 -----
+2021-07-10 16:20:02 [ERROR] - exeTransaction: Error: (conn=11107, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:20:02 [ERROR] - getMenuList3: Error: (conn=11107, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:20:02 [ERROR] - getMenuList: Error: (conn=11107, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:21:54 [INFO] - server started on http://localhost:3000
+2021-07-10 16:21:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:22:44 [INFO] - server started on http://localhost:3000
+2021-07-10 16:22:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:22:46 [INFO] - connected ! connection id: 11206 -----
+2021-07-10 16:22:46 [ERROR] - exeTransaction: Error: (conn=11207, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:22:46 [ERROR] - getMenuList3: Error: (conn=11207, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:22:46 [ERROR] - getMenuList: Error: (conn=11207, no: 1054, SQLState: 42S22) Unknown column 'menu000000000' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000000);
+             - parameters:[]
+2021-07-10 16:23:04 [INFO] - server started on http://localhost:3000
+2021-07-10 16:23:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11256 -----
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11258 -----
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11259 -----
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11260 -----
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11261 -----
+2021-07-10 16:23:05 [INFO] - connected ! connection id: 11262 -----
+2021-07-10 16:24:40 [INFO] - server started on http://localhost:3000
+2021-07-10 16:24:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:24:40 [INFO] - connected ! connection id: 11306 -----
+2021-07-10 16:24:40 [ERROR] - getMenuList3: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 16:24:40 [ERROR] - getMenuList: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 16:26:26 [INFO] - server started on http://localhost:3000
+2021-07-10 16:26:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:26:39 [INFO] - server started on http://localhost:3000
+2021-07-10 16:26:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:26:39 [INFO] - connected ! connection id: 11406 -----
+2021-07-10 16:26:39 [ERROR] - getMenuList3: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 16:26:39 [ERROR] - getMenuList: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 16:26:54 [INFO] - server started on http://localhost:3000
+2021-07-10 16:26:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11456 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11458 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11459 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11460 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11461 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11462 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11463 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11464 -----
+2021-07-10 16:26:59 [INFO] - connected ! connection id: 11465 -----
+2021-07-10 16:28:57 [INFO] - server started on http://localhost:3000
+2021-07-10 16:28:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:29:17 [INFO] - server started on http://localhost:3000
+2021-07-10 16:29:17 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:29:52 [INFO] - server started on http://localhost:3000
+2021-07-10 16:29:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11606 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11608 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11609 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11610 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11611 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11612 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11613 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11614 -----
+2021-07-10 16:30:09 [INFO] - connected ! connection id: 11615 -----
+2021-07-10 16:32:08 [INFO] - server started on http://localhost:3000
+2021-07-10 16:32:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11659 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11661 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11662 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11663 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11664 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11665 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11666 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11667 -----
+2021-07-10 16:32:11 [INFO] - connected ! connection id: 11668 -----
+2021-07-10 16:32:23 [INFO] - server started on http://localhost:3000
+2021-07-10 16:32:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:32:33 [INFO] - server started on http://localhost:3000
+2021-07-10 16:32:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11759 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11761 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11762 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11763 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11764 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11765 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11766 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11767 -----
+2021-07-10 16:32:34 [INFO] - connected ! connection id: 11768 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11773 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11775 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11776 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11777 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11778 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11779 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11780 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11781 -----
+2021-07-10 16:33:03 [INFO] - connected ! connection id: 11782 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11787 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11789 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11790 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11791 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11792 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11793 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11794 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11795 -----
+2021-07-10 16:33:52 [INFO] - connected ! connection id: 11796 -----
+2021-07-10 16:35:19 [INFO] - server started on http://localhost:3000
+2021-07-10 16:35:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:35:26 [INFO] - connected ! connection id: 11809 -----
+2021-07-10 16:35:26 [INFO] - connected ! connection id: 11811 -----
+2021-07-10 16:42:59 [INFO] - server started on http://localhost:3000
+2021-07-10 16:42:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:43:01 [INFO] - connected ! connection id: 11962 -----
+2021-07-10 16:43:15 [INFO] - server started on http://localhost:3000
+2021-07-10 16:43:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:43:16 [INFO] - connected ! connection id: 12012 -----
+2021-07-10 16:44:12 [INFO] - server started on http://localhost:3000
+2021-07-10 16:44:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:44:13 [INFO] - connected ! connection id: 12062 -----
+2021-07-10 16:44:29 [INFO] - server started on http://localhost:3000
+2021-07-10 16:44:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:44:32 [INFO] - connected ! connection id: 12112 -----
+2021-07-10 16:44:32 [ERROR] - exeTransaction: Error: (conn=12114, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:45:08 [INFO] - server started on http://localhost:3000
+2021-07-10 16:45:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:45:11 [INFO] - connected ! connection id: 12162 -----
+2021-07-10 16:45:11 [ERROR] - exeTransaction: Error: (conn=12164, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:46:05 [INFO] - server started on http://localhost:3000
+2021-07-10 16:46:05 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:46:06 [INFO] - connected ! connection id: 12212 -----
+2021-07-10 16:46:06 [ERROR] - exeTransaction: Error: (conn=12214, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:46:34 [INFO] - server started on http://localhost:3000
+2021-07-10 16:46:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:46:34 [INFO] - connected ! connection id: 12262 -----
+2021-07-10 16:46:34 [ERROR] - exeTransaction: Error: (conn=12264, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:50:11 [INFO] - server started on http://localhost:3000
+2021-07-10 16:50:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:50:15 [INFO] - connected ! connection id: 12362 -----
+2021-07-10 16:50:15 [ERROR] - exeTransaction: Error: (conn=12364, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:50:35 [INFO] - server started on http://localhost:3000
+2021-07-10 16:50:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 16:50:40 [INFO] - connected ! connection id: 12413 -----
+2021-07-10 16:50:40 [ERROR] - exeTransaction: Error: (conn=12415, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+sql: SELECT * FROM toyerp.menu where PARENT_NO in ('undefined' - parameters:[]
+2021-07-10 16:55:12 [INFO] - server started on http://localhost:3000
+2021-07-10 16:55:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:04:19 [INFO] - server started on http://localhost:3000
+2021-07-10 17:04:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:04:22 [INFO] - connected ! connection id: 12718 -----
+2021-07-10 17:04:22 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 17:04:22 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 17:04:54 [INFO] - server started on http://localhost:3000
+2021-07-10 17:04:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:04:55 [INFO] - connected ! connection id: 12768 -----
+2021-07-10 17:04:55 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 17:04:55 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 17:05:15 [INFO] - server started on http://localhost:3000
+2021-07-10 17:05:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:05:15 [INFO] - connected ! connection id: 12818 -----
+2021-07-10 17:05:15 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 17:05:15 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 17:05:37 [INFO] - server started on http://localhost:3000
+2021-07-10 17:05:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:09:07 [INFO] - server started on http://localhost:3000
+2021-07-10 17:09:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:09:09 [INFO] - connected ! connection id: 12968 -----
+2021-07-10 17:09:09 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 17:09:09 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 17:10:04 [INFO] - server started on http://localhost:3000
+2021-07-10 17:10:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:10:06 [INFO] - connected ! connection id: 13018 -----
+2021-07-10 17:10:06 [ERROR] - getMenuList: ReferenceError: getMenuListNotLoader is not defined
+2021-07-10 17:10:19 [INFO] - server started on http://localhost:3000
+2021-07-10 17:10:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:10:20 [INFO] - connected ! connection id: 13068 -----
+2021-07-10 17:10:20 [INFO] - connected ! connection id: 13070 -----
+2021-07-10 17:10:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:10:20 [INFO] - connected ! connection id: 13071 -----
+2021-07-10 17:10:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:10:20 [INFO] - connected ! connection id: 13072 -----
+2021-07-10 17:10:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:10:20 [INFO] - connected ! connection id: 13073 -----
+2021-07-10 17:10:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:11:57 [INFO] - server started on http://localhost:3000
+2021-07-10 17:11:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:11:59 [INFO] - connected ! connection id: 13121 -----
+2021-07-10 17:11:59 [INFO] - connected ! connection id: 13123 -----
+2021-07-10 17:11:59 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:11:59 [INFO] - connected ! connection id: 13124 -----
+2021-07-10 17:11:59 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:11:59 [INFO] - connected ! connection id: 13125 -----
+2021-07-10 17:11:59 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:11:59 [INFO] - connected ! connection id: 13126 -----
+2021-07-10 17:11:59 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:14:24 [INFO] - server started on http://localhost:3000
+2021-07-10 17:14:24 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:14:27 [INFO] - connected ! connection id: 13171 -----
+2021-07-10 17:14:27 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:14:27 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:14:27 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:14:27 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:05 [INFO] - server started on http://localhost:3000
+2021-07-10 17:15:05 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:15:06 [INFO] - connected ! connection id: 13221 -----
+2021-07-10 17:15:06 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:06 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:06 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:06 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:16 [INFO] - server started on http://localhost:3000
+2021-07-10 17:15:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:15:21 [INFO] - connected ! connection id: 13271 -----
+2021-07-10 17:15:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:35 [INFO] - server started on http://localhost:3000
+2021-07-10 17:15:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:15:36 [INFO] - connected ! connection id: 13321 -----
+2021-07-10 17:15:36 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:36 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:36 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:15:36 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:16:44 [INFO] - server started on http://localhost:3000
+2021-07-10 17:16:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:16:48 [INFO] - connected ! connection id: 13371 -----
+2021-07-10 17:16:48 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:16:48 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:16:48 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:16:48 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:17:06 [INFO] - server started on http://localhost:3000
+2021-07-10 17:17:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:18:11 [INFO] - server started on http://localhost:3000
+2021-07-10 17:18:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:18:14 [INFO] - connected ! connection id: 13471 -----
+2021-07-10 17:18:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:17 [INFO] - connected ! connection id: 13473 -----
+2021-07-10 17:18:17 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:17 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:17 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:17 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:18 [INFO] - connected ! connection id: 13475 -----
+2021-07-10 17:18:18 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:18 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:18 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:18 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:53 [INFO] - server started on http://localhost:3000
+2021-07-10 17:18:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:18:54 [INFO] - connected ! connection id: 13521 -----
+2021-07-10 17:18:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:18:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:19:21 [INFO] - server started on http://localhost:3000
+2021-07-10 17:19:21 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:19:25 [INFO] - connected ! connection id: 13571 -----
+2021-07-10 17:19:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:19:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:19:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:19:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:01 [INFO] - server started on http://localhost:3000
+2021-07-10 17:20:01 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:20:02 [INFO] - connected ! connection id: 13621 -----
+2021-07-10 17:20:02 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:02 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:02 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:02 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:23 [INFO] - server started on http://localhost:3000
+2021-07-10 17:20:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:20:25 [INFO] - connected ! connection id: 13671 -----
+2021-07-10 17:20:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:25 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:50 [INFO] - server started on http://localhost:3000
+2021-07-10 17:20:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:20:51 [INFO] - connected ! connection id: 13724 -----
+2021-07-10 17:20:51 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:51 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:51 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:20:51 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: null.
+2021-07-10 17:21:05 [INFO] - server started on http://localhost:3000
+2021-07-10 17:21:05 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:21:19 [INFO] - connected ! connection id: 13774 -----
+2021-07-10 17:21:47 [INFO] - server started on http://localhost:3000
+2021-07-10 17:21:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:21:47 [INFO] - connected ! connection id: 13824 -----
+2021-07-10 17:21:59 [INFO] - server started on http://localhost:3000
+2021-07-10 17:21:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:22:00 [INFO] - connected ! connection id: 13874 -----
+2021-07-10 17:22:18 [INFO] - server started on http://localhost:3000
+2021-07-10 17:22:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:22:19 [INFO] - connected ! connection id: 13924 -----
+2021-07-10 17:23:18 [INFO] - server started on http://localhost:3000
+2021-07-10 17:23:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:23:20 [INFO] - connected ! connection id: 13974 -----
+2021-07-10 17:23:42 [INFO] - server started on http://localhost:3000
+2021-07-10 17:23:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:23:54 [INFO] - connected ! connection id: 14024 -----
+2021-07-10 17:23:54 [ERROR] - exeTransaction: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:23:54 [ERROR] - getMenuList3: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:23:54 [ERROR] - MenuModel: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:23:54 [ERROR] - MenuModel: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:23:54 [ERROR] - MenuModel: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:23:54 [ERROR] - MenuModel: Error: (conn=14026, no: 1054, SQLState: 42S22) Unknown column 'menu000000001' in 'where clause'
+sql: 
+            SELECT * FROM toyerp.menu where PARENT_NO in (menu000000001,menu000000003,menu000000004,menu000000005);
+             - parameters:[]
+2021-07-10 17:24:08 [INFO] - server started on http://localhost:3000
+2021-07-10 17:24:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:24:09 [INFO] - connected ! connection id: 14074 -----
+2021-07-10 17:24:26 [INFO] - server started on http://localhost:3000
+2021-07-10 17:24:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:24:31 [INFO] - connected ! connection id: 14124 -----
+2021-07-10 17:24:55 [INFO] - server started on http://localhost:3000
+2021-07-10 17:24:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:24:59 [INFO] - connected ! connection id: 14174 -----
+2021-07-10 17:26:13 [INFO] - server started on http://localhost:3000
+2021-07-10 17:26:13 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:26:13 [INFO] - connected ! connection id: 14224 -----
+2021-07-10 17:26:24 [INFO] - server started on http://localhost:3000
+2021-07-10 17:26:24 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:26:28 [INFO] - connected ! connection id: 14274 -----
+2021-07-10 17:26:38 [INFO] - connected ! connection id: 14277 -----
+2021-07-10 17:27:06 [INFO] - server started on http://localhost:3000
+2021-07-10 17:27:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 17:27:10 [INFO] - connected ! connection id: 14324 -----
+2021-07-10 18:40:36 [INFO] - connected ! connection id: 14875 -----
+2021-07-10 18:41:37 [INFO] - server started on http://localhost:3000
+2021-07-10 18:41:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:41:37 [INFO] - connected ! connection id: 14927 -----
+2021-07-10 18:42:45 [INFO] - server started on http://localhost:3000
+2021-07-10 18:42:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:42:46 [INFO] - connected ! connection id: 14977 -----
+2021-07-10 18:43:07 [INFO] - server started on http://localhost:3000
+2021-07-10 18:43:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:43:07 [INFO] - connected ! connection id: 15027 -----
+2021-07-10 18:43:34 [INFO] - server started on http://localhost:3000
+2021-07-10 18:43:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:43:35 [INFO] - connected ! connection id: 15077 -----
+2021-07-10 18:44:07 [INFO] - server started on http://localhost:3000
+2021-07-10 18:44:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:44:07 [INFO] - connected ! connection id: 15127 -----
+2021-07-10 18:44:44 [INFO] - server started on http://localhost:3000
+2021-07-10 18:44:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:44:49 [INFO] - connected ! connection id: 15177 -----
+2021-07-10 18:45:10 [INFO] - server started on http://localhost:3000
+2021-07-10 18:45:10 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:45:10 [INFO] - connected ! connection id: 15227 -----
+2021-07-10 18:47:53 [INFO] - server started on http://localhost:3000
+2021-07-10 18:47:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:47:55 [INFO] - connected ! connection id: 15277 -----
+2021-07-10 18:48:26 [INFO] - server started on http://localhost:3000
+2021-07-10 18:48:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:48:27 [INFO] - connected ! connection id: 15327 -----
+2021-07-10 18:49:45 [INFO] - server started on http://localhost:3000
+2021-07-10 18:49:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:49:46 [INFO] - connected ! connection id: 15377 -----
+2021-07-10 18:50:20 [INFO] - server started on http://localhost:3000
+2021-07-10 18:50:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:50:21 [INFO] - connected ! connection id: 15427 -----
+2021-07-10 18:52:51 [INFO] - server started on http://localhost:3000
+2021-07-10 18:52:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:52:54 [INFO] - connected ! connection id: 15480 -----
+2021-07-10 18:53:07 [INFO] - server started on http://localhost:3000
+2021-07-10 18:53:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:53:08 [INFO] - connected ! connection id: 15530 -----
+2021-07-10 18:55:18 [INFO] - server started on http://localhost:3000
+2021-07-10 18:55:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:55:18 [INFO] - connected ! connection id: 15580 -----
+2021-07-10 18:55:46 [INFO] - server started on http://localhost:3000
+2021-07-10 18:55:46 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:55:47 [INFO] - connected ! connection id: 15630 -----
+2021-07-10 18:57:52 [INFO] - server started on http://localhost:3000
+2021-07-10 18:57:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 18:57:58 [INFO] - connected ! connection id: 15680 -----
+2021-07-10 18:58:10 [INFO] - connected ! connection id: 15683 -----
+2021-07-10 19:00:57 [INFO] - server started on http://localhost:3000
+2021-07-10 19:00:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:01:15 [INFO] - server started on http://localhost:3000
+2021-07-10 19:01:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:01:16 [INFO] - connected ! connection id: 15826 -----
+2021-07-10 19:01:36 [INFO] - server started on http://localhost:3000
+2021-07-10 19:01:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:01:37 [INFO] - connected ! connection id: 15876 -----
+2021-07-10 19:01:55 [INFO] - server started on http://localhost:3000
+2021-07-10 19:01:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:02:07 [INFO] - server started on http://localhost:3000
+2021-07-10 19:02:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:02:07 [INFO] - connected ! connection id: 15976 -----
+2021-07-10 19:03:07 [INFO] - server started on http://localhost:3000
+2021-07-10 19:03:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:03:12 [INFO] - connected ! connection id: 16026 -----
+2021-07-10 19:03:44 [INFO] - server started on http://localhost:3000
+2021-07-10 19:03:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:03:47 [INFO] - connected ! connection id: 16076 -----
+2021-07-10 19:04:37 [INFO] - server started on http://localhost:3000
+2021-07-10 19:04:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:04:39 [INFO] - connected ! connection id: 16126 -----
+2021-07-10 19:04:53 [INFO] - server started on http://localhost:3000
+2021-07-10 19:04:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:04:53 [INFO] - connected ! connection id: 16176 -----
+2021-07-10 19:05:19 [INFO] - server started on http://localhost:3000
+2021-07-10 19:05:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:05:20 [INFO] - connected ! connection id: 16226 -----
+2021-07-10 19:05:54 [INFO] - server started on http://localhost:3000
+2021-07-10 19:05:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:05:55 [INFO] - connected ! connection id: 16276 -----
+2021-07-10 19:06:12 [INFO] - server started on http://localhost:3000
+2021-07-10 19:06:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:06:12 [INFO] - connected ! connection id: 16326 -----
+2021-07-10 19:06:49 [INFO] - server started on http://localhost:3000
+2021-07-10 19:06:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:06:49 [INFO] - connected ! connection id: 16376 -----
+2021-07-10 19:24:04 [INFO] - server started on http://localhost:3000
+2021-07-10 19:24:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:24:07 [INFO] - server started on http://localhost:3000
+2021-07-10 19:24:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:24:09 [INFO] - connected ! connection id: 16730 -----
+2021-07-10 19:24:09 [ERROR] - getMenuList3: ReferenceError: userMap is not defined
+2021-07-10 19:24:09 [ERROR] - MenuModel: ReferenceError: userMap is not defined
+2021-07-10 19:24:09 [ERROR] - MenuModel: ReferenceError: userMap is not defined
+2021-07-10 19:24:09 [ERROR] - MenuModel: ReferenceError: userMap is not defined
+2021-07-10 19:24:09 [ERROR] - MenuModel: ReferenceError: userMap is not defined
+2021-07-10 19:24:21 [INFO] - server started on http://localhost:3000
+2021-07-10 19:24:21 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:24:22 [INFO] - connected ! connection id: 16780 -----
+2021-07-10 19:24:22 [ERROR] - getMenuList3: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:22 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:22 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:22 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:22 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:29 [INFO] - connected ! connection id: 16783 -----
+2021-07-10 19:24:29 [ERROR] - getMenuList3: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:29 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:29 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:29 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:29 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:45 [INFO] - server started on http://localhost:3000
+2021-07-10 19:24:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:24:46 [INFO] - connected ! connection id: 16830 -----
+2021-07-10 19:24:46 [ERROR] - getMenuList3: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:46 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:46 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:46 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:24:46 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:25:34 [INFO] - server started on http://localhost:3000
+2021-07-10 19:25:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 19:25:35 [INFO] - connected ! connection id: 16880 -----
+2021-07-10 19:25:35 [ERROR] - getMenuList3: ReferenceError: arrangeResults is not defined
+2021-07-10 19:25:35 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:25:35 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:25:35 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:25:35 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 19:28:12 [INFO] - server started on http://localhost:3000
+2021-07-10 19:28:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:00:59 [INFO] - server started on http://localhost:3000
+2021-07-10 20:00:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:01:06 [INFO] - connected ! connection id: 17488 -----
+2021-07-10 20:01:06 [ERROR] - getMenuList3: ReferenceError: arrangeResults is not defined
+2021-07-10 20:01:06 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 20:01:06 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 20:01:06 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 20:01:06 [ERROR] - MenuModel: ReferenceError: arrangeResults is not defined
+2021-07-10 20:01:52 [INFO] - server started on http://localhost:3000
+2021-07-10 20:01:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:01:54 [INFO] - connected ! connection id: 17538 -----
+2021-07-10 20:01:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:01:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:01:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:01:54 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:02:54 [INFO] - server started on http://localhost:3000
+2021-07-10 20:02:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:02:57 [INFO] - connected ! connection id: 17588 -----
+2021-07-10 20:02:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:02:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:02:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:02:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:23 [INFO] - server started on http://localhost:3000
+2021-07-10 20:03:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:03:23 [INFO] - connected ! connection id: 17638 -----
+2021-07-10 20:03:23 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:23 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:23 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:23 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:40 [INFO] - server started on http://localhost:3000
+2021-07-10 20:03:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:03:41 [INFO] - connected ! connection id: 17688 -----
+2021-07-10 20:03:41 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:41 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:41 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:03:41 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:04:11 [INFO] - server started on http://localhost:3000
+2021-07-10 20:04:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:04:18 [INFO] - server started on http://localhost:3000
+2021-07-10 20:04:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:04:18 [INFO] - connected ! connection id: 17788 -----
+2021-07-10 20:04:18 [ERROR] - getMenuList3: ReferenceError: key is not defined
+2021-07-10 20:04:18 [ERROR] - MenuModel: ReferenceError: key is not defined
+2021-07-10 20:04:18 [ERROR] - MenuModel: ReferenceError: key is not defined
+2021-07-10 20:04:18 [ERROR] - MenuModel: ReferenceError: key is not defined
+2021-07-10 20:04:18 [ERROR] - MenuModel: ReferenceError: key is not defined
+2021-07-10 20:04:33 [INFO] - server started on http://localhost:3000
+2021-07-10 20:04:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:04:33 [INFO] - connected ! connection id: 17838 -----
+2021-07-10 20:04:33 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:04:33 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:04:33 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:04:33 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:06:26 [INFO] - server started on http://localhost:3000
+2021-07-10 20:06:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:06:30 [INFO] - connected ! connection id: 17888 -----
+2021-07-10 20:06:30 [ERROR] - getMenuList3: ReferenceError: keys is not defined
+2021-07-10 20:06:30 [ERROR] - MenuModel: ReferenceError: keys is not defined
+2021-07-10 20:06:30 [ERROR] - MenuModel: ReferenceError: keys is not defined
+2021-07-10 20:06:30 [ERROR] - MenuModel: ReferenceError: keys is not defined
+2021-07-10 20:06:30 [ERROR] - MenuModel: ReferenceError: keys is not defined
+2021-07-10 20:08:07 [INFO] - server started on http://localhost:3000
+2021-07-10 20:08:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:08:08 [INFO] - connected ! connection id: 17939 -----
+2021-07-10 20:08:08 [ERROR] - MenuModel: Error: No result for menu000000001
+2021-07-10 20:08:08 [ERROR] - MenuModel: Error: No result for menu000000003
+2021-07-10 20:08:08 [ERROR] - MenuModel: Error: No result for menu000000004
+2021-07-10 20:08:08 [ERROR] - MenuModel: Error: No result for menu000000005
+2021-07-10 20:11:00 [INFO] - server started on http://localhost:3000
+2021-07-10 20:11:00 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:11:00 [INFO] - connected ! connection id: 17992 -----
+2021-07-10 20:11:00 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:11:00 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:11:00 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:11:00 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:11:00 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:16 [INFO] - server started on http://localhost:3000
+2021-07-10 20:13:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:13:18 [INFO] - connected ! connection id: 18042 -----
+2021-07-10 20:13:18 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:18 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:18 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:18 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:18 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:40 [INFO] - connected ! connection id: 18044 -----
+2021-07-10 20:13:40 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:40 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:40 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:40 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:13:40 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:11 [INFO] - server started on http://localhost:3000
+2021-07-10 20:14:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:14:13 [INFO] - connected ! connection id: 18092 -----
+2021-07-10 20:14:13 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:13 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:13 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:13 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:13 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:16 [INFO] - connected ! connection id: 18094 -----
+2021-07-10 20:14:16 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:16 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:16 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:16 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:16 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:58 [INFO] - server started on http://localhost:3000
+2021-07-10 20:14:58 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:14:58 [INFO] - connected ! connection id: 18142 -----
+2021-07-10 20:14:58 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:58 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:58 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:58 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:14:58 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:15:30 [INFO] - server started on http://localhost:3000
+2021-07-10 20:15:30 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:15:33 [INFO] - connected ! connection id: 18192 -----
+2021-07-10 20:15:33 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:15:33 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:15:33 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:15:33 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:15:33 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:16:04 [INFO] - server started on http://localhost:3000
+2021-07-10 20:16:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:16:05 [INFO] - connected ! connection id: 18242 -----
+2021-07-10 20:16:10 [INFO] - connected ! connection id: 18244 -----
+2021-07-10 20:16:13 [INFO] - connected ! connection id: 18246 -----
+2021-07-10 20:16:27 [INFO] - server started on http://localhost:3000
+2021-07-10 20:16:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:16:27 [INFO] - connected ! connection id: 18292 -----
+2021-07-10 20:16:30 [INFO] - connected ! connection id: 18294 -----
+2021-07-10 20:16:47 [INFO] - server started on http://localhost:3000
+2021-07-10 20:16:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:16:47 [INFO] - connected ! connection id: 18342 -----
+2021-07-10 20:16:47 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:16:47 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:16:47 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:16:47 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:16:47 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:07 [INFO] - server started on http://localhost:3000
+2021-07-10 20:17:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:17:08 [INFO] - connected ! connection id: 18392 -----
+2021-07-10 20:17:08 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:08 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:08 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:08 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:08 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:23 [INFO] - server started on http://localhost:3000
+2021-07-10 20:17:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:17:25 [INFO] - connected ! connection id: 18442 -----
+2021-07-10 20:17:25 [ERROR] - getMenuList3: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:25 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:25 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:25 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:25 [ERROR] - MenuModel: ReferenceError: MENU_NO is not defined
+2021-07-10 20:17:49 [INFO] - server started on http://localhost:3000
+2021-07-10 20:17:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:17:50 [INFO] - connected ! connection id: 18492 -----
+2021-07-10 20:17:50 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:17:50 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:17:50 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:17:50 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:18:07 [INFO] - server started on http://localhost:3000
+2021-07-10 20:18:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:18:13 [INFO] - connected ! connection id: 18542 -----
+2021-07-10 20:18:20 [INFO] - server started on http://localhost:3000
+2021-07-10 20:18:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:18:21 [INFO] - connected ! connection id: 18592 -----
+2021-07-10 20:18:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:18:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:18:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:18:21 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:18:49 [INFO] - server started on http://localhost:3000
+2021-07-10 20:18:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:18:56 [INFO] - server started on http://localhost:3000
+2021-07-10 20:18:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:18:57 [INFO] - connected ! connection id: 18692 -----
+2021-07-10 20:18:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:18:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:18:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:18:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+
+2021-07-10 20:19:18 [INFO] - server started on http://localhost:3000
+2021-07-10 20:19:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:19:20 [INFO] - connected ! connection id: 18742 -----
+2021-07-10 20:19:40 [INFO] - server started on http://localhost:3000
+2021-07-10 20:19:40 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:19:40 [INFO] - connected ! connection id: 18792 -----
+2021-07-10 20:19:53 [INFO] - server started on http://localhost:3000
+2021-07-10 20:19:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:19:56 [INFO] - connected ! connection id: 18842 -----
+2021-07-10 20:21:34 [INFO] - server started on http://localhost:3000
+2021-07-10 20:21:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:23:41 [INFO] - server started on http://localhost:3000
+2021-07-10 20:23:41 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:23:42 [INFO] - connected ! connection id: 18944 -----
+2021-07-10 20:23:57 [INFO] - server started on http://localhost:3000
+2021-07-10 20:23:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:24:08 [INFO] - connected ! connection id: 18994 -----
+2021-07-10 20:24:41 [INFO] - server started on http://localhost:3000
+2021-07-10 20:24:41 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:24:43 [INFO] - connected ! connection id: 19044 -----
+2021-07-10 20:25:50 [INFO] - server started on http://localhost:3000
+2021-07-10 20:25:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:26:15 [INFO] - server started on http://localhost:3000
+2021-07-10 20:26:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:28:50 [INFO] - server started on http://localhost:3000
+2021-07-10 20:28:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:29:11 [INFO] - server started on http://localhost:3000
+2021-07-10 20:29:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:29:19 [INFO] - connected ! connection id: 19244 -----
+2021-07-10 20:30:35 [INFO] - connected ! connection id: 19247 -----
+2021-07-10 20:30:45 [INFO] - server started on http://localhost:3000
+2021-07-10 20:30:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:30:45 [INFO] - connected ! connection id: 19296 -----
+2021-07-10 20:30:45 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:45 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:45 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:45 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:57 [INFO] - server started on http://localhost:3000
+2021-07-10 20:30:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:30:57 [INFO] - connected ! connection id: 19346 -----
+2021-07-10 20:30:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:30:57 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-10 20:31:07 [INFO] - server started on http://localhost:3000
+2021-07-10 20:31:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:31:08 [INFO] - connected ! connection id: 19396 -----
+2021-07-10 20:31:08 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:31:08 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:31:08 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:31:08 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object]
+2021-07-10 20:31:43 [INFO] - server started on http://localhost:3000
+2021-07-10 20:31:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:31:44 [INFO] - connected ! connection id: 19446 -----
+2021-07-10 20:31:57 [INFO] - server started on http://localhost:3000
+2021-07-10 20:31:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:31:58 [INFO] - connected ! connection id: 19496 -----
+2021-07-10 20:33:25 [INFO] - server started on http://localhost:3000
+2021-07-10 20:33:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:33:31 [INFO] - server started on http://localhost:3000
+2021-07-10 20:33:31 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:33:33 [INFO] - connected ! connection id: 19596 -----
+2021-07-10 20:34:27 [INFO] - server started on http://localhost:3000
+2021-07-10 20:34:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:34:28 [INFO] - connected ! connection id: 19646 -----
+2021-07-10 20:34:28 [ERROR] - getMenuList3: ReferenceError: keyItem is not defined
+2021-07-10 20:34:28 [ERROR] - MenuModel: ReferenceError: keyItem is not defined
+2021-07-10 20:34:28 [ERROR] - MenuModel: ReferenceError: keyItem is not defined
+2021-07-10 20:34:28 [ERROR] - MenuModel: ReferenceError: keyItem is not defined
+2021-07-10 20:34:28 [ERROR] - MenuModel: ReferenceError: keyItem is not defined
+2021-07-10 20:34:44 [INFO] - server started on http://localhost:3000
+2021-07-10 20:34:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:34:45 [INFO] - connected ! connection id: 19696 -----
+2021-07-10 20:35:07 [INFO] - server started on http://localhost:3000
+2021-07-10 20:35:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:35:11 [INFO] - connected ! connection id: 19746 -----
+2021-07-10 20:35:34 [INFO] - server started on http://localhost:3000
+2021-07-10 20:35:34 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:35:39 [INFO] - connected ! connection id: 19796 -----
+2021-07-10 20:37:23 [INFO] - server started on http://localhost:3000
+2021-07-10 20:37:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:37:25 [INFO] - connected ! connection id: 19847 -----
+2021-07-10 20:37:44 [INFO] - server started on http://localhost:3000
+2021-07-10 20:37:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:37:46 [INFO] - connected ! connection id: 19897 -----
+2021-07-10 20:38:48 [INFO] - connected ! connection id: 19901 -----
+2021-07-10 20:39:23 [INFO] - server started on http://localhost:3000
+2021-07-10 20:39:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:39:23 [INFO] - connected ! connection id: 19947 -----
+2021-07-10 20:41:10 [INFO] - server started on http://localhost:3000
+2021-07-10 20:41:10 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:41:15 [INFO] - connected ! connection id: 19999 -----
+2021-07-10 20:41:15 [ERROR] - getMenuList3: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:41:15 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:41:15 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:41:15 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:41:15 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:41:49 [INFO] - server started on http://localhost:3000
+2021-07-10 20:41:49 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:41:50 [INFO] - connected ! connection id: 20049 -----
+2021-07-10 20:42:08 [INFO] - server started on http://localhost:3000
+2021-07-10 20:42:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:42:10 [INFO] - connected ! connection id: 20099 -----
+2021-07-10 20:42:10 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],
+2021-07-10 20:42:10 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],
+2021-07-10 20:42:10 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],
+2021-07-10 20:42:10 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],,[object Object],[object Object],[object Object],[object Object],
+2021-07-10 20:42:23 [INFO] - server started on http://localhost:3000
+2021-07-10 20:42:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:42:23 [INFO] - connected ! connection id: 20149 -----
+2021-07-10 20:43:38 [INFO] - server started on http://localhost:3000
+2021-07-10 20:43:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:43:45 [INFO] - connected ! connection id: 20199 -----
+2021-07-10 20:44:14 [INFO] - server started on http://localhost:3000
+2021-07-10 20:44:14 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:45:42 [INFO] - server started on http://localhost:3000
+2021-07-10 20:45:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:45:44 [INFO] - connected ! connection id: 20299 -----
+2021-07-10 20:46:02 [INFO] - server started on http://localhost:3000
+2021-07-10 20:46:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:46:04 [INFO] - connected ! connection id: 20349 -----
+2021-07-10 20:46:17 [INFO] - server started on http://localhost:3000
+2021-07-10 20:46:17 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:46:21 [INFO] - connected ! connection id: 20399 -----
+2021-07-10 20:46:45 [INFO] - server started on http://localhost:3000
+2021-07-10 20:46:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:46:46 [INFO] - connected ! connection id: 20449 -----
+2021-07-10 20:46:51 [INFO] - connected ! connection id: 20452 -----
+2021-07-10 20:47:19 [INFO] - server started on http://localhost:3000
+2021-07-10 20:47:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:47:20 [INFO] - connected ! connection id: 20499 -----
+2021-07-10 20:47:20 [ERROR] - getMenuList3: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:20 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:20 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:20 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:20 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:37 [INFO] - server started on http://localhost:3000
+2021-07-10 20:47:37 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:47:38 [INFO] - connected ! connection id: 20549 -----
+2021-07-10 20:47:38 [ERROR] - getMenuList3: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:38 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:38 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:38 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:38 [ERROR] - MenuModel: TypeError: Cannot read property 'MENU_NO' of undefined
+2021-07-10 20:47:45 [INFO] - server started on http://localhost:3000
+2021-07-10 20:47:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:47:45 [INFO] - connected ! connection id: 20599 -----
+2021-07-10 20:48:29 [INFO] - server started on http://localhost:3000
+2021-07-10 20:48:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:48:31 [INFO] - connected ! connection id: 20649 -----
+2021-07-10 20:48:56 [INFO] - server started on http://localhost:3000
+2021-07-10 20:48:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:48:57 [INFO] - connected ! connection id: 20699 -----
+2021-07-10 20:49:25 [INFO] - server started on http://localhost:3000
+2021-07-10 20:49:25 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:50:43 [INFO] - server started on http://localhost:3000
+2021-07-10 20:50:43 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:50:57 [INFO] - server started on http://localhost:3000
+2021-07-10 20:50:57 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:51:27 [INFO] - server started on http://localhost:3000
+2021-07-10 20:51:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:51:35 [INFO] - connected ! connection id: 20901 -----
+2021-07-10 20:51:50 [INFO] - server started on http://localhost:3000
+2021-07-10 20:51:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:51:52 [INFO] - connected ! connection id: 20951 -----
+2021-07-10 20:52:09 [INFO] - server started on http://localhost:3000
+2021-07-10 20:52:09 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:52:14 [INFO] - connected ! connection id: 21001 -----
+2021-07-10 20:52:14 [ERROR] - getMenuList3: ReferenceError: no is not defined
+2021-07-10 20:52:14 [ERROR] - MenuModel: ReferenceError: no is not defined
+2021-07-10 20:52:14 [ERROR] - MenuModel: ReferenceError: no is not defined
+2021-07-10 20:52:14 [ERROR] - MenuModel: ReferenceError: no is not defined
+2021-07-10 20:52:14 [ERROR] - MenuModel: ReferenceError: no is not defined
+2021-07-10 20:52:21 [INFO] - server started on http://localhost:3000
+2021-07-10 20:52:21 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:53:44 [INFO] - server started on http://localhost:3000
+2021-07-10 20:53:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:54:08 [INFO] - connected ! connection id: 21101 -----
+2021-07-10 20:54:18 [INFO] - connected ! connection id: 21103 -----
+2021-07-10 20:56:44 [INFO] - server started on http://localhost:3000
+2021-07-10 20:56:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:59:04 [INFO] - server started on http://localhost:3000
+2021-07-10 20:59:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 20:59:04 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 20:59:04 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:00:44 [INFO] - server started on http://localhost:3000
+2021-07-10 21:00:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:00:44 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:00:45 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:01:22 [INFO] - server started on http://localhost:3000
+2021-07-10 21:01:22 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:01:22 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:01:22 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:03:38 [INFO] - server started on http://localhost:3000
+2021-07-10 21:03:38 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:03:38 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:03:38 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:03:56 [INFO] - server started on http://localhost:3000
+2021-07-10 21:03:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:04:09 [INFO] - connected ! connection id: 21403 -----
+2021-07-10 21:04:38 [INFO] - server started on http://localhost:3000
+2021-07-10 21:04:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:04:39 [INFO] - connected ! connection id: 21453 -----
+2021-07-10 21:04:41 [INFO] - connected ! connection id: 21455 -----
+2021-07-10 21:04:43 [INFO] - connected ! connection id: 21457 -----
+2021-07-10 21:04:44 [INFO] - connected ! connection id: 21459 -----
+2021-07-10 21:04:46 [INFO] - connected ! connection id: 21461 -----
+2021-07-10 21:04:47 [INFO] - connected ! connection id: 21463 -----
+2021-07-10 21:04:48 [INFO] - connected ! connection id: 21465 -----
+2021-07-10 21:05:26 [INFO] - server started on http://localhost:3000
+2021-07-10 21:05:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:05:26 [INFO] - connected ! connection id: 21503 -----
+2021-07-10 21:05:27 [INFO] - connected ! connection id: 21505 -----
+2021-07-10 21:05:36 [INFO] - server started on http://localhost:3000
+2021-07-10 21:05:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:05:36 [INFO] - connected ! connection id: 21553 -----
+2021-07-10 21:05:44 [INFO] - server started on http://localhost:3000
+2021-07-10 21:05:44 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:06:07 [INFO] - server started on http://localhost:3000
+2021-07-10 21:06:07 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:06:08 [INFO] - connected ! connection id: 21653 -----
+2021-07-10 21:06:28 [INFO] - server started on http://localhost:3000
+2021-07-10 21:06:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:06:32 [INFO] - connected ! connection id: 21703 -----
+2021-07-10 21:06:55 [INFO] - server started on http://localhost:3000
+2021-07-10 21:06:55 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:06:57 [INFO] - connected ! connection id: 21753 -----
+2021-07-10 21:06:58 [INFO] - connected ! connection id: 21755 -----
+2021-07-10 21:06:59 [INFO] - connected ! connection id: 21757 -----
+2021-07-10 21:07:26 [INFO] - server started on http://localhost:3000
+2021-07-10 21:07:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:07:39 [INFO] - server started on http://localhost:3000
+2021-07-10 21:07:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:07:39 [INFO] - connected ! connection id: 21853 -----
+2021-07-10 21:07:40 [INFO] - connected ! connection id: 21855 -----
+2021-07-10 21:07:41 [INFO] - connected ! connection id: 21857 -----
+2021-07-10 21:08:02 [INFO] - server started on http://localhost:3000
+2021-07-10 21:08:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:08:02 [INFO] - connected ! connection id: 21903 -----
+2021-07-10 21:08:03 [INFO] - connected ! connection id: 21905 -----
+2021-07-10 21:09:29 [INFO] - server started on http://localhost:3000
+2021-07-10 21:09:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:09:31 [INFO] - connected ! connection id: 21953 -----
+2021-07-10 21:10:06 [INFO] - server started on http://localhost:3000
+2021-07-10 21:10:06 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:10:06 [INFO] - connected ! connection id: 22003 -----
+2021-07-10 21:12:39 [INFO] - server started on http://localhost:3000
+2021-07-10 21:12:39 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:15:36 [INFO] - server started on http://localhost:3000
+2021-07-10 21:15:36 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:17:08 [INFO] - server started on http://localhost:3000
+2021-07-10 21:17:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:17:12 [INFO] - connected ! connection id: 22155 -----
+2021-07-10 21:17:23 [INFO] - server started on http://localhost:3000
+2021-07-10 21:17:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:17:56 [INFO] - server started on http://localhost:3000
+2021-07-10 21:17:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:18:04 [INFO] - connected ! connection id: 22255 -----
+2021-07-10 21:18:04 [INFO] - connected ! connection id: 22257 -----
+2021-07-10 21:18:04 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:18:04 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:18:04 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:18:04 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:18:04 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:19:11 [INFO] - server started on http://localhost:3000
+2021-07-10 21:19:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:19:12 [INFO] - connected ! connection id: 22305 -----
+2021-07-10 21:19:12 [INFO] - connected ! connection id: 22307 -----
+2021-07-10 21:19:12 [ERROR] - getMenuList3: TypeError: Cannot read property 'map' of null
+2021-07-10 21:19:12 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:19:12 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:19:12 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:19:12 [ERROR] - MenuModel: TypeError: Cannot create property 'Symbol(level)' on string 'getMenuLoader2 error TypeError: Cannot read property 'map' of null'
+2021-07-10 21:20:52 [INFO] - server started on http://localhost:3000
+2021-07-10 21:20:52 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:20:55 [INFO] - connected ! connection id: 22357 -----
+2021-07-10 21:20:55 [INFO] - connected ! connection id: 22359 -----
+2021-07-10 21:20:55 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+,,,
+2021-07-10 21:20:55 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+,,,
+2021-07-10 21:20:55 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+,,,
+2021-07-10 21:20:55 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+[object Object],[object Object],[object Object],[object Object]
+
+Values:
+,,,
+2021-07-10 21:21:04 [INFO] - server started on http://localhost:3000
+2021-07-10 21:21:04 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:21:04 [INFO] - connected ! connection id: 22407 -----
+2021-07-10 21:21:04 [INFO] - connected ! connection id: 22409 -----
+2021-07-10 21:21:15 [INFO] - connected ! connection id: 22411 -----
+2021-07-10 21:21:15 [INFO] - connected ! connection id: 22413 -----
+2021-07-10 21:21:45 [INFO] - server started on http://localhost:3000
+2021-07-10 21:21:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:21:48 [INFO] - connected ! connection id: 22457 -----
+2021-07-10 21:21:48 [INFO] - connected ! connection id: 22459 -----
+2021-07-10 21:21:48 [INFO] - connected ! connection id: 22461 -----
+2021-07-10 21:22:46 [INFO] - server started on http://localhost:3000
+2021-07-10 21:22:46 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:22:48 [INFO] - connected ! connection id: 22507 -----
+2021-07-10 21:22:48 [INFO] - connected ! connection id: 22509 -----
+2021-07-10 21:22:48 [INFO] - connected ! connection id: 22511 -----
+2021-07-10 21:22:58 [INFO] - connected ! connection id: 22513 -----
+2021-07-10 21:22:58 [INFO] - connected ! connection id: 22515 -----
+2021-07-10 21:22:58 [INFO] - connected ! connection id: 22517 -----
+2021-07-10 21:23:42 [INFO] - server started on http://localhost:3000
+2021-07-10 21:23:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:23:53 [INFO] - server started on http://localhost:3000
+2021-07-10 21:23:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:24:08 [INFO] - server started on http://localhost:3000
+2021-07-10 21:24:08 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:24:16 [INFO] - server started on http://localhost:3000
+2021-07-10 21:24:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:24:20 [INFO] - server started on http://localhost:3000
+2021-07-10 21:24:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:24:28 [INFO] - server started on http://localhost:3000
+2021-07-10 21:24:28 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:24:51 [INFO] - connected ! connection id: 22807 -----
+2021-07-10 21:24:51 [INFO] - connected ! connection id: 22809 -----
+2021-07-10 21:25:39 [INFO] - connected ! connection id: 22811 -----
+2021-07-10 21:25:39 [INFO] - connected ! connection id: 22813 -----
+2021-07-10 21:25:57 [INFO] - connected ! connection id: 22815 -----
+2021-07-10 21:25:57 [INFO] - connected ! connection id: 22817 -----
+2021-07-10 21:25:57 [INFO] - connected ! connection id: 22819 -----
+2021-07-10 21:26:23 [INFO] - server started on http://localhost:3000
+2021-07-10 21:26:23 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22864 -----
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:26:34 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22886 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22888 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22890 -----
+2021-07-10 21:26:35 [INFO] - connected ! connection id: 22892 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22894 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22896 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22898 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22900 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22902 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22904 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22906 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22859 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22861 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22863 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:26:36 [INFO] - connected ! connection id: 22867 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22869 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22871 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22873 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22875 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22877 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22879 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22881 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22883 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22885 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22887 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22889 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22891 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22893 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22895 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22897 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22899 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22901 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22903 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22905 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22907 -----
+2021-07-10 21:26:37 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22864 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22886 -----
+2021-07-10 21:26:38 [INFO] - connected ! connection id: 22888 -----
+2021-07-10 21:26:51 [INFO] - connected ! connection id: 22890 -----
+2021-07-10 21:26:51 [INFO] - connected ! connection id: 22892 -----
+2021-07-10 21:26:51 [INFO] - connected ! connection id: 22894 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22896 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22898 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22900 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22902 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22904 -----
+2021-07-10 21:26:53 [INFO] - connected ! connection id: 22906 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22859 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22861 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22863 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22867 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22869 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22871 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22873 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22875 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22877 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22879 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22881 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22883 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22885 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22887 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22889 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22891 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22893 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22895 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22897 -----
+2021-07-10 21:26:54 [INFO] - connected ! connection id: 22899 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22901 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22903 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22905 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22907 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22864 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22886 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22888 -----
+2021-07-10 21:26:55 [INFO] - connected ! connection id: 22890 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22892 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22894 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22896 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22898 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22900 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22902 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22904 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22906 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22859 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22863 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22867 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22869 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22871 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22873 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22875 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22877 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22879 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22881 -----
+2021-07-10 21:26:56 [INFO] - connected ! connection id: 22883 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22885 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22887 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22889 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22891 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22893 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22895 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22897 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22899 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22901 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22903 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22905 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22907 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22861 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22864 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:26:57 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22886 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22888 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22890 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22892 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22894 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22896 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22898 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22900 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22902 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22904 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22906 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22859 -----
+2021-07-10 21:26:58 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22863 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22867 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22869 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22871 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22873 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22875 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22877 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22879 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22881 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22883 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22885 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22887 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22889 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22891 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22893 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22895 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22897 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22899 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22901 -----
+2021-07-10 21:26:59 [INFO] - connected ! connection id: 22903 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22905 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22907 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22861 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22864 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22886 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22888 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22890 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22892 -----
+2021-07-10 21:27:00 [INFO] - connected ! connection id: 22894 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22896 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22898 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22900 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22902 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22904 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22906 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22859 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22860 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22863 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22867 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22869 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22871 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22873 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22875 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22877 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22879 -----
+2021-07-10 21:27:01 [INFO] - connected ! connection id: 22881 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22883 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22885 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22887 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22889 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22891 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22893 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22895 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22897 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22899 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22901 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22903 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22905 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22907 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22858 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22861 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22862 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22865 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22866 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22868 -----
+2021-07-10 21:27:02 [INFO] - connected ! connection id: 22870 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22872 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22874 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22876 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22878 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22880 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22882 -----
+2021-07-10 21:27:03 [INFO] - connected ! connection id: 22884 -----
+2021-07-10 21:27:33 [INFO] - server started on http://localhost:3000
+2021-07-10 21:27:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:27:39 [INFO] - connected ! connection id: 22908 -----
+2021-07-10 21:27:39 [INFO] - connected ! connection id: 22910 -----
+2021-07-10 21:27:39 [INFO] - connected ! connection id: 22912 -----
+2021-07-10 21:27:40 [INFO] - connected ! connection id: 22914 -----
+2021-07-10 21:27:40 [INFO] - connected ! connection id: 22916 -----
+2021-07-10 21:27:40 [INFO] - connected ! connection id: 22918 -----
+2021-07-10 21:29:11 [INFO] - server started on http://localhost:3000
+2021-07-10 21:29:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:29:15 [INFO] - server started on http://localhost:3000
+2021-07-10 21:29:15 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:29:19 [INFO] - connected ! connection id: 23008 -----
+2021-07-10 21:29:19 [ERROR] - getMenuList: ReferenceError: getMenuList is not defined
+2021-07-10 21:29:27 [INFO] - server started on http://localhost:3000
+2021-07-10 21:29:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:29:29 [INFO] - connected ! connection id: 23058 -----
+2021-07-10 21:29:29 [ERROR] - getMenuList3: TypeError: req.map is not a function
+2021-07-10 21:29:29 [ERROR] - getMenuList: TypeError: req.map is not a function
+2021-07-10 21:29:51 [INFO] - server started on http://localhost:3000
+2021-07-10 21:29:51 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:29:56 [INFO] - connected ! connection id: 23108 -----
+2021-07-10 21:29:56 [ERROR] - getMenuList3: ReferenceError: PARENT_NO is not defined
+2021-07-10 21:29:56 [ERROR] - getMenuList: ReferenceError: PARENT_NO is not defined
+2021-07-10 21:30:37 [INFO] - connected ! connection id: 23109 -----
+2021-07-10 21:30:37 [ERROR] - getMenuList3: ReferenceError: PARENT_NO is not defined
+2021-07-10 21:30:37 [ERROR] - getMenuList: ReferenceError: PARENT_NO is not defined
+2021-07-10 21:31:35 [INFO] - server started on http://localhost:3000
+2021-07-10 21:31:35 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 21:31:36 [INFO] - connected ! connection id: 23160 -----
+2021-07-10 21:31:36 [INFO] - connected ! connection id: 23162 -----
+2021-07-10 21:31:36 [INFO] - connected ! connection id: 23164 -----
+2021-07-10 21:48:54 [INFO] - connected ! connection id: 23412 -----
+2021-07-10 21:48:54 [INFO] - connected ! connection id: 23414 -----
+2021-07-10 21:48:54 [INFO] - connected ! connection id: 23416 -----
+2021-07-10 21:48:58 [INFO] - connected ! connection id: 23418 -----
+2021-07-10 21:48:58 [INFO] - connected ! connection id: 23420 -----
+2021-07-10 21:48:58 [INFO] - connected ! connection id: 23422 -----
+2021-07-10 21:49:18 [INFO] - connected ! connection id: 23424 -----
+2021-07-10 21:49:18 [INFO] - connected ! connection id: 23426 -----
+2021-07-10 21:49:18 [INFO] - connected ! connection id: 23428 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23413 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23415 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23417 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23419 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23421 -----
+2021-07-10 21:50:43 [INFO] - connected ! connection id: 23423 -----
+2021-07-10 21:53:36 [INFO] - connected ! connection id: 23412 -----
+2021-07-10 21:53:36 [INFO] - connected ! connection id: 23414 -----
+2021-07-10 21:53:36 [INFO] - connected ! connection id: 23416 -----
+2021-07-10 21:55:06 [INFO] - connected ! connection id: 23496 -----
+2021-07-10 21:55:06 [INFO] - connected ! connection id: 23498 -----
+2021-07-10 21:55:06 [INFO] - connected ! connection id: 23500 -----
+2021-07-10 21:58:43 [INFO] - connected ! connection id: 23572 -----
+2021-07-10 21:58:43 [INFO] - connected ! connection id: 23574 -----
+2021-07-10 21:58:43 [INFO] - connected ! connection id: 23576 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23578 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23580 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23582 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23584 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23586 -----
+2021-07-10 21:59:32 [INFO] - connected ! connection id: 23588 -----
+2021-07-10 22:01:35 [INFO] - connected ! connection id: 23590 -----
+2021-07-10 22:01:35 [INFO] - connected ! connection id: 23592 -----
+2021-07-10 22:01:35 [INFO] - connected ! connection id: 23594 -----
+2021-07-10 22:04:06 [INFO] - connected ! connection id: 23591 -----
+2021-07-10 22:04:06 [INFO] - connected ! connection id: 23593 -----
+2021-07-10 22:04:06 [INFO] - connected ! connection id: 23595 -----
+2021-07-10 22:06:13 [INFO] - connected ! connection id: 23590 -----
+2021-07-10 22:06:13 [INFO] - connected ! connection id: 23592 -----
+2021-07-10 22:06:13 [INFO] - connected ! connection id: 23594 -----
+2021-07-10 22:07:32 [INFO] - connected ! connection id: 23668 -----
+2021-07-10 22:07:32 [INFO] - connected ! connection id: 23670 -----
+2021-07-10 22:07:32 [INFO] - connected ! connection id: 23672 -----
+2021-07-10 22:10:29 [INFO] - connected ! connection id: 23669 -----
+2021-07-10 22:10:29 [INFO] - connected ! connection id: 23671 -----
+2021-07-10 22:10:29 [INFO] - connected ! connection id: 23673 -----
+2021-07-10 22:11:02 [INFO] - connected ! connection id: 23738 -----
+2021-07-10 22:11:02 [INFO] - connected ! connection id: 23740 -----
+2021-07-10 22:11:02 [INFO] - connected ! connection id: 23742 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23784 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23786 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23788 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23790 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23792 -----
+2021-07-10 22:14:32 [INFO] - connected ! connection id: 23794 -----
+2021-07-10 22:14:42 [INFO] - connected ! connection id: 23796 -----
+2021-07-10 22:14:42 [INFO] - connected ! connection id: 23798 -----
+2021-07-10 22:14:42 [INFO] - connected ! connection id: 23800 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23802 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23804 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23806 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23808 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23810 -----
+2021-07-10 22:14:51 [INFO] - connected ! connection id: 23812 -----
+2021-07-10 22:14:56 [INFO] - connected ! connection id: 23814 -----
+2021-07-10 22:14:56 [INFO] - connected ! connection id: 23816 -----
+2021-07-10 22:14:56 [INFO] - connected ! connection id: 23818 -----
+2021-07-10 22:15:10 [INFO] - connected ! connection id: 23820 -----
+2021-07-10 22:15:10 [INFO] - connected ! connection id: 23822 -----
+2021-07-10 22:15:10 [INFO] - connected ! connection id: 23824 -----
+2021-07-10 22:17:51 [INFO] - connected ! connection id: 23815 -----
+2021-07-10 22:17:51 [INFO] - connected ! connection id: 23817 -----
+2021-07-10 22:17:51 [INFO] - connected ! connection id: 23819 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23834 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23836 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23838 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23840 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23842 -----
+2021-07-10 22:19:35 [INFO] - connected ! connection id: 23844 -----
+2021-07-10 22:20:03 [INFO] - connected ! connection id: 23846 -----
+2021-07-10 22:20:03 [INFO] - connected ! connection id: 23848 -----
+2021-07-10 22:20:03 [INFO] - connected ! connection id: 23850 -----
+2021-07-10 22:21:58 [INFO] - connected ! connection id: 23835 -----
+2021-07-10 22:21:58 [INFO] - connected ! connection id: 23837 -----
+2021-07-10 22:21:58 [INFO] - connected ! connection id: 23839 -----
+2021-07-10 22:22:32 [INFO] - connected ! connection id: 23841 -----
+2021-07-10 22:22:32 [INFO] - connected ! connection id: 23843 -----
+2021-07-10 22:22:32 [INFO] - connected ! connection id: 23845 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23847 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23849 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23851 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23878 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23882 -----
+2021-07-10 22:23:01 [INFO] - connected ! connection id: 23884 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23834 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23836 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23838 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23840 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23842 -----
+2021-07-10 22:24:53 [INFO] - connected ! connection id: 23844 -----
+2021-07-10 22:25:18 [INFO] - connected ! connection id: 23846 -----
+2021-07-10 22:25:18 [INFO] - connected ! connection id: 23848 -----
+2021-07-10 22:25:18 [INFO] - connected ! connection id: 23850 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23879 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23883 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23885 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23912 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23914 -----
+2021-07-10 22:25:24 [INFO] - connected ! connection id: 23916 -----
+2021-07-10 22:26:15 [INFO] - connected ! connection id: 23918 -----
+2021-07-10 22:26:15 [INFO] - connected ! connection id: 23920 -----
+2021-07-10 22:26:15 [INFO] - connected ! connection id: 23922 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23924 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23926 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23928 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23930 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23932 -----
+2021-07-10 22:26:31 [INFO] - connected ! connection id: 23934 -----
+2021-07-10 22:26:50 [INFO] - connected ! connection id: 23936 -----
+2021-07-10 22:26:50 [INFO] - connected ! connection id: 23835 -----
+2021-07-10 22:26:50 [INFO] - connected ! connection id: 23837 -----
+2021-07-10 22:26:53 [INFO] - connected ! connection id: 23839 -----
+2021-07-10 22:26:53 [INFO] - connected ! connection id: 23841 -----
+2021-07-10 22:26:53 [INFO] - connected ! connection id: 23843 -----
+2021-07-10 22:26:53 [INFO] - connected ! connection id: 23845 -----
+2021-07-10 22:26:54 [INFO] - connected ! connection id: 23847 -----
+2021-07-10 22:26:54 [INFO] - connected ! connection id: 23849 -----
+2021-07-10 22:27:15 [INFO] - connected ! connection id: 23851 -----
+2021-07-10 22:27:15 [INFO] - connected ! connection id: 23878 -----
+2021-07-10 22:27:15 [INFO] - connected ! connection id: 23882 -----
+2021-07-10 22:28:10 [INFO] - connected ! connection id: 23884 -----
+2021-07-10 22:28:10 [INFO] - connected ! connection id: 23913 -----
+2021-07-10 22:28:10 [INFO] - connected ! connection id: 23915 -----
+2021-07-10 22:28:15 [INFO] - connected ! connection id: 23917 -----
+2021-07-10 22:28:15 [INFO] - connected ! connection id: 23919 -----
+2021-07-10 22:28:15 [INFO] - connected ! connection id: 23921 -----
+2021-07-10 22:29:04 [INFO] - connected ! connection id: 23923 -----
+2021-07-10 22:29:04 [INFO] - connected ! connection id: 23925 -----
+2021-07-10 22:29:04 [INFO] - connected ! connection id: 23927 -----
+2021-07-10 22:30:49 [INFO] - connected ! connection id: 23885 -----
+2021-07-10 22:30:49 [INFO] - connected ! connection id: 23912 -----
+2021-07-10 22:30:49 [INFO] - connected ! connection id: 23914 -----
+2021-07-10 22:32:10 [INFO] - connected ! connection id: 23938 -----
+2021-07-10 22:32:10 [INFO] - connected ! connection id: 23940 -----
+2021-07-10 22:32:10 [INFO] - connected ! connection id: 23942 -----
+2021-07-10 22:32:47 [INFO] - connected ! connection id: 23946 -----
+2021-07-10 22:32:47 [INFO] - connected ! connection id: 23948 -----
+2021-07-10 22:32:47 [INFO] - connected ! connection id: 23950 -----
+2021-07-10 22:32:55 [INFO] - connected ! connection id: 23964 -----
+2021-07-10 22:32:55 [INFO] - connected ! connection id: 23966 -----
+2021-07-10 22:32:55 [INFO] - connected ! connection id: 23968 -----
+2021-07-10 22:34:32 [INFO] - connected ! connection id: 23978 -----
+2021-07-10 22:34:32 [INFO] - connected ! connection id: 23980 -----
+2021-07-10 22:34:32 [INFO] - connected ! connection id: 23982 -----
+2021-07-10 22:35:48 [INFO] - connected ! connection id: 23986 -----
+2021-07-10 22:35:48 [INFO] - connected ! connection id: 23988 -----
+2021-07-10 22:35:48 [INFO] - connected ! connection id: 23990 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24036 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24037 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24040 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24041 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24044 -----
+2021-07-10 22:39:06 [INFO] - connected ! connection id: 24045 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24048 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24049 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24052 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24053 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24056 -----
+2021-07-10 22:39:42 [INFO] - connected ! connection id: 24057 -----
+2021-07-10 22:39:58 [INFO] - connected ! connection id: 24060 -----
+2021-07-10 22:39:58 [INFO] - connected ! connection id: 24062 -----
+2021-07-10 22:39:58 [INFO] - connected ! connection id: 24064 -----
+2021-07-10 22:40:22 [INFO] - connected ! connection id: 24066 -----
+2021-07-10 22:40:22 [INFO] - connected ! connection id: 24068 -----
+2021-07-10 22:40:22 [INFO] - connected ! connection id: 24070 -----
+2021-07-10 22:41:41 [INFO] - connected ! connection id: 24072 -----
+2021-07-10 22:41:41 [INFO] - connected ! connection id: 24074 -----
+2021-07-10 22:41:41 [INFO] - connected ! connection id: 24076 -----
+2021-07-10 22:45:30 [INFO] - connected ! connection id: 24108 -----
+2021-07-10 22:45:30 [INFO] - connected ! connection id: 24110 -----
+2021-07-10 22:45:30 [INFO] - connected ! connection id: 24112 -----
+2021-07-10 22:48:13 [INFO] - connected ! connection id: 24109 -----
+2021-07-10 22:48:13 [INFO] - connected ! connection id: 24111 -----
+2021-07-10 22:48:13 [INFO] - connected ! connection id: 24113 -----
+2021-07-10 22:49:08 [INFO] - connected ! connection id: 24170 -----
+2021-07-10 22:49:08 [INFO] - connected ! connection id: 24172 -----
+2021-07-10 22:49:08 [INFO] - connected ! connection id: 24174 -----
+2021-07-10 22:50:29 [INFO] - connected ! connection id: 24176 -----
+2021-07-10 22:50:29 [INFO] - connected ! connection id: 24178 -----
+2021-07-10 22:50:29 [INFO] - connected ! connection id: 24180 -----
+2021-07-10 22:50:47 [INFO] - connected ! connection id: 24182 -----
+2021-07-10 22:50:47 [INFO] - connected ! connection id: 24184 -----
+2021-07-10 22:50:47 [INFO] - connected ! connection id: 24186 -----
+2021-07-10 22:54:02 [INFO] - connected ! connection id: 24219 -----
+2021-07-10 22:54:02 [INFO] - connected ! connection id: 24221 -----
+2021-07-10 22:54:02 [INFO] - connected ! connection id: 24223 -----
+2021-07-10 22:54:05 [INFO] - connected ! connection id: 24225 -----
+2021-07-10 22:54:05 [INFO] - connected ! connection id: 24227 -----
+2021-07-10 22:54:05 [INFO] - connected ! connection id: 24229 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24237 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24238 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24241 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24242 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24245 -----
+2021-07-10 22:54:26 [INFO] - connected ! connection id: 24246 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24249 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24250 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24253 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24254 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24257 -----
+2021-07-10 22:54:55 [INFO] - connected ! connection id: 24258 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24261 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24263 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24265 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24267 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24220 -----
+2021-07-10 22:54:57 [INFO] - connected ! connection id: 24222 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24275 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24276 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24279 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24280 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24283 -----
+2021-07-10 22:59:58 [INFO] - connected ! connection id: 24284 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24287 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24288 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24291 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24292 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24295 -----
+2021-07-10 23:00:04 [INFO] - connected ! connection id: 24296 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24325 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24326 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24331 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24332 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24335 -----
+2021-07-10 23:03:22 [INFO] - connected ! connection id: 24336 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24339 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24341 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24343 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24345 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24347 -----
+2021-07-10 23:03:46 [INFO] - connected ! connection id: 24349 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24353 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24354 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24357 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24358 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24361 -----
+2021-07-10 23:04:20 [INFO] - connected ! connection id: 24362 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24365 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24367 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24369 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24371 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24373 -----
+2021-07-10 23:04:24 [INFO] - connected ! connection id: 24375 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24330 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24329 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24334 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24332 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24337 -----
+2021-07-10 23:06:18 [INFO] - connected ! connection id: 24338 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24340 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24342 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24344 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24346 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24348 -----
+2021-07-10 23:06:23 [INFO] - connected ! connection id: 24350 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24377 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24378 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24354 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24353 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24357 -----
+2021-07-10 23:06:37 [INFO] - connected ! connection id: 24358 -----
+2021-07-10 23:06:38 [INFO] - connected ! connection id: 24364 -----
+2021-07-10 23:06:38 [INFO] - connected ! connection id: 24365 -----
+2021-07-10 23:06:38 [INFO] - connected ! connection id: 24368 -----
+2021-07-10 23:06:39 [INFO] - connected ! connection id: 24370 -----
+2021-07-10 23:06:39 [INFO] - connected ! connection id: 24372 -----
+2021-07-10 23:06:39 [INFO] - connected ! connection id: 24374 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24325 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24326 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24333 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24331 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24336 -----
+2021-07-10 23:07:39 [INFO] - connected ! connection id: 24335 -----
+2021-07-10 23:10:26 [INFO] - server started on http://localhost:3000
+2021-07-10 23:10:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24419 -----
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24421 -----
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24423 -----
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24425 -----
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24427 -----
+2021-07-10 23:10:48 [INFO] - connected ! connection id: 24429 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24431 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24433 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24435 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24437 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24439 -----
+2021-07-10 23:10:53 [INFO] - connected ! connection id: 24441 -----
+2021-07-10 23:11:23 [INFO] - connected ! connection id: 24443 -----
+2021-07-10 23:11:23 [INFO] - connected ! connection id: 24445 -----
+2021-07-10 23:11:23 [INFO] - connected ! connection id: 24447 -----
+2021-07-10 23:12:14 [INFO] - connected ! connection id: 24449 -----
+2021-07-10 23:12:14 [INFO] - connected ! connection id: 24451 -----
+2021-07-10 23:12:14 [INFO] - connected ! connection id: 24453 -----
+2021-07-10 23:18:37 [INFO] - connected ! connection id: 24519 -----
+2021-07-10 23:18:37 [INFO] - connected ! connection id: 24521 -----
+2021-07-10 23:18:37 [INFO] - connected ! connection id: 24523 -----
+2021-07-10 23:18:41 [INFO] - connected ! connection id: 24525 -----
+2021-07-10 23:18:41 [INFO] - connected ! connection id: 24527 -----
+2021-07-10 23:18:41 [INFO] - connected ! connection id: 24529 -----
+2021-07-10 23:19:19 [INFO] - connected ! connection id: 24531 -----
+2021-07-10 23:19:19 [INFO] - connected ! connection id: 24533 -----
+2021-07-10 23:19:19 [INFO] - connected ! connection id: 24535 -----
+2021-07-10 23:19:22 [INFO] - connected ! connection id: 24537 -----
+2021-07-10 23:19:22 [INFO] - connected ! connection id: 24539 -----
+2021-07-10 23:19:22 [INFO] - connected ! connection id: 24541 -----
+2021-07-10 23:26:35 [INFO] - connected ! connection id: 24641 -----
+2021-07-10 23:26:35 [INFO] - connected ! connection id: 24643 -----
+2021-07-10 23:26:35 [INFO] - connected ! connection id: 24645 -----
+2021-07-10 23:27:35 [INFO] - connected ! connection id: 24647 -----
+2021-07-10 23:27:35 [INFO] - connected ! connection id: 24649 -----
+2021-07-10 23:27:35 [INFO] - connected ! connection id: 24651 -----
+2021-07-10 23:28:37 [INFO] - connected ! connection id: 24671 -----
+2021-07-10 23:28:37 [INFO] - connected ! connection id: 24673 -----
+2021-07-10 23:28:37 [INFO] - connected ! connection id: 24675 -----
+2021-07-10 23:29:18 [INFO] - connected ! connection id: 24685 -----
+2021-07-10 23:29:18 [INFO] - connected ! connection id: 24687 -----
+2021-07-10 23:29:18 [INFO] - connected ! connection id: 24689 -----
+2021-07-10 23:29:30 [INFO] - connected ! connection id: 24642 -----
+2021-07-10 23:29:30 [INFO] - connected ! connection id: 24644 -----
+2021-07-10 23:29:30 [INFO] - connected ! connection id: 24646 -----
+2021-07-10 23:30:25 [INFO] - connected ! connection id: 24648 -----
+2021-07-10 23:30:25 [INFO] - connected ! connection id: 24650 -----
+2021-07-10 23:30:25 [INFO] - connected ! connection id: 24652 -----
+2021-07-10 23:30:28 [INFO] - connected ! connection id: 24691 -----
+2021-07-10 23:30:28 [INFO] - connected ! connection id: 24693 -----
+2021-07-10 23:30:28 [INFO] - connected ! connection id: 24695 -----
+2021-07-10 23:30:49 [INFO] - connected ! connection id: 24697 -----
+2021-07-10 23:30:49 [INFO] - connected ! connection id: 24699 -----
+2021-07-10 23:30:49 [INFO] - connected ! connection id: 24701 -----
+2021-07-10 23:33:09 [INFO] - connected ! connection id: 24647 -----
+2021-07-10 23:33:09 [INFO] - connected ! connection id: 24649 -----
+2021-07-10 23:33:09 [INFO] - connected ! connection id: 24651 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24719 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24721 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24723 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24725 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24727 -----
+2021-07-10 23:34:09 [INFO] - connected ! connection id: 24729 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24731 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24732 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24735 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24736 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24739 -----
+2021-07-10 23:34:36 [INFO] - connected ! connection id: 24740 -----
+2021-07-10 23:35:20 [INFO] - connected ! connection id: 24745 -----
+2021-07-10 23:35:20 [INFO] - connected ! connection id: 24747 -----
+2021-07-10 23:35:20 [INFO] - connected ! connection id: 24749 -----
+2021-07-10 23:35:21 [INFO] - connected ! connection id: 24648 -----
+2021-07-10 23:35:21 [INFO] - connected ! connection id: 24650 -----
+2021-07-10 23:35:21 [INFO] - connected ! connection id: 24652 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24751 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24752 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24755 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24756 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24759 -----
+2021-07-10 23:35:58 [INFO] - connected ! connection id: 24760 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24720 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24719 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24724 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24723 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24728 -----
+2021-07-10 23:36:18 [INFO] - connected ! connection id: 24727 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24733 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24734 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24738 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24737 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24742 -----
+2021-07-10 23:37:22 [INFO] - connected ! connection id: 24740 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24763 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24746 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24748 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24750 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24647 -----
+2021-07-10 23:37:49 [INFO] - connected ! connection id: 24649 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24753 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24751 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24757 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24755 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24762 -----
+2021-07-10 23:38:26 [INFO] - connected ! connection id: 24760 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24722 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24720 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24726 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24725 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24729 -----
+2021-07-10 23:39:06 [INFO] - connected ! connection id: 24727 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24731 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24733 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24736 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24738 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24742 -----
+2021-07-10 23:40:05 [INFO] - connected ! connection id: 24741 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24721 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24719 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24724 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24723 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24730 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24728 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24732 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24731 -----
+2021-07-10 23:41:28 [INFO] - connected ! connection id: 24735 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24738 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24739 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24740 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24769 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24771 -----
+2021-07-10 23:42:01 [INFO] - connected ! connection id: 24773 -----
+2021-07-10 23:42:31 [INFO] - connected ! connection id: 24775 -----
+2021-07-10 23:42:31 [INFO] - connected ! connection id: 24777 -----
+2021-07-10 23:42:31 [INFO] - connected ! connection id: 24779 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24781 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24783 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24785 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24787 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24789 -----
+2021-07-10 23:42:57 [INFO] - connected ! connection id: 24791 -----
+2021-07-10 23:43:21 [INFO] - connected ! connection id: 24793 -----
+2021-07-10 23:43:21 [INFO] - connected ! connection id: 24722 -----
+2021-07-10 23:43:21 [INFO] - connected ! connection id: 24720 -----
+2021-07-10 23:43:30 [INFO] - connected ! connection id: 24726 -----
+2021-07-10 23:43:30 [INFO] - connected ! connection id: 24725 -----
+2021-07-10 23:43:30 [INFO] - connected ! connection id: 24729 -----
+2021-07-10 23:44:42 [INFO] - connected ! connection id: 24736 -----
+2021-07-10 23:44:42 [INFO] - connected ! connection id: 24742 -----
+2021-07-10 23:44:42 [INFO] - connected ! connection id: 24741 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24770 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24772 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24774 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24776 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24778 -----
+2021-07-10 23:45:00 [INFO] - connected ! connection id: 24780 -----
+2021-07-10 23:45:37 [INFO] - connected ! connection id: 24782 -----
+2021-07-10 23:45:37 [INFO] - connected ! connection id: 24784 -----
+2021-07-10 23:45:37 [INFO] - connected ! connection id: 24786 -----
+2021-07-10 23:45:38 [INFO] - connected ! connection id: 24788 -----
+2021-07-10 23:45:38 [INFO] - connected ! connection id: 24790 -----
+2021-07-10 23:45:38 [INFO] - connected ! connection id: 24792 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24854 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24855 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24858 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24859 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24862 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24863 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24866 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24868 -----
+2021-07-10 23:52:08 [INFO] - connected ! connection id: 24870 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24872 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24876 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24878 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24880 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24882 -----
+2021-07-10 23:52:32 [INFO] - connected ! connection id: 24884 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24886 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24888 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24890 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24892 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24894 -----
+2021-07-10 23:52:35 [INFO] - connected ! connection id: 24896 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24898 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24899 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24902 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24903 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24857 -----
+2021-07-10 23:53:30 [INFO] - connected ! connection id: 24856 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24860 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24859 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24864 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24865 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24867 -----
+2021-07-10 23:53:33 [INFO] - connected ! connection id: 24869 -----
+2021-07-10 23:54:25 [INFO] - connected ! connection id: 24871 -----
+2021-07-10 23:54:25 [INFO] - connected ! connection id: 24873 -----
+2021-07-10 23:54:25 [INFO] - connected ! connection id: 24877 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24879 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24881 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24883 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24885 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24887 -----
+2021-07-10 23:54:42 [INFO] - connected ! connection id: 24889 -----
