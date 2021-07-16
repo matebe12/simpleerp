@@ -23,8 +23,7 @@ const menuResolver = {
     MenuModel: {
         children: async ({ MENU_NO }) => {
             try {
-                console.log(result);
-                let result = await getMenuLoader.load({ PARENT_NO: MENU_NO });
+                let result = await getMenuLoader.load(MENU_NO);
                 return result;
             } catch (error) {
                 logger.error('MenuModel: ' + error);

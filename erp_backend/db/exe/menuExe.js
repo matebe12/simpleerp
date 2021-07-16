@@ -1,6 +1,6 @@
 import mariadb from 'mariadb';
 import { exeTransaction } from '../dbConnection';
-import { arrangeForDataLoader } from '../../db/exe/common';
+import { BatchingItem } from '../../db/exe/common';
 //const query = require('./dbQuery');
 //const etcSql = require('./dbEtcExe');
 const logger = require('../../logger/winston');
@@ -10,31 +10,25 @@ const getMenuListNotLoader = async (conn = null, req = null) => {
     return await exeTransaction(conn, str);
 };
 
-const getMenuList = async (conn = null, req = null) => {
+const getMenuList = async (conn = null, PARENT_NO) => {
     try {
+        console.log(PARENT_NO);
         let str = '';
-        if (req.length > 0) {
-            let PARENT_NO = [];
-            req.map((v, i) => {
-                PARENT_NO = [...PARENT_NO, v.PARENT_NO];
-            });
+        if (PARENT_NO.length > 0) {
             str = `
-            SELECT * FROM toyerp.menu where PARENT_NO in (${req.map(
-                key => `'${key['PARENT_NO']}'`
+            SELECT * FROM toyerp.menu where PARENT_NO in (${PARENT_NO.map(
+                key => `'${key}'`
             )});
             `;
-            console.log(str);
             let result = await exeTransaction(null, str);
-            let arrangeResults = arrangeForDataLoader(
+            const batchingData = BatchingItem(
                 PARENT_NO,
                 result,
-                function (item) {
-                    return item['PARENT_NO'];
-                }
+                item => item['PARENT_NO']
             );
-            return arrangeResults;
+            return PARENT_NO.map(id => batchingData[id]);
         } else
-            str = `SELECT * FROM toyerp.menu where PARENT_NO = '${req['MENU_NO']}'`;
+            str = `SELECT * FROM toyerp.menu where PARENT_NO = '${PARENT_NO['MENU_NO']}'`;
         return await exeTransaction(conn, str);
     } catch (error) {
         logger.error('getMenuList3: ' + error);

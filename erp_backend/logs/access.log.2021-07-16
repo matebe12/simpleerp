@@ -1,0 +1,148 @@
+2021-07-16 11:59:19 [INFO] - server started on http://localhost:3000
+2021-07-16 11:59:19 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 11:59:59 [INFO] - server started on http://localhost:3000
+2021-07-16 11:59:59 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:00:18 [INFO] - connected ! connection id: 58 -----
+2021-07-16 12:00:18 [INFO] - connected ! connection id: 60 -----
+2021-07-16 12:01:29 [INFO] - connected ! connection id: 62 -----
+2021-07-16 12:01:29 [INFO] - connected ! connection id: 64 -----
+2021-07-16 12:01:33 [INFO] - connected ! connection id: 66 -----
+2021-07-16 12:01:33 [INFO] - connected ! connection id: 68 -----
+2021-07-16 12:01:40 [INFO] - connected ! connection id: 70 -----
+2021-07-16 12:01:40 [INFO] - connected ! connection id: 72 -----
+2021-07-16 12:02:56 [INFO] - server started on http://localhost:3000
+2021-07-16 12:02:56 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:02:56 [INFO] - connected ! connection id: 108 -----
+2021-07-16 12:02:56 [INFO] - connected ! connection id: 110 -----
+2021-07-16 12:04:42 [INFO] - server started on http://localhost:3000
+2021-07-16 12:04:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:04:42 [INFO] - connected ! connection id: 158 -----
+2021-07-16 12:04:42 [INFO] - connected ! connection id: 160 -----
+2021-07-16 12:07:27 [INFO] - server started on http://localhost:3000
+2021-07-16 12:07:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:07:31 [INFO] - connected ! connection id: 208 -----
+2021-07-16 12:07:31 [INFO] - connected ! connection id: 210 -----
+2021-07-16 12:07:31 [ERROR] - MenuModel: Error: No result for menu000000001
+2021-07-16 12:07:31 [ERROR] - MenuModel: Error: No result for menu000000003
+2021-07-16 12:07:31 [ERROR] - MenuModel: Error: No result for menu000000004
+2021-07-16 12:07:31 [ERROR] - MenuModel: Error: No result for menu000000005
+2021-07-16 12:08:11 [INFO] - server started on http://localhost:3000
+2021-07-16 12:08:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:08:23 [INFO] - connected ! connection id: 258 -----
+2021-07-16 12:08:23 [INFO] - connected ! connection id: 260 -----
+2021-07-16 12:10:17 [INFO] - connected ! connection id: 262 -----
+2021-07-16 12:10:17 [INFO] - connected ! connection id: 264 -----
+2021-07-16 12:12:20 [INFO] - server started on http://localhost:3000
+2021-07-16 12:12:20 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:12:20 [INFO] - connected ! connection id: 354 -----
+2021-07-16 12:12:20 [INFO] - connected ! connection id: 356 -----
+2021-07-16 12:15:54 [INFO] - server started on http://localhost:3000
+2021-07-16 12:15:54 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:18:18 [INFO] - server started on http://localhost:3000
+2021-07-16 12:18:18 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:18:22 [INFO] - connected ! connection id: 504 -----
+2021-07-16 12:18:22 [INFO] - connected ! connection id: 506 -----
+2021-07-16 12:18:22 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:22 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:22 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:22 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:47 [INFO] - server started on http://localhost:3000
+2021-07-16 12:18:47 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 12:18:47 [INFO] - connected ! connection id: 554 -----
+2021-07-16 12:18:47 [INFO] - connected ! connection id: 556 -----
+2021-07-16 12:18:47 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:47 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:47 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 12:18:47 [ERROR] - MenuModel: TypeError: MENU.map is not a function
+2021-07-16 13:18:46 [INFO] - server started on http://localhost:3000
+2021-07-16 13:18:46 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:19:12 [INFO] - server started on http://localhost:3000
+2021-07-16 13:19:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:19:21 [INFO] - connected ! connection id: 1604 -----
+2021-07-16 13:19:21 [ERROR] - getMenuList3: ReferenceError: req is not defined
+2021-07-16 13:19:21 [ERROR] - getMenuList: ReferenceError: req is not defined
+2021-07-16 13:19:45 [INFO] - server started on http://localhost:3000
+2021-07-16 13:19:45 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:19:46 [INFO] - connected ! connection id: 1654 -----
+2021-07-16 13:19:46 [ERROR] - getMenuList3: ReferenceError: req is not defined
+2021-07-16 13:19:46 [ERROR] - getMenuList: ReferenceError: req is not defined
+2021-07-16 13:20:29 [INFO] - server started on http://localhost:3000
+2021-07-16 13:20:29 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:20:32 [INFO] - connected ! connection id: 1704 -----
+2021-07-16 13:20:50 [INFO] - server started on http://localhost:3000
+2021-07-16 13:20:50 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:20:51 [INFO] - connected ! connection id: 1754 -----
+2021-07-16 13:21:11 [INFO] - server started on http://localhost:3000
+2021-07-16 13:21:11 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:21:19 [INFO] - connected ! connection id: 1804 -----
+2021-07-16 13:21:42 [INFO] - server started on http://localhost:3000
+2021-07-16 13:21:42 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:22:16 [INFO] - server started on http://localhost:3000
+2021-07-16 13:22:16 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:22:20 [INFO] - connected ! connection id: 1904 -----
+2021-07-16 13:22:20 [INFO] - connected ! connection id: 1906 -----
+2021-07-16 13:22:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-16 13:22:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-16 13:22:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-16 13:22:20 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array: [object Object].
+2021-07-16 13:23:12 [INFO] - server started on http://localhost:3000
+2021-07-16 13:23:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:23:14 [INFO] - connected ! connection id: 1954 -----
+2021-07-16 13:23:14 [INFO] - connected ! connection id: 1956 -----
+2021-07-16 13:23:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+menu000000001,menu000000003,menu000000004,menu000000005
+
+Values:
+[object Object]
+2021-07-16 13:23:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+menu000000001,menu000000003,menu000000004,menu000000005
+
+Values:
+[object Object]
+2021-07-16 13:23:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+menu000000001,menu000000003,menu000000004,menu000000005
+
+Values:
+[object Object]
+2021-07-16 13:23:14 [ERROR] - MenuModel: TypeError: DataLoader must be constructed with a function which accepts Array<key> and returns Promise<Array<value>>, but the function did not return a Promise of an Array of the same length as the Array of keys.
+
+Keys:
+menu000000001,menu000000003,menu000000004,menu000000005
+
+Values:
+[object Object]
+2021-07-16 13:23:26 [INFO] - server started on http://localhost:3000
+2021-07-16 13:23:26 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:23:33 [INFO] - server started on http://localhost:3000
+2021-07-16 13:23:33 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:24:22 [INFO] - server started on http://localhost:3000
+2021-07-16 13:24:22 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:24:24 [INFO] - connected ! connection id: 2104 -----
+2021-07-16 13:24:24 [INFO] - connected ! connection id: 2106 -----
+2021-07-16 13:33:02 [INFO] - server started on http://localhost:3000
+2021-07-16 13:33:02 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:33:47 [INFO] - connected ! connection id: 2254 -----
+2021-07-16 13:33:47 [INFO] - connected ! connection id: 2256 -----
+2021-07-16 13:33:51 [INFO] - connected ! connection id: 2258 -----
+2021-07-16 13:33:51 [INFO] - connected ! connection id: 2260 -----
+2021-07-16 13:34:12 [INFO] - server started on http://localhost:3000
+2021-07-16 13:34:12 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:34:27 [INFO] - server started on http://localhost:3000
+2021-07-16 13:34:27 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:35:46 [INFO] - server started on http://localhost:3000
+2021-07-16 13:35:46 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:35:53 [INFO] - server started on http://localhost:3000
+2021-07-16 13:35:53 [INFO] - graphql test web started on http://localhost:3000/graphql
+2021-07-16 13:35:56 [INFO] - connected ! connection id: 2454 -----
+2021-07-16 13:35:56 [INFO] - connected ! connection id: 2456 -----
+2021-07-16 13:36:04 [INFO] - connected ! connection id: 2458 -----
+2021-07-16 13:36:04 [INFO] - connected ! connection id: 2460 -----
+2021-07-16 13:36:04 [INFO] - connected ! connection id: 2462 -----
+2021-07-16 13:56:27 [INFO] - server started on http://localhost:3000
+2021-07-16 13:56:27 [INFO] - graphql test web started on http://localhost:3000/graphql
