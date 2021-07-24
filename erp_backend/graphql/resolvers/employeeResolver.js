@@ -1,6 +1,13 @@
 require('dotenv').config();
-import db from '../../db/dbConnection';
-import exe from '../../db/exe/employeeExe';
+import { getPoolConnection } from '../../db/dbConnection';
+import {
+    getEmployee,
+    getEmployeeTotal,
+    getEmployeeOne,
+    insertEmployee,
+    updateEmployee,
+    checkId,
+} from '../../db/exe/employeeExe';
 import logger from '../../logger/winston';
 
 //const commonSql = require("../../db/dbCommonExe")
@@ -8,10 +15,10 @@ import logger from '../../logger/winston';
 const employeeResolver = {
     Query: {
         async getEmployee(_, req) {
-            let conn = await db.getPoolConnection();
+            let conn = await getPoolConnection();
             try {
-                const results = await exe.getEmployee(conn, req);
-                const total = await exe.getEmployeeTotal(conn, req);
+                const results = await getEmployee(conn, req);
+                const total = await getEmployeeTotal(conn, req);
                 //console.log(results);
                 console.log(total);
                 return { Employee: results, TotalCnt: total[0].TOTAL };
@@ -19,44 +26,44 @@ const employeeResolver = {
                 logger.error('getEmployee: ' + error);
                 throw error;
             } finally {
-                if (conn) await db.endPoolConnection(conn);
+                if (conn) await conn.end();
             }
         },
         async getEmployeeOne(_, req) {
-            let conn = await db.getPoolConnection();
+            let conn = await getPoolConnection();
             try {
-                const results = await exe.getEmployeeOne(conn, req);
+                const results = await getEmployeeOne(conn, req);
                 return results;
             } catch (error) {
                 logger.error('getEmployeeOne: ' + error);
                 throw error;
             } finally {
-                if (conn) await db.endPoolConnection(conn);
+                if (conn) await conn.end();
             }
         },
     },
     Mutation: {
         async checkId(_, req) {
-            let conn = await db.getPoolConnection();
+            let conn = await getPoolConnection();
             try {
-                const results = await exe.checkId(conn, req);
+                const results = await checkId(conn, req);
                 console.log(results[0].result);
                 return results[0].result;
             } catch (error) {
                 logger.error('checkId: ' + error);
                 throw error;
             } finally {
-                if (conn) await db.endPoolConnection(conn);
+                if (conn) await conn.end();
             }
         },
         async insertUpdateEmployee(_, req) {
-            let conn = await db.getPoolConnection();
+            let conn = await getPoolConnection();
             try {
                 let results;
                 if (!req.IS_UPDATE) {
-                    results = await exe.insertEmployee(conn, req);
+                    results = await insertEmployee(conn, req);
                 } else {
-                    results = await exe.updateEmployee(conn, req);
+                    results = await updateEmployee(conn, req);
                 }
                 console.log(results);
                 return results.affectedRows;
@@ -64,7 +71,7 @@ const employeeResolver = {
                 logger.error('insertUpdateEmployee: ' + error);
                 throw error;
             } finally {
-                if (conn) await db.endPoolConnection(conn);
+                if (conn) await conn.end();
             }
         },
     },
