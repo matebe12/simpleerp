@@ -1,6 +1,8 @@
 <template>
     <v-card>
-        <v-toolbar color="primary" dark>직원 등록</v-toolbar>
+        <v-toolbar color="#2C2E3E" dark class="window-header"
+            >직원 등록</v-toolbar
+        >
         <v-card-text>
             <br />
             <h3>* 필수항목</h3>
@@ -16,6 +18,7 @@
                                 :value="selectUserId"
                                 ref="userId"
                                 @input="checkId"
+                                id="userId"
                                 :error-messages="
                                     check && !isUpdate
                                         ? '중복된 아이디 입니다.'
@@ -78,9 +81,8 @@
                         </v-col>
                         <v-col cols="12" sm="6" md="4">
                             <v-btn
-                                color="primary"
+                                color="#2C2E3E"
                                 @click="isOpen = true"
-                                x-large
                                 class="btnm"
                             >
                                 주소찾기
@@ -119,7 +121,12 @@
                     >
                         등록
                     </v-btn>
-                    <v-btn color="error" @click="closeModal" large class="btnm">
+                    <v-btn
+                        color="#730000"
+                        @click="closeModal"
+                        large
+                        class="btnm"
+                    >
                         닫기
                     </v-btn>
                 </v-card-actions>
@@ -219,7 +226,9 @@ export default class SignUp extends Vue {
     }
     async insertUpdateEmployee(): Promise<void> {
         try {
-            this.userId = (this.$refs.userId as HTMLFormElement).value;
+            this.userId = (document.getElementById(
+                'userId'
+            ) as HTMLFormElement).value; //(this.$refs.userId as HTMLFormElement).value;
             const req = {
                 USER_ID: this.userId,
                 USER_NM: this.userName,
@@ -244,6 +253,8 @@ export default class SignUp extends Vue {
     //@Watch('selectUserId')
 
     public async checkId(val: string): Promise<any> {
+        console.log(val);
+
         const result = await checkId({ USER_ID: val });
         this.check = result.data.data.checkId;
         console.log(this.check);

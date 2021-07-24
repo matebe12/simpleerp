@@ -1,143 +1,117 @@
 <template>
-    <v-container class="spacing-playground pa-6" fluid>
+    <v-container fluid>
         <h1>직원관리</h1>
         <v-card outlined class="spacing-playground pa-6" fluid>
-            <v-row align="center" justify="center" class="inputfield">
-                <v-col cols="12" sm="6" md="2">
+            <div class="searchform">
+                <div class="searchform">
+                    <span class="search-label">아이디</span>
                     <v-text-field
-                        label="아이디"
                         outlined
+                        dense
                         v-model="userId"
+                        hide-details
                     ></v-text-field>
-                </v-col>
-                <v-col cols="12" sm="6" md="2">
+                </div>
+                <div class="searchform">
+                    <span class="search-label">이름</span>
                     <v-text-field
-                        label="이름"
                         outlined
+                        dense
                         v-model="userNm"
+                        hide-details
                     ></v-text-field>
-                </v-col>
-                <v-col cols="12" sm="6" md="2">
+                </div>
+                <div class="searchform">
+                    <span class="search-label">이메일</span>
+
                     <v-text-field
-                        label="이메일"
                         outlined
+                        dense
                         v-model="userEmail"
+                        hide-details
                     ></v-text-field>
-                </v-col>
-                <v-col cols="12" sm="6" md="2">
+                </div>
+                <div class="searchform">
+                    <span class="search-label">사용여부</span>
+
                     <v-select
                         v-model="useYN"
                         :items="items"
-                        label="사용여부"
+                        dense
                         outlined
+                        hide-details
                     ></v-select>
-                </v-col>
-                <v-row align="end" justify="end" class="btnArea">
-                    <v-btn color="error" @click="reset" x-large class="btnm">
-                        초기화
-                    </v-btn>
+                </div>
+                <div>
                     <v-btn
-                        color="primary"
+                        color="#2C2E3E"
                         @click.prevent="searchEmployee"
-                        x-large
+                        elevation="2"
+                        dense
                         class="btnm"
                     >
                         검색
                     </v-btn>
-                </v-row>
-            </v-row>
+                </div>
+            </div>
         </v-card>
         <v-container class="spacing-playground pa-6" fluid>
             <v-row align="end" justify="end" class="btnArea">
                 <h2>total : {{ totalCnt }}</h2>
                 <v-spacer />
-                <v-btn color="error" @click="reset" x-large class="btnm">
+                <v-btn color="#730000" @click="reset" class="btnm">
                     비밀번호 초기화
                 </v-btn>
                 <v-btn
-                    color="primary"
+                    color="#2C2E3E"
                     @click="onSelectId('', false)"
-                    x-large
-                    class="btnm"
+                    class="btnm  btn"
                 >
                     등록
                 </v-btn>
             </v-row>
-            <v-simple-table
-                fixed-header
-                height="500px"
-                class="overflow-y-auto elevation-1"
-                dense
-            >
-                <template v-slot:default>
-                    <thead>
-                        <tr>
-                            <th style="width:2%">
-                                <v-checkbox
-                                    v-model="allSelected"
-                                    @click="selectAll"
-                                ></v-checkbox>
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                아이디
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                이름
-                            </th>
-                            <th class="text-center" style="width:10%">
-                                이메일
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                사용여부
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                생년월일
-                            </th>
-                            <th class="text-center" style="width:10%">
-                                주소
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                생성자
-                            </th>
-                            <th class="text-center" style="width:5%">
-                                생성일
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr
-                            v-for="(item, index) in employee"
-                            :key="index"
-                            @click="onCheckUser(item)"
-                        >
-                            <td>
-                                <v-checkbox
-                                    v-model="selected"
-                                    :value="item"
-                                ></v-checkbox>
-                            </td>
 
-                            <td class="text-center">
-                                <a
-                                    href="javascript:void(0);"
-                                    class="userId"
-                                    @click="onSelectId(item.USER_ID, true)"
-                                    >{{ item.USER_ID }}</a
-                                >
-                            </td>
-                            <td class="text-center">{{ item.USER_NM }}</td>
-                            <td class="text-center">{{ item.USER_EMAIL }}</td>
-                            <td class="text-center">{{ item.USE_YN }}</td>
-                            <td class="text-center">{{ item.USER_BIRTH }}</td>
-                            <td class="text-center">{{ item.USER_ADDRESS }}</td>
-                            <td class="text-center">{{ item.CREATED_NO }}</td>
-                            <td class="text-center">{{ item.CREATED_DT }}</td>
-                        </tr>
-                    </tbody>
+            <v-data-table
+                :headers="headers"
+                :items="employee"
+                hide-default-footer
+                class="elevation-1"
+                v-model="selected"
+                item-key="USER_ID"
+                show-select
+            >
+                <template v-slot:[`item.USER_ID`]="{ item }">
+                    <a
+                        href="javascript:void(0);"
+                        class="userId"
+                        @click="onSelectId(item.USER_ID, true)"
+                        >{{ item.USER_ID }}</a
+                    >
                 </template>
-            </v-simple-table>
+                <template v-slot:no-data>
+                    <v-btn color="primary">
+                        Reset
+                    </v-btn>
+                </template>
+            </v-data-table>
         </v-container>
-        <v-dialog
+        <modal
+            name="bar"
+            draggable=".window-header"
+            :width="600"
+            height="auto"
+            :adaptive="true"
+        >
+            <SignupModal
+                ref="employeeModal"
+                class="window-header"
+                @closeModal="closeModal"
+                @searchEmployee="searchEmployee"
+                :selectUserId="this.selectUserId"
+                :isUpdate="this.isUpdate"
+            />
+        </modal>
+        <!-- <v-dialog
             v-model="dialog"
             persistent
             max-width="600px"
@@ -146,12 +120,12 @@
             <SignupModal
                 ref="employeeModal"
                 v-if="dialog"
-                @closeModal="dialog = !dialog"
+                @closeModal="closeModal"
                 @searchEmployee="searchEmployee"
                 :selectUserId="this.selectUserId"
                 :isUpdate="this.isUpdate"
             />
-        </v-dialog>
+        </v-dialog> -->
         <div class="text-center">
             <v-pagination
                 v-model="page"
@@ -191,7 +165,7 @@ export default class Employee extends Vue {
     userId = '';
     userNm = '';
     userEmail = '';
-    useYN = '';
+    useYN = '전체';
     page = 1;
     dialog = false;
     valid = true;
@@ -199,8 +173,22 @@ export default class Employee extends Vue {
     selectUserId = '';
     isUpdate = false;
     items = ['전체', '사용', '미사용'];
-    selected: Employees[] = [];
+    selected: any = [];
     employee: Employees[] = [];
+    headers = [
+        {
+            text: '아이디',
+            align: 'center',
+            value: 'USER_ID',
+        },
+        { text: '이름', value: 'USER_NM' },
+        { text: '이메일', value: 'USER_EMAIL' },
+        { text: '사용 여부', value: 'USE_YN' },
+        { text: '생년월일', value: 'USER_BIRTH' },
+        { text: '주소', value: 'USER_ADDRESS' },
+        { text: '생성자', value: 'CREATED_NO' },
+        { text: '생성일', value: 'CREATED_DT' },
+    ];
     selectAll(): void {
         if (this.allSelected) {
             this.selected = this.employee;
@@ -223,6 +211,7 @@ export default class Employee extends Vue {
         if (index == -1) this.selected.push(user);
         else this.selected.splice(index, 1);
     }
+
     async onSelectId(id: string, isUpdate: boolean): Promise<void> {
         this.selectUserId = id;
         this.isUpdate = isUpdate;
@@ -232,7 +221,12 @@ export default class Employee extends Vue {
         //     this.selectUserId
         // );
         //}
-        this.dialog = !this.dialog;
+        this.$modal.show('bar');
+    }
+    closeModal(): void {
+        console.log('fcjkhcjkchnjk');
+
+        this.$modal.hide('bar');
     }
     async searchEmployee(n: number): Promise<void> {
         try {
@@ -261,6 +255,18 @@ export default class Employee extends Vue {
 </script>
 
 <style scoped>
+.searchform {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.search-label {
+    font-weight: bold;
+    margin-right: 1em;
+}
+
 .inputfield {
     margin-top: 1%;
     margin-left: 1%;
@@ -270,6 +276,9 @@ export default class Employee extends Vue {
     margin-bottom: 1%;
     margin-left: 1%;
     margin-right: 1%;
+}
+.search-col {
+    height: 50px;
 }
 .btnm {
     margin-left: 1%;
@@ -296,5 +305,12 @@ export default class Employee extends Vue {
 
 ::-webkit-scrollbar-thumb:hover {
     background: black;
+}
+
+input[type='text'] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
 }
 </style>

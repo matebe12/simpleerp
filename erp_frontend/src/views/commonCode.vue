@@ -359,6 +359,8 @@ import { isEmpty } from '@/util/util';
     },
 })
 export default class CommonCode extends Vue {
+    items = ['Group Item #1', 'Group Item #2', 'Group Item #3'];
+    index = 1;
     updatecode = {};
     selectCode = {};
     selectCode1: any = {};
@@ -451,6 +453,9 @@ export default class CommonCode extends Vue {
     }
     async created(): Promise<void> {
         this.getCodeList('root', 1);
+    }
+    mounted(): void {
+        console.log(2);
     }
 }
 </script>

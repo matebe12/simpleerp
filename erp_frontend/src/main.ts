@@ -5,6 +5,8 @@ import store from './store';
 import vuetify from './plugins/vuetify';
 import 'vuetify/dist/vuetify.min.css';
 import VuetifyDraggableTreeview from 'vuetify-draggable-treeview';
+import VModal from 'vue-js-modal';
+Vue.use(VModal);
 Vue.use(VuetifyDraggableTreeview);
 Vue.config.productionTip = false;
 

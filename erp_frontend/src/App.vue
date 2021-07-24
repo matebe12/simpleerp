@@ -53,4 +53,6 @@ export default Vue.extend({
 });
 </script>
 
-<style scoped></style>
+<style scoped>
+@import './assets/css/common.css';
+</style>

@@ -57,6 +57,9 @@
 .v-list-item--active .v-list-item .v-list-item--link .theme--light {
     background-color: black;
 }
+.v-btn__content {
+    color: #fff !important;
+}
 /*
  * The following styles are auto-applied to elements with
  * transition="modal" when their visibility is toggled
@@ -72,4 +75,12 @@
 
 .modal-leave-active {
     opacity: 0;
+}
+
+.v-data-table-header {
+    background-color: #2c2e3e;
+}
+.v-data-table-header i,
+.v-data-table-header span {
+    color: #fff;
 }
