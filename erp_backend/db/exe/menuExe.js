@@ -12,7 +12,6 @@ const getMenuListNotLoader = async (conn = null, req = null) => {
 
 const getMenuList = async (conn = null, PARENT_NO) => {
     try {
-        console.log(PARENT_NO);
         let str = '';
         if (PARENT_NO.length > 0) {
             str = `

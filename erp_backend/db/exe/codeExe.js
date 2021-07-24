@@ -78,7 +78,6 @@ module.exports = {
             let str1 = `SELECT 	CONCAT('${CODE_ID}', SUBSTR(IFNULL((CAST(SUBSTR(MAX(CODE_ID), LENGTH(MAX(CODE_ID)) - 8, 9) AS UNSIGNED) + 1000000001), '1000000001'), 2, 9)) AS CODE_ID
 		FROM   	toyerp.common_code where code_type = '${CODE_ID}';`;
             let nextval = await conn.query(str1);
-            console.log(nextval[0]['CODE_ID']);
             let parent = PARENT_CODE == '' ? 'root' : PARENT_CODE;
             let str2 = `
                 INSERT INTO toyerp.common_code(CODE_ID,CODE_NM, PARENT_CODE, USE_YN , CREATED_NO, CODE_TYPE)
@@ -107,6 +106,7 @@ module.exports = {
         conn = mariadb.Connection,
         { CODE_ID, CODE_NM, PARENT_CODE, USE_YN }
     ) {
+        console.log(CODE_ID, CODE_NM, PARENT_CODE, USE_YN);
         try {
             await conn.beginTransaction();
             let result = [];
@@ -122,7 +122,6 @@ module.exports = {
             `;
             result = await conn.query(str);
             conn.commit();
-            console.log(result);
             return result;
         } catch (error) {
             logger.error('updateCode: ' + error);
@@ -141,7 +140,6 @@ module.exports = {
              WHERE PARENT_CODE = '${CODE_ID}'
             `;
             result1 = await conn.query(str1);
-            console.log(result1[0]['CNT']);
             if (result1[0]['CNT'] > 0)
                 throw new Error('자식 코드들이 존재 합니다.');
             let result2 = [];

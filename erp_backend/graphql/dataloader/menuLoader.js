@@ -6,7 +6,6 @@ import { getMenuList } from '../../db/exe/menuExe';
 const getMenuLoader = new dataloader(
     async req => {
         const conn = await getPoolConnection();
-        console.log('dd', req);
         try {
             const result = await getMenuList(conn, req);
             //console.log(result);

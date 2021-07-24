@@ -19,8 +19,6 @@ const employeeResolver = {
             try {
                 const results = await getEmployee(conn, req);
                 const total = await getEmployeeTotal(conn, req);
-                //console.log(results);
-                console.log(total);
                 return { Employee: results, TotalCnt: total[0].TOTAL };
             } catch (error) {
                 logger.error('getEmployee: ' + error);
@@ -47,7 +45,6 @@ const employeeResolver = {
             let conn = await getPoolConnection();
             try {
                 const results = await checkId(conn, req);
-                console.log(results[0].result);
                 return results[0].result;
             } catch (error) {
                 logger.error('checkId: ' + error);
@@ -65,7 +62,6 @@ const employeeResolver = {
                 } else {
                     results = await updateEmployee(conn, req);
                 }
-                console.log(results);
                 return results.affectedRows;
             } catch (error) {
                 logger.error('insertUpdateEmployee: ' + error);
