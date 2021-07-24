@@ -205,12 +205,12 @@ export default class Employee extends Vue {
     resetValidation(): void {
         (this.$refs.form as HTMLFormElement).resetValidation();
     }
-    onCheckUser(user: Employees): void {
-        //console.log(this.selected.indexOf(user));
-        let index = this.selected.indexOf(user);
-        if (index == -1) this.selected.push(user);
-        else this.selected.splice(index, 1);
-    }
+    // onCheckUser(user: Employees): void {
+    //     //console.log(this.selected.indexOf(user));
+    //     let index = this.selected.indexOf(user);
+    //     if (index == -1) this.selected.push(user);
+    //     else this.selected.splice(index, 1);
+    // }
 
     async onSelectId(id: string, isUpdate: boolean): Promise<void> {
         this.selectUserId = id;

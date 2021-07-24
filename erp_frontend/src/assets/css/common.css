@@ -82,5 +82,8 @@
 }
 .v-data-table-header i,
 .v-data-table-header span {
-    color: #fff;
+    color: #fff !important;
+}
+.ps {
+    height: 300px;
 }

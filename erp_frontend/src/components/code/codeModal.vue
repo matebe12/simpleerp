@@ -1,6 +1,8 @@
 <template>
     <v-card>
-        <v-toolbar color="primary" dark>코드등록</v-toolbar>
+        <v-toolbar color="#2C2E3E" dark class="window-header"
+            >코드등록</v-toolbar
+        >
         <v-card-text>
             <br />
             <h3>* 필수항목</h3>
@@ -39,7 +41,7 @@
                             label="*코드 아이디"
                             required
                             outlined
-                            :readonly="select1 != 1 || !isUpdate"
+                            :readonly="level != 1 || isUpdate"
                             v-model="codeId"
                             @input="checkCodeId"
                             :error-messages="
@@ -76,7 +78,7 @@
                 <v-card-actions>
                     <v-spacer></v-spacer>
                     <v-btn
-                        color="primary"
+                        color="#2C2E3E"
                         @click="insertUpdateCode"
                         large
                         class="btnm"
@@ -86,7 +88,7 @@
                         등록
                     </v-btn>
                     <v-btn
-                        color="primary"
+                        color="#2C2E3E"
                         @click="insertUpdateCode"
                         large
                         class="btnm"
@@ -95,7 +97,12 @@
                     >
                         수정
                     </v-btn>
-                    <v-btn color="error" @click="closeModal" large class="btnm">
+                    <v-btn
+                        color="#730000"
+                        @click="closeModal"
+                        large
+                        class="btnm"
+                    >
                         닫기
                     </v-btn>
                 </v-card-actions>
@@ -135,6 +142,8 @@ export default class CodeModal extends Vue {
         this.$emit('closeModal');
     }
     async created(): Promise<void> {
+        console.log(this.level, this.isUpdate);
+
         if (this.level == 1) {
             this.select1 = '1';
             try {
@@ -245,8 +254,10 @@ export default class CodeModal extends Vue {
                 USE_YN: this.useYN,
                 IS_UPDATE: this.isUpdate,
             };
-            if (this.updatecode) req.CODE_ID = this.updatecode['CODE_ID'];
-            if (this.updatecode && this.level == 1) req.PARENT_CODE = 'root';
+            if (this.updatecode && this.isUpdate)
+                req.CODE_ID = this.updatecode['CODE_ID'];
+            // console.log(req.CODE_ID, 'jhjkjkhjkh', this.updatecode);
+            if (this.level == 1) req.PARENT_CODE = 'root';
             const result = await insertUpdateCode(req);
             let level = 1;
             if (this.select1 != '1' && this.select2 == '1' && !this.isUpdate)
