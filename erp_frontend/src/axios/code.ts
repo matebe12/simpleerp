@@ -1,5 +1,5 @@
 import instance from './index';
-import AxiosResponse from './index';
+import store from '@/store/index';
 
 async function insertUpdateCode({
     CODE_ID,
@@ -8,6 +8,8 @@ async function insertUpdateCode({
     IS_UPDATE,
     PARENT_CODE,
 }: any): Promise<any> {
+    store.commit('turn_on');
+
     const response = await instance.post('', {
         query: `
     mutation{
@@ -19,6 +21,7 @@ async function insertUpdateCode({
 }
 
 async function checkCodeId({ CODE_ID }: any): Promise<any> {
+    store.commit('turn_off');
     const response = await instance.post('', {
         query: `
     mutation{
@@ -30,6 +33,7 @@ async function checkCodeId({ CODE_ID }: any): Promise<any> {
 }
 
 async function checkCodeName({ CODE_NM }: any): Promise<any> {
+    store.commit('turn_off');
     const response = await instance.post('', {
         query: `
     mutation{
@@ -41,6 +45,7 @@ async function checkCodeName({ CODE_NM }: any): Promise<any> {
 }
 
 async function getCodeList({ PARENT_CODE }: any): Promise<any> {
+    store.commit('turn_on');
     const response = await instance.post('', {
         query: `
     query{
@@ -58,6 +63,8 @@ async function getCodeList({ PARENT_CODE }: any): Promise<any> {
 }
 
 async function getCodeOne({ CODE_ID }: any): Promise<any> {
+    store.commit('turn_on');
+
     console.log(CODE_ID);
 
     const response = await instance.post('', {
@@ -77,6 +84,8 @@ async function getCodeOne({ CODE_ID }: any): Promise<any> {
 }
 
 async function deleteCode({ CODE_ID }: any): Promise<any> {
+    store.commit('turn_on');
+
     console.log(CODE_ID);
 
     const response = await instance.post('', {

@@ -300,6 +300,8 @@ export default class CommonCode extends Vue {
     }
     async getCodeList(parent: string, level: number): Promise<void> {
         try {
+            console.log(parent);
+
             const result = await getCodeList({ PARENT_CODE: parent });
 
             switch (level) {

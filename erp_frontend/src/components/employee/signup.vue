@@ -176,6 +176,7 @@ export default class SignUp extends Vue {
     isOpen = false;
     valid = true;
     check = 0;
+    timer = 0;
 
     async bindEmployee(): Promise<void> {
         console.log('update');
@@ -254,9 +255,12 @@ export default class SignUp extends Vue {
 
     public async checkId(val: string): Promise<any> {
         console.log(val);
-
-        const result = await checkId({ USER_ID: val });
-        this.check = result.data.data.checkId;
+        this.timer = setTimeout(async () => {
+            const result = await checkId({ USER_ID: val });
+            this.check = result.data.data.checkId;
+        }, 200);
+        // const result = await checkId({ USER_ID: val });
+        // this.check = result.data.data.checkId;
         console.log(this.check);
     }
     closeModal(): void {

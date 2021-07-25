@@ -1,6 +1,9 @@
 import instance from './index';
+import store from '@/store/index';
 
 async function getMenuList({ MENU_NO }: any): Promise<any> {
+    store.commit('turn_on');
+
     const response = await instance.post('', {
         query: `
             query{

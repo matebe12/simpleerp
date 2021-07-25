@@ -10,7 +10,14 @@ const state: State = {
 
 const actions: ActionTree<State, any> = {};
 
-const mutations: MutationTree<State> = {};
+const mutations: MutationTree<State> = {
+    turn_off: () => {
+        state.loading = false;
+    },
+    turn_on: () => {
+        state.loading = true;
+    },
+};
 
 //let mutations = {};
 

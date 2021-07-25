@@ -1,4 +1,5 @@
 import instance from './index';
+import store from '@/store/index';
 
 async function getEmployee({
     USER_ID,
@@ -7,6 +8,7 @@ async function getEmployee({
     USE_YN,
     PAGE,
 }: any): Promise<any> {
+    store.commit('turn_on');
     const response = await instance.post('', {
         query: `
     query{
@@ -31,6 +33,8 @@ async function getEmployee({
 }
 
 async function getEmployeeOne({ USER_ID }: any): Promise<any> {
+    store.commit('turn_on');
+
     const response = await instance.post('', {
         query: `
     query{
@@ -52,6 +56,7 @@ async function getEmployeeOne({ USER_ID }: any): Promise<any> {
 }
 
 async function checkId({ USER_ID }: any): Promise<any> {
+    store.commit('turn_off');
     const response = await instance.post('', {
         query: `
     mutation{
@@ -71,6 +76,7 @@ async function insertUpdateEmployee({
     USER_ADDRESS,
     IS_UPDATE,
 }: any): Promise<any> {
+    store.commit('turn_on');
     const response = await instance.post('', {
         query: `
     mutation{

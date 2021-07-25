@@ -25,7 +25,9 @@
 
                     <v-col cols="12" sm="6" md="4">
                         <v-select
-                            :disabled="select1 == '1' || isUpdate || level >= 2"
+                            :disabled="
+                                select1 == '1' || (isUpdate && level != 3)
+                            "
                             v-model="select2"
                             :items="items2"
                             item-text="name"
@@ -267,7 +269,11 @@ export default class CodeModal extends Vue {
 
             if (result.data.data['insertUpdateCode'] == 1) {
                 alert('등록 되었습니다.');
-                this.$emit('getCodeList', req.PARENT_CODE, this.level);
+                this.$emit(
+                    'getCodeList',
+                    this.selectCode['CODE_ID'],
+                    this.level
+                );
             } else {
                 alert('등록에 실패하였습니다. 다시 시도해주세요.');
             }
