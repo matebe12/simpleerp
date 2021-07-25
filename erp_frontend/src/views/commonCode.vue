@@ -62,7 +62,7 @@
                         hide-default-footer
                         class="elevation-1"
                         item-key="CODE_ID"
-                        height="320px"
+                        height="auto"
                     >
                         <template v-slot:[`item`]="{ item }">
                             <tr>
@@ -130,7 +130,7 @@
                         hide-default-footer
                         class="elevation-1"
                         item-key="CODE_ID"
-                        height="320px"
+                        height="auto"
                     >
                         <template v-slot:[`item`]="{ item }">
                             <tr>
@@ -198,7 +198,7 @@
                         hide-default-footer
                         class="elevation-1"
                         item-key="CODE_ID"
-                        height="320px"
+                        height="auto"
                     >
                         <template v-slot:[`item`]="{ item }">
                             <tr>
