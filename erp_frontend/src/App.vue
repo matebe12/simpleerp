@@ -1,17 +1,5 @@
 <template>
     <v-app>
-        <v-app-bar color="#2c2e3e" dense dark app>
-            <v-app-bar-nav-icon @click="mini = !mini"></v-app-bar-nav-icon>
-        </v-app-bar>
-        <v-navigation-drawer
-            v-model="drawer"
-            :mini-variant.sync="mini"
-            permanent
-            app
-            color="#2c2e3e"
-        >
-            <Drawer />
-        </v-navigation-drawer>
         <v-main>
             <transition name="modal" v-if="$store.state.loading.loading">
                 <div class="modal-mask">
@@ -39,17 +27,12 @@
 
 <script lang="ts">
 import Vue from 'vue';
-import Drawer from '@/components/common/drawer.vue';
+//import Drawer from '@/components/common/drawer.vue';
 export default Vue.extend({
     name: 'App',
     components: {
-        Drawer,
+        //Drawer,
     },
-    data: () => ({
-        drawer: true,
-        items: [],
-        mini: true,
-    }),
 });
 </script>
 

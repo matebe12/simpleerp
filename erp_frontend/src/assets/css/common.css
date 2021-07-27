@@ -87,3 +87,6 @@
 .ps {
     height: 300px;
 }
+[v-cloak] {
+    display: none;
+}
