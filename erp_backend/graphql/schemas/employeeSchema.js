@@ -22,6 +22,7 @@ const employeeType = gql`
             USE_YN: String!
             IS_UPDATE: Boolean
         ): Int
+        loginEmployee(USER_ID: String, USER_PW: String): Int
     }
     input RequestEmployee {
         USER_ID: String!
